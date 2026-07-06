@@ -1,0 +1,75 @@
+name: Build podcast audio and feed
+on:
+  push:
+    branches: [main]
+    paths: ['episodes/*.md']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install edge-tts
+      - name: Generate audio and rebuild feed
+        run: |
+          python - <<'EOF'
+          import glob, os, subprocess, datetime, email.utils, html
+
+          BASE = "https://tassana-hub.github.io/claude-byte-sized-podcast"
+
+          for md in sorted(glob.glob("episodes/*.md")):
+              mp3 = md[:-3] + ".mp3"
+              if os.path.exists(mp3):
+                  continue
+              text = open(md, encoding="utf-8").read()
+              for ch in "#*`>_[]":
+                  text = text.replace(ch, "")
+              open("_clean.txt", "w", encoding="utf-8").write(text)
+              subprocess.run(["edge-tts", "--voice", "en-GB-SoniaNeural",
+                              "-f", "_clean.txt", "--write-media", mp3],
+                             check=True)
+
+          items = []
+          for mp3 in sorted(glob.glob("episodes/*.mp3"), reverse=True)[:30]:
+              date = os.path.basename(mp3)[:-4]
+              md = mp3[:-4] + ".md"
+              notes = open(md, encoding="utf-8").read() if os.path.exists(md) else ""
+              dt = datetime.datetime.strptime(date, "%Y-%m-%d").replace(
+                  hour=6, tzinfo=datetime.timezone(datetime.timedelta(hours=9)))
+              url = f"{BASE}/episodes/{date}.mp3"
+              title = "Byte-sized — " + dt.strftime("%A, %d %B").replace(" 0", " ")
+              items.append(
+                  "  <item>\n"
+                  f"    <title>{title}</title>\n"
+                  f"    <description>{html.escape(notes)}</description>\n"
+                  f"    <guid>{url}</guid>\n"
+                  f"    <pubDate>{email.utils.format_datetime(dt)}</pubDate>\n"
+                  f'    <enclosure url="{url}" length="{os.path.getsize(mp3)}" type="audio/mpeg"/>\n'
+                  "  </item>")
+
+          feed = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+                  '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">\n'
+                  "<channel>\n"
+                  "  <title>Byte-sized</title>\n"
+                  f"  <link>{BASE}/</link>\n"
+                  "  <language>en-gb</language>\n"
+                  "  <description>Ana's daily newsletter digest</description>\n"
+                  "  <itunes:author>Ana</itunes:author>\n"
+                  + "\n".join(items) + "\n</channel>\n</rss>\n")
+          open("feed.xml", "w", encoding="utf-8").write(feed)
+          os.path.exists("_clean.txt") and os.remove("_clean.txt")
+          EOF
+      - name: Commit results
+        run: |
+          git config user.name "byte-sized-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add episodes feed.xml
+          git diff --cached --quiet || git commit -m "audio + feed"
+          git push
