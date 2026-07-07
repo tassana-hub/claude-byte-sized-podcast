@@ -19,6 +19,7 @@ pragmaticengineer@substack.com
 pragmaticengineer+the-pulse@substack.com
 aakashgupta@substack.com
 speedrun@substack.com
+thisweekinstartups@mail.beehiiv.com
 
 # Startups, VC & business
 sifted.eu
@@ -60,6 +61,7 @@ kleinkleinklein@substack.com
 unchartedterritories@substack.com
 worksinprogress@substack.com
 whyisthisinteresting@substack.com
+hello@densediscovery.com
 
 # Travel & hospitality
 phocuswire@news.phocuswire.com
