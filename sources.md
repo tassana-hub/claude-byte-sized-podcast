@@ -37,17 +37,20 @@ li@substack.com
 zyppysignal@substack.com
 thegeneralist@substack.com
 the-diff@ghost.io
+chenell@growthinreverse.com
 
 # Community & events
 davidspinks@substack.com
 communityinc@substack.com
 info@priyaparker.com
+priyaparker@substack.com
 rosiesherry@ghost.io
 nick@nickgray.net
 info@thedolectures.com
 no-reply@edco.global
 connect@edco.global
 ana.levidze@bevy.com
+catharina.nilsson@bevy.com
 
 # Marketing
 harry@marketingexamples.com
@@ -69,6 +72,7 @@ skift-newsletters@email.skift.com
 
 # Japan
 info@mailmag.isa.go.jp
+online@fukuoka-now.com
 
 # Design & creative
 hello@densedicovery.com
