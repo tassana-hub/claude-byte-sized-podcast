@@ -7,6 +7,52 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Monday, 20 July</title>
+    <description>Good morning, it&#x27;s Monday the twentieth of July, and this is Byte-sized, in six sections today.
+
+Japan and Asia Pacific.
+
+Nvidia is deepening its bet on Japan&#x27;s robotics and physical AI push. The company has unveiled a new world model, called Cosmos three Edge, built to help robots and vision systems perceive and navigate physical spaces in real time, and it&#x27;s positioning Japan as a proving ground for what it calls the physical AI ecosystem. That&#x27;s a bet on Japanese manufacturers and integrators as early adopters of embodied AI, rather than just another market for software licences. It fits a pattern that&#x27;s been building for a while: Japan&#x27;s industrial base, with its ageing workforce and long history of factory automation, is unusually well suited to being the place where AI moves out of chatboxes and into machines that actually do physical work. It&#x27;s a small item this morning, but a telling one: the frontier AI race is increasingly being fought over who controls the robots that act in the physical world, not just the models that talk. Via CSIS Strategic Technologies Program.
+
+Now, over to AI and tech.
+
+OpenAI has folded its standalone Codex app into a new ChatGPT desktop experience, which now offers three modes: Chat, Work, and Codex. Power users are not happy. One well known commentator called it a generational fumble, arguing that burying a beloved coding tool inside a general purpose app makes it harder to use, not easier, and strips away the identity that had built up around Codex as its own product. It&#x27;s a reminder that consolidation, however logical on a company&#x27;s roadmap or however much it simplifies the org chart, can alienate the power users who made a product&#x27;s reputation in the first place, and those are usually the users with the loudest megaphones.
+
+Staying with AI, there&#x27;s a sharp piece this week on why the next great drug company probably won&#x27;t be an AI company at all. The argument: identifying a promising drug candidate is only a tiny sliver of what it takes to bring a medicine to market. Almost all of the effort, cost, and time sits in validating that lab results and cell lines are reliable, then manufacturing at scale, animal toxicology, and three phases of human trials, none of which a language model can shortcut. So if AI models keep getting cheaper and more alike, standalone AI drug discovery startups may end up worth little more than their pitch deck and a ChatGPT subscription, while full stack biotechs that own their own labs and testing pipelines are better placed to actually capture the value AI creates. The wider lesson generalises well beyond pharma: wherever a good model is only the first ten percent of a business, owning the other ninety percent is what actually protects the margin. Via Every.
+
+Elsewhere, China&#x27;s DeepSeek is reportedly developing its own AI inference chip, a move that would reduce its dependence on Nvidia and Huawei hardware as Chinese firms continue to face American semiconductor export restrictions. If it works, it&#x27;s another sign that sanctions are pushing China toward self sufficiency rather than stopping it. And in Europe, the European Central Bank is said to be quizzing banks about their exposure to Mythos, Anthropic&#x27;s newest AI model, as regulators try to get ahead of a possible new category of financial risk before it becomes one, rather than after. Meanwhile, the White House has launched a cybersecurity clearinghouse named Gold Eagle, built to use frontier AI to speed up vulnerability scanning and exploit detection for both government and private sector defenders, part of a broader executive order on AI innovation and security. All three, via CSIS Strategic Technologies Program.
+
+Now, over to startups and venture.
+
+It&#x27;s a quiet week for fresh funding news, but one story stood out. Granola, the AI meeting notetaker now valued at one and a half billion dollars, is facing exactly the problem that hits every breakout feature eventually, which is that Notion, OpenAI, and Zoom have all copied it. Granola&#x27;s co-founder says running the company now feels like a knife fight that never ends, and the company&#x27;s answer is to bet on owning the broader workflow around meetings, not just the note taking itself, on the theory that a habit is harder to copy than a feature. It&#x27;s a useful case study in how thin the moat around a single clever product really is, once the giants notice it&#x27;s working. Via Every.
+
+A related trend worth watching: some smaller companies are finding a second business entirely in selling their own data back to the frontier labs. One games publisher built a public leaderboard scoring how well the big AI models play simple games, in partnership with two major labs, only to discover that models which make novel discoveries in maths and science lose the vast majority of their games against ordinary casual players. That gap between narrow brilliance and everyday competence turns out to be valuable: well structured, well labelled data from real human play is exactly what labs are short of, and companies like Reddit and Shutterstock have already turned that kind of data into hundreds of millions of dollars in recurring revenue. For founders sitting on unglamorous but well organised data, that&#x27;s a second product line hiding in plain sight. Via Every.
+
+Now, over to policy and geopolitics.
+
+The Center for Strategic and International Studies flags a striking gap in America&#x27;s counter-drone defences ahead of next year&#x27;s World Cup: since twenty eighteen, stadiums and venues have asked the FBI and Homeland Security for counter-drone help around a hundred and twenty one thousand times, and been granted it on only seventy seven occasions. That&#x27;s a policy bottleneck hiding in plain sight, and one that matters well beyond sport, given how central small drones have become to modern conflict, protest disruption, and terrorism alike.
+
+On a related note, the same CSIS briefing points out that Russia has increased its ballistic missile launches against Ukraine by more than seven hundred percent between twenty twenty three and twenty twenty five, while the share of those missiles that Ukraine manages to intercept has dropped by thirty six percent over the same period. Separately, roughly a third of the eighty seven point six billion dollar supplemental budget the White House recently sent to Congress appears to be driven purely by the cost of the Iran conflict. Taken together, the numbers describe a war footing, in more than one theatre, that&#x27;s proving expensive and hard to keep pace with, regardless of how any single front line looks on a map.
+
+And at the United Nations, the Secretary-General has issued an unusually blunt call for stronger global AI governance, warning that the technology is advancing faster than governments can regulate it, and pointing specifically at frontier models, the data centres that power them, and autonomous weapons as the areas most urgently in need of rules. Via CSIS.
+
+Now, over to community, events and marketing.
+
+Priya Parker has a nice idea worth stealing this week: the hot takes party. Instead of opening a team gathering with a big, high stakes conversation, she has groups go around the table sharing deliberately trivial, defendable opinions, things like whether winter or autumn is the better season. The logic is that practising disagreement on something that doesn&#x27;t matter builds the trust a group needs to handle disagreement on something that does, later, when it counts. It&#x27;s a cheap, low risk warm up exercise that any team offsite or community meetup could borrow directly, and it costs nothing beyond a bit of nerve to go first. Via Priya Parker.
+
+And in hospitality marketing, chef Tom Kerridge is fronting a campaign called Hashtag VAT is the Problem, pushing the British government to cut value added tax for pubs and restaurants, on the argument that these venues aren&#x27;t just selling food and drink, they&#x27;re the last bit of infrastructure many communities have left for people to gather in. Whatever you think of the policy ask itself, the marketing move is the interesting part to borrow: a well known, trusted face turning a dry tax argument into a shareable, personal campaign, rather than leaving it to an industry body&#x27;s press release. Via The DO Lectures.
+
+Now, over to one interesting thing.
+
+A dispatch from Uncharted Territories makes the case that clans, meaning large, multi generational networks of blood relatives, have been quietly bad for human progress. Because trust in a clan runs along bloodlines, cooperation between clans is hard, cooperation with total strangers is even harder, and individual ambition gets taxed away, since any one person&#x27;s success ends up shared across the whole extended family. The piece argues that the medieval Catholic Church&#x27;s long campaign against cousin marriage weakened Europe&#x27;s clans over centuries, and that the resulting vacuum is what got filled by guilds, chartered towns, universities, and eventually stock markets. It&#x27;s a reminder that some of the institutions we take most for granted, the ones that let strangers trust and trade with each other, exist because something older and stickier had to be dismantled first.
+
+That&#x27;s Byte-sized for Monday. Have a good one, and I&#x27;ll see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-20.mp3</guid>
+    <pubDate>Mon, 20 Jul 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-20.mp3" length="3262752" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Sunday, 19 July</title>
     <description>Hello, and welcome to Byte-sized, your week in review for the week of the thirteenth of July. I&#x27;m your host, and today we&#x27;ve got six sections lined up: Japan and Asia-Pacific, A.I. and tech, startups and venture, policy and geopolitics, community, events and marketing, and one interesting thing to close us out. Let&#x27;s get into it.
 
