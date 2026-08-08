@@ -44,7 +44,10 @@ jobs:
               dt = datetime.datetime.strptime(date, "%Y-%m-%d").replace(
                   hour=6, tzinfo=datetime.timezone(datetime.timedelta(hours=9)))
               url = f"{BASE}/episodes/{date}.mp3"
-              title = "Byte-sized — " + dt.strftime("%A, %d %B").replace(" 0", " ")
+              if dt.weekday() == 6:
+                  title = "Byte-sized — Week in review, " + dt.strftime("%d %B").lstrip("0")
+              else:
+                  title = "Byte-sized — " + dt.strftime("%A, %d %B").replace(" 0", " ")
               items.append(
                   "  <item>\n"
                   f"    <title>{title}</title>\n"
