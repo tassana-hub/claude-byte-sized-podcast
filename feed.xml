@@ -7,6 +7,62 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Saturday, 15 August</title>
+    <description>Hello, it&#x27;s Saturday the fifteenth of August, and this is Byte-sized, your six-part rundown of today&#x27;s newsletters, in about ten to fifteen minutes.
+
+Japan and Asia-Pacific first.
+
+The Center for Strategic and International Studies has a new paper from Makoto Tsujiguchi arguing that Japan&#x27;s creative industries are becoming a strategic pillar of its economic policy. The idea is straightforward: pair Japan&#x27;s globally competitive intellectual property with America&#x27;s dominant digital platforms, and the two countries can expand their reach across the Indo-Pacific, deepen digital trade, and compete harder for global audiences against Korean and Chinese content industries, all while shaping the information environment and deepening people-to-people ties along the way. It is as much a soft-power argument as an economic one: culture as a lever for the alliance, not just entertainment for its own sake. Via CSIS Japan Chair.
+
+Staying regional, CSIS also published its monthly Pac-Tech Pulse, tracking technology policy across the Indo-Pacific, and Japan features prominently. Tokyo has released a second Artificial Intelligence Basic Plan, aimed at accelerating the rollout of smart technologies while tightening up cybersecurity and regulatory oversight. It lands alongside a wave of regional moves: Australia has stood up a new AI framework, an Office of AI, and rules forcing data centres to underwrite the power and water they consume; South Korea is pushing &quot;physical AI&quot; strategies for robotics, ports and manufacturing; Thailand has tightened its screening of data centre investment; and Vietnam has published its first official list of high-risk AI systems. The throughline is that Asia-Pacific governments are moving from AI enthusiasm to AI governance, all at once, and Japan is positioning itself firmly on the regulatory end of that spectrum. Via CSIS Pac-Tech Pulse.
+
+Reuters, picked up in CSIS&#x27;s Nuclear Policy News briefing, explains why North Korea has been ramping up criticism of Japan. Pyongyang has stepped up its rhetoric against Japan&#x27;s military buildup and its security cooperation with the United States and South Korea, framing all three as a threat to regional stability. It&#x27;s a reminder that Japan&#x27;s own defence posture is increasingly part of the story in Northeast Asian tension, not just a bystander to it. Via CSIS Nuclear Policy News.
+
+And CSIS&#x27;s Southeast Asia programme turned its podcast to Cambodia&#x27;s scam centre ecosystem this week, with reporter Shibani Mahtani discussing how the industry has evolved and why its implications now reach well beyond Cambodia&#x27;s own borders, into the wider region&#x27;s trafficking and fraud networks. Via CSIS Southeast Asia Radio.
+
+Now, over to AI and tech.
+
+The headline model release this week was Grok four point six from SpaceXAI, which the company says now matches GPT five point six Sol on the main industry benchmark and overtakes China&#x27;s Kimi K3, with particular strength in long-running coding and agent tasks. It&#x27;s notably cheaper too, priced at two dollars per million input tokens and six dollars per million output tokens, well under half of what GPT five point six costs to run in standard mode. Via TLDR.
+
+Google, meanwhile, rolled out Gemini three point seven Flash just three weeks after its predecessor, an unusually fast turnaround the company puts down to developer feedback, alongside a temporary fifty percent price cut aimed squarely at coding and agent workloads. OpenAI answered with a preview of an &quot;Ultrafast&quot; mode for GPT five point six Sol, capable of fourteen times its standard processing speed. The frontier labs are now racing each other on speed and price as much as raw intelligence. Via TLDR.
+
+The bigger financial story, though, is Anthropic. Investors are now pricing a potential initial public offering at over two trillion dollars, which would make it the largest listing in history, on the back of projected annualised revenue of up to one hundred and twenty billion dollars by the end of the year. On the product side, the company also upgraded Claude in Chrome this week, so the browser side panel now runs a full Cowork session that saves to your account and picks up on desktop or mobile. It&#x27;s a striking combination for a company that barely existed as a household name three years ago, and it says a lot about how much capital is still flowing into frontier AI despite the wobbles elsewhere in the sector. Via TLDR.
+
+On the enterprise side, IBM is launching a dedicated OpenAI consulting practice, with plans to certify tens of thousands of consultants and jointly build AI offerings for finance, government, telecoms and retail. It lands in the same week Cisco reported its AI infrastructure orders have hit nine point three billion dollars for the year, and it&#x27;s the clearest sign yet that OpenAI is chasing the same enterprise services market that Anthropic, Cisco and the big consultancies are already fighting over. Via TLDR.
+
+Now, over to startups and venture.
+
+Swedish vibe-coding platform Lovable has closed a four hundred million dollar Series C, taking its valuation to thirteen point three billion dollars, with the round co-led by the EU&#x27;s new Scaleup Europe Fund alongside Menlo Ventures, and the company is reportedly on track for a revenue run rate approaching six hundred million dollars by the end of this month. It&#x27;s a slightly awkward fit for a fund meant to back European tech sovereignty in areas like defence and quantum, and it&#x27;s raised a few eyebrows in Sifted&#x27;s own newsroom, but it underlines just how much capital is chasing the application layer of AI right now. Via Sifted and TLDR.
+
+Index Ventures is reportedly in talks to lead a five hundred million dollar round for a new AI lab founded by an ex-DeepMind researcher, focused on world models, the technology that lets AI systems simulate and reason about physical environments rather than just text. If it closes, it would be one of the largest seed-stage AI bets of the year, and it lands in the same week that three departing partners from London&#x27;s LocalGlobe were reported to be exploring a spin-out fund of their own, part of a broader reshuffle running through European venture right now. Via Sifted.
+
+And Databricks has acquired Electric, a startup whose technology lets AI agents keep a fast, local copy of a database in sync with a central one. The team is joining Databricks&#x27; Neon unit to build infrastructure specifically for agentic applications, another sign that the plumbing underneath AI agents, not just the models themselves, is becoming its own competitive battleground. Via TLDR.
+
+Now, over to policy and geopolitics.
+
+CSIS&#x27;s Foreign Affairs piece this week, from Caitlin Welsh and Brian Hart, digs into what they call China&#x27;s Hunger Games: Beijing&#x27;s habit of using access to its enormous agricultural import market as geopolitical leverage, from suspending American soybean purchases during the tariff fight, to cutting off Canadian canola over EV tariffs, to briefly halting Japanese seafood and sake imports last year over Taiwan tensions. The twist is that this leverage cuts both ways. China imports over two hundred billion dollars of food a year and depends on foreign suppliers for the vast majority of its soybeans, which is exactly why Beijing is now racing to build up its own agricultural biotechnology, so it can eventually wield exports as a weapon too, not just imports. Via CSIS.
+
+And in Europe, Bloomberg reports that Sweden, one of the continent&#x27;s most committed disarmament voices, is quietly rethinking its historic rejection of nuclear-armed alliances as the perceived threat from Russia grows. It&#x27;s a small but telling data point in a broader pattern of traditionally neutral or dovish states hardening their security posture, and it landed the same day NATO jets shot down a drone that had entered Latvian airspace, which Latvia&#x27;s military blamed on Russian electromagnetic warfare. Via CSIS Nuclear Policy News.
+
+Further south, Saudi Arabia and thirteen other countries have confirmed a new maritime defence coalition to protect shipping through the Bab-el-Mandeb Strait, the Red Sea and the Gulf of Aden, with more members expected to join. The Financial Times frames it alongside Pakistan&#x27;s own more assertive turn, including a fresh defence pact with Saudi Arabia and Turkey, as part of a wider reshuffling of Middle Eastern and South Asian security alliances that&#x27;s easy to miss amid the AI headlines but matters just as much for anyone tracking where the next flashpoints sit. Via CSIS Nuclear Policy News.
+
+Now, over to community, events and marketing.
+
+Priya Parker, best known for The Art of Gathering, is following it up with a new book called The Art of Fighting, about how groups stay together through real conflict rather than falling apart into ghosting, walkouts and lawsuits. Her practical takeaway is that most conflict advice out there is written for pairs, couples, business partners, but groups need their own rituals and infrastructure for handling tension, the same kind of deliberate design she&#x27;s long argued goes into a good gathering. It&#x27;s worth stealing for anyone running a team, a community or a family through a rough patch, whether that&#x27;s a seating chart fight or a group chat that&#x27;s quietly imploding. Via Priya Parker&#x27;s newsletter.
+
+And Marketing Brew flagged what it&#x27;s calling the rise of the &quot;brand puppet,&quot; with skincare brand CeraVe among those leaning into cartoonish, personality-driven characters in their social content rather than straight product messaging, as a way to cut through an increasingly noisy feed. The idea worth stealing: a recurring character can carry a brand&#x27;s voice further, and feel less like an ad, than another polished product post ever will. Via Marketing Brew.
+
+And finally, one interesting thing.
+
+Ahead of Delhi&#x27;s badminton world championships, the city has been hiring people for a genuinely strange job: professional langur-monkey impersonators. The screech of a langur is apparently the only reliable way to scare off the rhesus macaques that roam the city stealing food and causing chaos, so a handful of Indians have turned mimicking a much larger, more intimidating monkey into a paid pest-control gig, protecting the tournament venues one shriek at a time. Via Marginal Revolution.
+
+That&#x27;s Byte-sized for Saturday. Have a good weekend, and I&#x27;ll be back tomorrow with the week in review.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3</guid>
+    <pubDate>Sat, 15 Aug 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3" length="3739536" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Friday, 14 August</title>
     <description># Byte-sized — Thursday, 14 August
 
