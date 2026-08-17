@@ -7,6 +7,58 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Tuesday, 18 August</title>
+    <description>Hello, and welcome to Byte-sized for Tuesday, the eighteenth of August. Six sections today, so let&#x27;s get straight into it.
+
+First up, Japan and Asia-Pacific.
+
+Satellite imagery reviewed by CSIS&#x27;s Asia Maritime Transparency Initiative shows China has begun grading out what looks like the start of a new runway at Antelope Reef in the Paracel Islands, eight months after dredging first began there. The area being shaped matches the roughly ten-thousand-foot runways China has already built at Fiery Cross, Subi and Mischief Reef further south, and diggers are also working on the foundations of what looks like an aircraft hangar nearby. The reef&#x27;s landfill work is now essentially finished, with the reclaimed land totalling almost one thousand five hundred acres, and new buildings, paved parking and green space are turning what was a frontier outpost into a proper administrative base. It&#x27;s a reminder that Beijing&#x27;s slow, methodical build-out of the South China Sea has not paused even while attention elsewhere has moved on. Via CSIS.
+
+And a genuinely unusual double signal out of the Korean peninsula. South Korea&#x27;s president, Lee Jae Myung, used this weekend&#x27;s Liberation Day events to propose formal talks to finally end the Korean War, alongside new safeguards against border clashes and discussions to curb the North&#x27;s nuclear programme. Within hours, President Trump said he would substantially cut back the joint US-South Korea military drills due to start this week, citing cost, his own rapport with North Korea&#x27;s Kim Jong-un, and the South&#x27;s limited support during the recent conflict with Iran. Pyongyang&#x27;s only response so far has been silence, another ballistic missile test, and its first shots across the demilitarised zone this year, all while it keeps shipping troops and missiles to support Russia&#x27;s war in Ukraine. It looks less like reconciliation and more like North Korea being handed concessions for free, just as Seoul extends an olive branch of its own. Via International Intrigue.
+
+Now, over to AI and tech.
+
+Anthropic&#x27;s chief executive, Dario Amodei, made a rare public appearance to defend the company against a growing chorus of critics. Responding to an investor&#x27;s claim that his warnings about AI risk have backfired and are handing ammunition to opponents of new data centres, Amodei argued that locking AI down in a few hands versus spreading it widely is a false choice, and that Anthropic&#x27;s own regulatory proposals are designed to slow down the biggest labs while leaving smaller ones alone. His deeper point was about trust: he doesn&#x27;t think any amount of marketing will fix the public&#x27;s scepticism about AI, and that only real breakthroughs, in medicine especially, will shift opinion. Via The Rundown.
+
+Meanwhile, Chinese AI lab Zed dot AI released GLM five point three, a new open coding model that commentators say narrows the gap with the big American labs still further, largely on the strength of far more post-training rather than any new architecture. What&#x27;s notable isn&#x27;t just the model itself but the pace: where OpenAI and Anthropic tend to sit on their best internal models for months before release, Chinese labs are now shipping days after they&#x27;re ready, a rhythm increasingly fed by American data companies happily selling their reinforcement-learning expertise to Chinese buyers. Via TLDR.
+
+On the smaller end of the model spectrum, developer Simon Willison put Alibaba&#x27;s new Qwen three point eight, twenty seven billion parameter model through its paces and found it genuinely excellent, but almost comically over-eager: with its default reasoning setting, asking it to draw a simple pelican riding a bicycle took twenty one minutes and burned through twenty two thousand reasoning tokens before it produced an answer. Dialling the reasoning effort down fixed it instantly. It&#x27;s a neat illustration of a wider pattern in open models at the moment: raw capability is rarely the bottleneck any more, sensible defaults are. Via Simon Willison&#x27;s newsletter.
+
+And in a properly surprising acquisition, SpaceX has bought the AI coding tool Cursor, aiming to put its enormous stockpile of GPU capacity behind training stronger, cheaper models, with Elon Musk&#x27;s Grok four point six already offered up as a preview of what that partnership can do. It&#x27;s an odd-looking pairing on paper, a rocket company and a code editor, but it fits a broader trend of AI labs increasingly wanting to own their own compute rather than rent it. Via TLDR.
+
+And even Nvidia is having second thoughts about the sheer scale of its own commitments. The chipmaker is close to finalising a financing deal with OpenAI for a huge data centre campus in Ohio, but it has quietly cut its planned financial backstop for the first phase from two hundred and fifty billion dollars to under one hundred and twenty billion, after investors started asking pointed questions about how much risk Nvidia was taking onto its own books to guarantee demand for its chips. It is a small but telling sign that even the companies most enthusiastic about the AI build-out are starting to trim their exposure at the margins. Via TLDR.
+
+Now, over to startups and venture.
+
+Spanish startup Multiverse Computing is closing in on a five hundred million euro Series C, one of the largest fundraises any Spanish tech company has ever pulled off, taking its total funding past seven hundred million euros. Its pitch, built on technology inspired by quantum physics, is that it can shrink large AI models dramatically with barely any loss in accuracy, cutting compute costs for enterprise customers that already include HP, Bosch, Mercedes-Benz and the Bank of Canada. The company expects to hit two hundred million euros in annual recurring revenue this year, and is increasingly being talked about as Europe&#x27;s answer to the American AI giants. Via Sifted.
+
+Elsewhere, Index Ventures is reportedly in talks to lead a five hundred million dollar round for a new London AI lab founded by Jack Parker-Holder, who led world model development at Google DeepMind, alongside six other DeepMind researchers who&#x27;ve joined him. The move lands amid a broader shake-up at DeepMind, with founder Demis Hassabis stepping back from day-to-day management, and it&#x27;s the latest sign that Europe&#x27;s AI talent is increasingly choosing to build locally rather than head to Silicon Valley. Via Sifted.
+
+And the wider European spinout scene is having a strong year: university spinouts across the continent pulled in almost four point nine billion euros in the first half of twenty twenty six, with Oxford and Cambridge leading on deal count but Aalto in Finland, the Technical University of Munich and TU Delft all drawing serious investor interest too. Investors say Europe&#x27;s push for tech sovereignty in areas like AI, quantum computing and chips is a big part of what&#x27;s driving the money toward university research now rather than later. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+In the Middle East, Jared Kushner held a rare direct meeting with Hamas&#x27;s political leadership in Egypt, pushing the American-backed roadmap for Gaza that requires the group to disarm before Israel agrees to a phased troop drawdown. He was due to see Prime Minister Netanyahu in Israel immediately afterwards, but with Israeli elections only a couple of months away, there&#x27;s little sign Netanyahu has room to offer any real concessions. Via International Intrigue.
+
+And European air defences are being tested more often than governments would like. A Spanish fighter jet on NATO duty shot down a suspected Russian drone over Romanian airspace, the fourth such incursion this year, while Ukraine launched one of its biggest strikes on Moscow all year, hitting logistics infrastructure deep inside Russia. Both sides are now stretched thin on air defence, with Russia pulling missile batteries back to protect the capital and American Patriot production not expected to catch up with demand until the end of the decade. Via International Intrigue.
+
+Now, over to community, events and marketing, one idea worth stealing today.
+
+Brands are rediscovering mascots as a way to cut through a crowded media landscape. Crocs has just launched Niles, a six foot crocodile, joining Liberty Mutual&#x27;s Liberty Biberty and Stanley Black and Decker&#x27;s talking toolbox, Stan. The logic is straightforward: unlike a celebrity endorsement, a mascot is an asset a brand owns outright, and it can carry the same personality across every campaign and market for years, building the kind of consistent recognition that&#x27;s increasingly rare when attention is this fragmented. Via TLDR Marketing.
+
+A second idea worth stealing, this one from clothing retail. Levi&#x27;s, Uniqlo and Zara are all leaning harder into repairs, alterations and resale as a way to stay relevant to younger shoppers who&#x27;d rather mend an old favourite than buy new. Levi&#x27;s is expanding in-store repair and teaching sewing skills directly, turning a cost centre into an ongoing reason for customers to come back. It&#x27;s a useful reminder that loyalty doesn&#x27;t only come from the first purchase, it comes from what a brand does for a customer long after the sale. Via TLDR Marketing.
+
+Now, one interesting thing.
+
+In this week&#x27;s Monday Media Diet from the newsletter Why Is This Interesting, veteran hotelier James McBride was asked who everyone should be reading that they&#x27;re not, and his answer was simply people over eighty. His point was that an enormous amount of media is dedicated to people telling you how to get rich, get fit or build a company, while almost nobody is listening to those who&#x27;ve actually lived a full life and come out the other side. Some of the clearest thinking he&#x27;s encountered, he said, has come from conversations with people in their eighties and nineties, who tend to have a much sharper sense of what actually matters.
+
+That is your six sections for today. Thank you for listening to Byte-sized, and I will be back with the next episode soon. Take care.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-18.mp3</guid>
+    <pubDate>Tue, 18 Aug 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-18.mp3" length="3524976" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Monday, 17 August</title>
     <description>Hello, and welcome to Byte-sized for Monday, the seventeenth of August. Six sections today, so let&#x27;s get straight into it.
 
@@ -1460,30 +1512,6 @@ That&#x27;s your byte sized digest for today. Have a great one.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-08.mp3</guid>
     <pubDate>Wed, 08 Jul 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-08.mp3" length="3762288" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Tuesday, 7 July</title>
-    <description>Good morning. It&#x27;s Tuesday, the seventh of July, and here are seven stories to catch you up.
-
-Chinese AI models are closing the gap with the West. A new analysis argues that last year&#x27;s DeepSeek moment was not a one off event but the start of a pattern. The newest model from the Chinese lab Zed dot AI, called G L M five point two, now performs close to the leading American closed models on coding and agent tasks, echoing the shock that DeepSeek&#x27;s earlier release caused within the American AI community. Analysts say this steady catching up has real consequences for the cost of building frontier AI, for the spread of open weight models that anyone can download and modify, and for how Washington sets AI policy going forward. Via CSIS.
-
-Meta says its next model is already rivalling the best from OpenAI. Meta&#x27;s superintelligence chief, Alexandr Wang, reportedly told staff that a model in training, nicknamed Watermelon, has matched the performance of G P T five point five, while using around ten times the computing power of its predecessor, which only launched in April. Chief executive Mark Zuckerberg separately said progress on AI agents across the whole industry has been slower than expected, though Wang pushed back, saying that was a comment on the industry generally rather than Meta specifically, and promised an update to Meta&#x27;s existing model with strong coding and agent improvements soon, alongside a coding model to rival Anthropic&#x27;s best. Via The Rundown.
-
-Washington is moving fast on AI and quantum policy. President Trump has signed an executive order titled Promoting Advanced Artificial Intelligence Innovation and Security, which asks AI companies to voluntarily submit powerful new models for government benchmarking of their cyber capabilities before wider release, with early access going to selected trusted partners chosen with government input. Two further executive orders aim to accelerate American quantum computing research and push federal agencies toward encryption that can resist future quantum based attacks by the end of the decade. Separately, the Federal Communications Commission has expanded a ban on importing telecoms and surveillance equipment from several Chinese manufacturers, citing national security risks, with the wider restrictions due to take effect early this month. Via CSIS.
-
-Twenty twenty six is shaping up as the year of the AI lab. A wave of star researchers are leaving the likes of Meta and Google DeepMind to start their own ventures, and investors are pouring in billions to back them. In Paris, three former Meta and OpenAI staff are seeking four hundred million dollars for a startup called Aire, aiming to build an AI system that can automate scientific research from end to end. Yann LeCun&#x27;s new venture, AMI Labs, has already raised over a billion dollars in seed funding, while two London based labs, Recursive Superintelligence and Ineffable Intelligence, raised five hundred million and one point one billion dollars respectively in April alone. Via Sifted.
-
-Europe&#x27;s fintech giants are still in no hurry to go public. Banking software firm Thought Machine says twenty twenty eight now looks like the likely year for its stock market debut, echoing a similar delay announced by Revolut earlier this year, with its chief executive citing a lack of investor appetite for risk after a run of disappointing European listings. Meanwhile, digital bank Starling is cutting around a hundred and thirty jobs as it leans further into automation, and voice AI company ElevenLabs is reportedly in talks for a fresh share sale that would value the business at twenty two billion dollars. Via Sifted.
-
-New figures underline both the toll of the war in Ukraine and the fragility of global trade routes. Combined Russian and Ukrainian casualties have now passed two million, with Russian losses running at close to eight times Ukrainian losses so far this year, a sharp rise from a ratio closer to two or three to one earlier in the conflict. Elsewhere, the Malacca Strait now carries a larger share of the world&#x27;s seaborne oil trade than the Strait of Hormuz, and more than thirteen million American jobs depend on trade with Canada and Mexico, a reminder of how much economic weight rides on those relationships as trade tensions continue. Via CSIS.
-
-Finally, cyber and undersea tensions are rising too. Israel&#x27;s cyber chief says Iranian cyberattacks have roughly tripled over the past year, climbing from around sixteen hundred incidents to nearly five thousand, following the recent American and Israeli military operations against Iran. And in the North Atlantic, Britain&#x27;s defence secretary John Healey has revealed that UK forces tracked Russian attack and spy submarines detected close to the undersea cables that carry much of the world&#x27;s data and communications, underlining growing concern about threats to that infrastructure. Via CSIS.
-
-That&#x27;s your byte sized digest for today. Have a great one.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-07.mp3</guid>
-    <pubDate>Tue, 07 Jul 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-07.mp3" length="1752192" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
