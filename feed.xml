@@ -7,6 +7,60 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Wednesday, 19 August</title>
+    <description>Hello, and welcome to Byte-sized for Wednesday, the nineteenth of August. Six sections today, so let&#x27;s get straight into it.
+
+First up, Japan and Asia-Pacific.
+
+Japan has taken its first real step toward rebuilding its intelligence capabilities. On the thirty first of July, the government formally launched a new National Intelligence Bureau, one of several planned reforms championed by Prime Minister Sanae Takaichi, who has treated intelligence as a strategic priority since taking office last autumn. CSIS analysis notes that supporters see this as essential groundwork for Japan to contribute more to the alliance with Washington, while critics worry it does not fix the underlying weaknesses in Japanese intelligence and could weaken oversight at home. Whether the reform succeeds will depend on whether Takaichi can also pass a promised anti espionage law and stand up a proper foreign intelligence service, but for now it signals a government serious about adapting to a changing security picture. Via CSIS.
+
+Energy security is the other lens on the region this week. CSIS&#x27;s energy programme is warning that the ongoing standoff over the Strait of Hormuz is reshaping the global market for liquefied natural gas, and a dedicated briefing this week looked specifically at what that means for Japan and South Korea, two of the countries most exposed to any disruption of Middle Eastern gas supplies. Both governments are now having to think hard about energy policy in a world where that chokepoint can no longer be taken for granted. Via CSIS.
+
+And tension on the Korean peninsula is far from resolved. CSIS&#x27;s Korea Chair called an emergency episode of its Capital Cable series this week to unpack a fast moving set of signals: continuing military exercises, a defiant Kim Jong-un, and the knock-on effects of the Iran conflict on how Washington is managing the peninsula. Separately, CSIS&#x27;s nuclear policy briefing flagged that Washington has ordered a substantial scaling back of joint exercises with Seoul, even as analysts warn that both South Korea and Japan are increasingly weighing whether they need nuclear weapons of their own, in a world where old arms control agreements, like the expired START treaty, no longer hold much sway over the region. Via CSIS.
+
+Now, over to AI and tech.
+
+Cursor has begun rolling out a new code hosting platform called Origin to paying users, letting developers keep GitHub as their system of record while trialling an alternative underneath it. The timing could not have been more pointed: the launch landed in the middle of a GitHub outage that knocked out repositories, application programming interfaces and Copilot for more than six hours. Alongside that, word emerged that Anthropic&#x27;s annualised revenue is now on track to exceed sixty five billion dollars, more than seven times where it stood at the end of last year, one of the clearest signs yet of how fast enterprise AI spending is compounding. Via TLDR.
+
+Payments giant Stripe has finalised a deal worth more than seven billion dollars to acquire OpenRouter, the startup that lets companies switch easily between different AI models, pulling Stripe deeper into AI infrastructure and underlining just how much scrutiny AI costs are now under industry wide. In a separate story about caution rather than speed, Anthropic said it has no plans to release an internally discussed, more powerful model, arguing the risks from its current systems remain low even as its models show clear signs of accelerating automated research ability, while OpenAI said it is deliberately slowing the rollout of an upcoming model, called Astra, because it cannot yet rule out dangerous cyber capabilities. Via TLDR and This Week in Startups.
+
+Meanwhile, one small AI native company is offering a candid look at what that spending spree actually feels like from the inside. The head of operations at the newsletter Every wrote that the company&#x27;s AI credit usage jumped two hundred and thirty percent in the days after a new flagship model rolled out, and rather than imposing hard spending caps, the team settled on a looser approach: give everyone visibility into what they are spending, ask what it bought and what was learned, and only tighten the rules once trust breaks down. It is a useful real world data point for any organisation currently guessing at what an AI budget should even look like. Via Every.
+
+And a lighter note on what one person with the right prompts can now build alone. On Lenny&#x27;s Newsletter, solo founder Yana Welinder described running an entire AI native fashion brand without a single engineer, using ChatGPT and the coding tool Codex to turn hand sketches into product images, operate professional three dimensional design software she had never learned, and manage manufacturer outreach and a full e-commerce build. Her core lesson: the more precisely you can describe what good looks like before you start, the better both the AI and any human collaborator will deliver. Via Lenny&#x27;s Newsletter.
+
+Now, over to startups and venture.
+
+Vibe coding platform Lovable has raised another four hundred million dollars in a Series C round led by Menlo Ventures and the Scaleup Europe Fund, confirming a fresh valuation of thirteen point three billion dollars just months after its previous round. The company says it now hosts sixty million projects and draws nine hundred million monthly visitors, backed by its own in house model and a multi year Google Cloud deal, another sign of how quickly AI coding tools are scaling from novelty to infrastructure. Via TLDR.
+
+European fintech is having its own moment of financial one-upmanship. Revolut founder Nik Storonsky&#x27;s venture firm, QuantumLight, has closed its second fund at five hundred million dollars, part of a wider wave of European fintechs publicising annual recurring revenue milestones the way AI companies have been doing all year, from banking infrastructure firm Thought Machine to spend management platform Payhawk. Via Sifted.
+
+And on The Generalist&#x27;s podcast, Rain chief executive Farooq Malik talked through building financial infrastructure powered by stablecoins, an idea he backed years before stablecoins became mainstream. Rain now issues cards and payments on stablecoin rails, and Malik argues the company is well positioned for a future where AI agents themselves need to move money, framing the payments market as large enough for many winners rather than a single one, Stripe included. Via The Generalist.
+
+Now, over to policy and geopolitics.
+
+Geopolitical Monitor&#x27;s weekly briefing frames the Iran conflict as increasingly a war of economic attrition, with the standoff over the Strait of Hormuz determining whether Qatar ends up the war&#x27;s biggest winner or its biggest loser, depending on how long the disruption to shipping and gas exports drags on. The same briefing flags Ebola&#x27;s spread to a sixth province in the Democratic Republic of Congo and Washington&#x27;s effort to turn its Pax Silica AI initiative into something closer to an exclusive club of partners, alongside a new warning from the Food and Agriculture Organisation about rising global food prices. Via Geopolitical Monitor.
+
+Brazil&#x27;s presidential race has formally kicked off, and International Intrigue&#x27;s briefing frames it as a genuine coin toss. Incumbent Luiz Inácio Lula da Silva is seeking a fourth term on a pro worker platform, casting himself as a defence against both Washington&#x27;s renewed interventionism and the illiberal populism of his rival, Flavio Bolsonaro, son of the imprisoned former president. Bolsonaro is pledging tough on crime policies and pardons for his father&#x27;s allies, and runoff polls have narrowed to a technical tie. The stakes reach well beyond Brazil: the country is a major source of critical minerals like niobium and the world&#x27;s top exporter of soybeans, coffee and sugar, making the outcome a genuine swing factor in the broader contest between Washington and Beijing for influence in Latin America. Via International Intrigue.
+
+And CSIS&#x27;s nuclear policy briefing offers a sobering wide shot on where global arms control now stands. New modelling reported there suggests a full scale intercontinental missile exchange between Russia and the United States could now kill more than half the world&#x27;s population, even as commentary elsewhere in the same briefing argues the old global nuclear order is effectively dead, with the START treaty expired and China unwilling to negotiate on arms control. The same briefing also described a new US-Saudi nuclear cooperation agreement as a carefully limited legal pathway for American exports rather than a step toward Saudi enrichment capability, while a separate analysis argued Iran&#x27;s most underappreciated weapons route may not be uranium at all, but the plutonium sitting at its Bushehr power reactor. Via CSIS.
+
+Now, over to community, events and marketing, one idea worth stealing today.
+
+With AI generated content everywhere, brands are reaching for the opposite aesthetic to stand out. TLDR Marketing reports that companies across food, cleaning products, luxury hospitality and even AI firms themselves, Claude included, are leaning into deliberately handmade looking design: hand drawn typography, imperfect textures, retro illustration. The catch is that it only works when it actually fits the brand behind it; used without any real meaning, handmade cues just read as another generic trend. Via TLDR Marketing.
+
+A second idea worth stealing, this one about landing pages. A financial services company swapped a calculator focused headline for a simple human question, &quot;Is equity release right for me?&quot;, and introduced a real member of its information team on the page. The change lifted completed leads by seventy nine percent, a reminder that when customers need reassurance before acting, putting a real person&#x27;s face and expertise in front of them can outperform any amount of clever copy. Via TLDR Marketing.
+
+Now, one interesting thing to leave you with.
+
+The newsletter Experimental History has a lovely piece this week on what makes art or writing feel thick rather than thin, meaning it rewards attention rather than exhausting itself after a single glance. Its favourite illustration is a five hundred year old Hieronymus Bosch painting with an actual, if deliberately unplayable, piece of music painted onto a demon&#x27;s backside, a joke a modern internet sleuth stumbled onto centuries later and transcribed. The larger argument is that thickness comes from roads not taken, reasons hidden beneath the surface, and something genuinely paid to make it, which is exactly why AI generated slop, however polished on the surface, tends to evaporate the moment you actually look closely. Via Experimental History.
+
+That is your six sections for today. Thank you for listening to Byte-sized, and I will be back with the next episode soon. Take care.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-19.mp3</guid>
+    <pubDate>Wed, 19 Aug 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-19.mp3" length="3876336" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Tuesday, 18 August</title>
     <description>Hello, and welcome to Byte-sized for Tuesday, the eighteenth of August. Six sections today, so let&#x27;s get straight into it.
 
@@ -1460,58 +1514,6 @@ That&#x27;s your byte sized digest for today. Have a great one.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-09.mp3</guid>
     <pubDate>Thu, 09 Jul 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-09.mp3" length="3424176" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Wednesday, 8 July</title>
-    <description>Good morning. It&#x27;s Wednesday, the eighth of July, and here are six sections to get you up to speed: Japan and Asia Pacific, AI and tech, startups and venture, policy and geopolitics, community and marketing, and one interesting thing to close.
-
-The yen has fallen to its weakest level against the dollar since nineteen eighty six. It&#x27;s down around three and a half percent against the dollar over six months, eleven percent over the past year, and roughly thirty five percent over three years, and on a broader trade weighted basis its value has halved over the past four decades. The Bank of Japan has spent close to seventy billion dollars this year alone trying to slow the slide, and is reportedly no longer telegraphing its interventions, instead springing them on currency speculators by surprise. Analysts blame a mix of short term pressures, including the wide gap between American and Japanese interest rates and higher oil prices forcing more yen sales to pay for energy imports, layered on top of longer running problems like Japan&#x27;s shrinking workforce and heavy government debt. Prime Minister Takaichi has responded with a new stimulus package worth around two point three trillion dollars, aimed at technology and strategic industries, though critics warn the extra borrowing needed to fund it will only keep the yen under pressure. Via International Intrigue.
-
-South Korea&#x27;s memory chip makers are living through an extraordinary boom. One Samsung executive reportedly said this year&#x27;s profit alone will exceed the company&#x27;s entire cumulative semiconductor profit of the past forty years, with second quarter earnings expected to jump roughly eighteenfold on a year earlier. The driver is soaring demand for the memory chips that power AI data centres, a squeeze so severe that Apple was forced to raise Mac and iPad prices by up to a quarter last week, with memory prices industry wide up five to tenfold. In response, Samsung and SK Hynix have announced plans to invest around five hundred and twenty billion dollars over the next fifteen years to build a new domestic chip hub, though spread over that timeframe it&#x27;s a more modest annual increase than the headline number suggests. Via Benedict Evans&#x27;s newsletter and International Intrigue.
-
-India&#x27;s prime minister Narendra Modi is midway through an Indo-Pacific tour, having arrived in Jakarta on a trip that will also take him to Australia and New Zealand. Critical minerals and defence cooperation are high on the agenda, including talk of Indonesia buying India&#x27;s BrahMos cruise missiles. Via International Intrigue.
-
-Now, over to AI and tech.
-
-Anthropic says it&#x27;s found something like an internal notepad inside Claude&#x27;s mind. New research describes an internal region the company calls J space, which behaves like a workspace holding the concepts Claude is actively using while it reasons, distinct from the visible chain of thought text it shows users. Anthropic says the structure emerged on its own during training rather than being deliberately built in, and when researchers swapped one internal concept for another, say spider for ant, in a question about how many legs something has, Claude&#x27;s answer changed to match. When they artificially removed this workspace, Claude could still chat normally and recall facts, but its ability to solve multi step problems collapsed, suggesting this is where its harder reasoning actually happens. Anthropic is careful to say this doesn&#x27;t settle whether Claude is conscious or feels anything, a live and sometimes tetchy debate the company has had with Microsoft&#x27;s AI head Mustafa Suleyman. Via The Rundown and TLDR.
-
-Anthropic also keeps signing eye watering infrastructure deals. Data centre operator TeraWulf has agreed a twenty year lease with the company expected to bring in around nineteen billion dollars in revenue, covering a Kentucky campus with roughly four hundred megawatts of computing capacity. Anthropic has separately released a self hosted enterprise gateway for rolling out Claude Code through Amazon and Google&#x27;s clouds, and is reportedly in talks with Samsung about designing its own AI chip. Via TLDR and Benedict Evans&#x27;s newsletter.
-
-Nvidia&#x27;s next generation AI server system has slipped by more than a year. The Kyber rack scale architecture, designed to link one hundred and forty four of the company&#x27;s upcoming Rubin Ultra chips into a single giant computer, won&#x27;t now arrive until twenty twenty eight, after manufacturing problems with a key circuit board. It&#x27;s a sign that Nvidia&#x27;s breakneck annual release schedule is starting to bump up against the limits of what factories can actually build. Via TLDR.
-
-Cheaper, smaller AI models are starting to squeeze the market. Tencent has fully open sourced its Hy3 model, which needs less than half the hardware of the rival GLM five point two, though GLM still wins on coding benchmarks. Analysts think the shift toward smaller, cheaper models could trigger what one report called an AI margin collapse, as everyday tasks get handled by inexpensive models rather than premium ones. Small models are also proving useful in healthcare and agriculture in places without heavy data centre infrastructure, and one study found a cheap model can discard over two thirds of unnecessary retrieved text while still keeping ninety six percent of what actually matters. Via TLDR.
-
-Now, over to startups and venture.
-
-European fintech had a mixed day. Banking software firm Thought Machine has crossed one hundred million dollars in annual recurring revenue, with its chief executive eyeing a possible stock market listing in twenty twenty eight and wanting to double both revenue and customer numbers before then. Digital bank Starling is cutting around a hundred and thirty jobs as it leans further into automation, while buy now pay later firm Klarna won just under two billion dollars in an antitrust lawsuit against Google. Via Sifted.
-
-The first European quantum computing company has floated on the Nasdaq. Finnish firm IQM listed via a merger with a shell company, with shares opening at around twelve dollars seventy, dipping, then recovering to close its first day near thirteen dollars and climbing further the day after. The float values IQM at around two point three billion dollars, a far lower multiple of revenue than the American quantum firm IonQ commands, though investors called the debut a solid one. Via Sifted.
-
-A new survey suggests the tech workforce is splitting in two. Of nearly six thousand tech workers surveyed, whether someone feels amplified or diminished by AI turned out to be the single strongest predictor of how they feel about their career, ahead of seniority, role, or company size. Significant burnout jumped from forty five percent last year to fifty six percent this year, career optimism fell, and more than half of respondents said they wouldn&#x27;t recommend a newcomer follow their own career path. Tellingly, fear of AI taking their job directly ranked low on the list of worries; people were far more concerned about being expected to do more for the same pay, or that the pace of work has simply become unsustainable. Via Lenny&#x27;s Newsletter.
-
-Now, over to policy and geopolitics.
-
-Congo is playing hardball over cobalt. After exporters missed a July the fifth deadline, Kinshasa is reassigning unused export quotas to a new state run entity, a move mining giants Glencore and CMOC blame on a government system glitch rather than any fault of their own. Congo supplies around seventy percent of the world&#x27;s cobalt, a critical mineral for batteries, so the standoff matters well beyond central Africa. Via International Intrigue.
-
-British officials had their logins stolen. Several UK government email accounts were compromised after attackers exploited so called FortiBleed vulnerabilities, with the stolen credentials reportedly being sold on the dark web for around sixty thousand dollars. Researchers say the intrusion doesn&#x27;t look state sponsored, but the attackers appear to be Russian speakers. Via TLDR.
-
-Canada has chosen its next submarine builder, and it isn&#x27;t South Korea. Prime Minister Mark Carney announced that Germany&#x27;s TKMS, working on a joint German Norwegian Arctic capable design, will build Canada&#x27;s fleet of around twelve new conventionally powered submarines, beating out South Korea&#x27;s Hanwha, with deliveries expected in the twenty thirties. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-Here&#x27;s an idea worth stealing if you work in marketing: stop worrying about clicks, start worrying about being named. Growth consultant Kevin Indig has spent the past year studying how people actually use AI search tools, and found that almost nobody clicks through on citations, even when a brand is the hidden source behind an answer. What matters far more is whether the AI actually says a brand&#x27;s name out loud, since his research found only around one in eight brands that get quoted from also get mentioned by name. His advice for getting mentioned is to write like a wire reporter rather than a novelist, putting the most important facts right at the start, because AI systems weight the introduction heavily and barely read the middle. Via Amanda Natividad&#x27;s newsletter.
-
-And one for community builders: stop recruiting speakers, grow them instead. Skift&#x27;s Women Leading Travel network fills its event stages almost entirely from members who are already active in the community between events, through smaller meetups, virtual workshops, and spotlight features, rather than through a cold outside application process. This autumn it&#x27;s running leadership events on that model in New York, Montreal, Chicago, Las Vegas, and London. Via Skift.
-
-Now, over to one interesting thing to leave you with.
-
-A newsletter called Why Is This Interesting points out that America&#x27;s measles cases, which averaged just four a week for three decades, have jumped to fifty eight a week since the start of last year, and argues it&#x27;s a visible symptom of a much bigger problem: American scientists quietly leaving the country. Job applications abroad from American scientists rose by around a third last year, dozens of senior researchers have relocated to China, and the European Union has launched a five hundred million euro fund specifically designed to attract them to Europe. The piece&#x27;s point is that research funding, like a vaccine programme, has knock on effects that take years to show up, and by the time the damage is visible, in outbreaks or in the technologies that never got invented, it&#x27;s already too late to easily undo.
-
-That&#x27;s your byte sized digest for today. Have a great one.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-08.mp3</guid>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-08.mp3" length="3762288" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
