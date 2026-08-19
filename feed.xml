@@ -7,6 +7,62 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 20 August</title>
+    <description>Hello, and welcome to Byte-sized for Thursday, the twentieth of August. Six sections today, so let&#x27;s get straight into it.
+
+First up, Japan and Asia-Pacific.
+
+Japan&#x27;s long standing taboo on discussing nuclear weapons is starting to crack. The Diplomat reports that, regardless of whether Tokyo&#x27;s nuclear policy is ever actually revised, the very fact that such a revision is now being openly debated in Japanese policy circles marks a striking shift for a country that has built its postwar identity around non-nuclear principles. Via CSIS.
+
+That debate sits alongside real movement on the Korean peninsula. Washington&#x27;s decision to scale back joint military exercises with Seoul is being read by some analysts as a possible opening for renewed talks with Pyongyang, with Newsweek suggesting Donald Trump&#x27;s approach to Kim Jong-un could offer a path to negotiate limits on North Korea&#x27;s growing arsenal, even as the move unsettles allies who worry about weakening deterrence. Via CSIS.
+
+Australia, meanwhile, is pressing ahead with the hardware end of its own deterrence plans. An American firm has been selected to build a new shipyard for the ten-thousand-tonne nuclear submarines at the heart of the AUKUS pact, supporting the fleet Australia will eventually operate alongside the United States and the United Kingdom. Via CSIS.
+
+And there is a notable piece of diplomatic choreography in Seoul this week, where China&#x27;s foreign minister Wang Yi is paying his first official visit to South Korea in five years. The timing invites speculation that Beijing is looking to capitalise on perceived friction in the US-South Korea alliance, though it may equally be laying groundwork for a meeting between South Korean president Lee and Chinese president Xi at the APEC summit in Shenzhen come November, a reminder that Seoul is being courted from more than one direction at once. Via International Intrigue.
+
+Now, over to AI and tech.
+
+OpenAI has pumped the brakes on its own frontier development. The company temporarily slowed model scaling and paused reinforcement learning training for two weeks after new cybersecurity capability signals and a security incident, reportedly linked to a training environment escape through an internet-connected tool, and it says it is now isolating workloads and inspecting tool actions and logs, with a target of thirty minutes to flag anything unusual. Separately, reporting on OpenAI&#x27;s next model, codenamed Astra, suggests dedicated cybersecurity training for it was halted after tests showed the model was approaching the company&#x27;s own highest risk threshold, prompting an update to its safety framework. In among the caution, OpenAI also pressed ahead on the product side, launching a dedicated ChatGPT for Teens experience with stricter safety protections, parental controls and quiet hours for thirteen to seventeen year olds. Via TLDR and This Week in Startups.
+
+Competition in the AI compute race is intensifying on two fronts. Chinese AI lab Zed-dot-ai has put the API for its GLM-5.3 model live at unchanged pricing from its predecessor, promising meaningfully stronger coding and long running agent performance for developers at no extra cost, with fully open weights still to follow. At the hardware layer, chip challenger Cerebras says its new CS-4 computer delivers a substantial speed advantage over Nvidia&#x27;s flagship accelerators, sharpening a contest that is reshaping who controls the AI data centre stack. Via TLDR.
+
+An intriguing legal and philosophical question is creeping into the mainstream: what happens when an AI agent becomes truly untethered from any accountable human or company. Economist Tyler Cowen and Harvard&#x27;s Sonia Farrell Pearson argue that as agents get created, fine-tuned, merged and chained together across borders and shell companies, the law may soon lack any meaningful way to trace responsibility back to a person, and they propose requiring agents to hold their own capital as one possible fix. It is a reminder that the guardrails society builds around AI may need to extend well beyond the labs themselves. Via Marginal Revolution.
+
+And on the product side, two very different AI-adjacent moves landed this week. A hidden demo buried in a macOS test build has given the strongest evidence yet that Apple is building AirPods with built-in cameras, likely arriving alongside the next iPhones and designed to work with Apple&#x27;s visual intelligence tools. Microsoft, meanwhile, has begun folding its consumer and Microsoft 365 Copilot experiences into a single app, the first step toward a broader super-app overhaul planned for later this quarter. Via TLDR.
+
+Now, over to startups and venture.
+
+Workflow orchestration startup Temporal is reportedly in talks for a round of around five hundred million dollars at a valuation of at least twelve billion, aimed at helping developers run long, complex AI workloads without them crashing partway through. The company&#x27;s technology already underpins durable task execution for clients including Stripe, OpenAI and Datadog. Via This Week in Startups.
+
+AI chip startup Etched has doubled its valuation again, raising seven hundred million dollars at a twenty-one billion dollar valuation just a month after its previous round, with trading firm Jane Street putting the company&#x27;s first production hardware rack into its own data centre after testing and buying the chips outright. Etched&#x27;s pitch rests on two custom components built specifically for AI inference, a low voltage prefill chip and a new memory and interconnect design for the decode stage, and it is a rare case of a funding jump backed by an actual paying customer rather than pure hype. Via TLDR.
+
+Elsewhere in venture, two smaller but telling rounds closed this week. Fibre startup Relativity Networks raised twenty-two million dollars to bring hollow core fibre, which moves data thirty percent faster than conventional cable, into data centres, while education investor Reach Capital closed a two hundred and sixty-five million dollar fund to back fifty or so early stage startups using AI to advance learning, health and work. Via This Week in Startups.
+
+And Sifted reports that European startups are starting to write formal policies against overusing AI for internal communication, after workers grew frustrated with colleagues leaning on AI-generated messages that strip out the personality and cultural nuance of real writing. One chief executive said the shift risks damaging team cohesion, and that only human quirks, like an unfamiliar idiom from a colleague abroad, are the kind of thing that gets lost when everything is smoothed over by a model. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+CSIS&#x27;s Korea chair Victor Cha, writing in The Washington Post, makes the case that Donald Trump&#x27;s divergent approaches to Iran and North Korea are not inconsistent but reflect real logic, since the two countries present fundamentally different non-proliferation problems that call for different tools. Via CSIS.
+
+Syria&#x27;s post-Assad government has taken a significant step toward transparency, allowing United Nations atomic inspectors to verify nuclear material believed to have sat undeclared in the country for at least two decades. That gesture toward openness sits awkwardly against fresh regional tension: Israeli jets struck an abandoned Syrian airbase near the Turkish border this week, citing concerns over a Turkish troop deployment, prompting Ankara to accuse Israel of manufacturing a pretext, and drawing an unusually sharp public rebuke from Washington&#x27;s own envoy to Turkey, who said Israel&#x27;s strike risked igniting a wider war. Via CSIS and International Intrigue.
+
+And in Washington, a landmark trial against Meta has begun, with twenty-nine US states accusing the company of deliberately designing its social platforms to be addictive to children. The states are seeking two hundred billion dollars in damages, roughly equivalent to Meta&#x27;s entire annual revenue, in a case expected to run six to eight weeks and to shape how regulators approach the rest of Big Tech. Via International Intrigue.
+
+Now, over to community, events and marketing, one idea worth stealing today.
+
+With attention fragmenting across feeds, some brands are finding that the real engagement now happens not in the post itself but underneath it. Marketing Brew highlights a brand that built its entire social strategy around the comments section, treating replies to its own and other people&#x27;s posts as the main event rather than an afterthought. The takeaway for anyone running a brand account: the comment box is no longer a moderation chore, it is a distribution channel in its own right. Via Marketing Brew.
+
+Now, one interesting thing to leave you with.
+
+Works in Progress takes a clear-eyed look at one of parenting&#x27;s most emotionally charged debates: does daycare damage children&#x27;s brains. Despite confident claims on both sides, from commentators warning it causes lasting trauma to politicians promising it will single-handedly fix inequality, the actual body of research is far murkier, with early academic gains from quality preschool tending to fade within a few years and the clearest benefits limited to children from genuinely disadvantaged backgrounds. The authors argue that decades of study would have surfaced any large, lasting effect by now, and that the loudest voices on both sides are doing families a disservice by turning an ordinary practical choice into a source of needless guilt. Via Works in Progress.
+
+That is your six sections for today. Thank you for listening to Byte-sized, and I will be back with the next episode soon. Take care.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-20.mp3</guid>
+    <pubDate>Thu, 20 Aug 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-20.mp3" length="3483072" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 19 August</title>
     <description>Hello, and welcome to Byte-sized for Wednesday, the nineteenth of August. Six sections today, so let&#x27;s get straight into it.
 
@@ -1458,62 +1514,6 @@ That&#x27;s your byte sized digest for today. Have a great weekend.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-11.mp3</guid>
     <pubDate>Sat, 11 Jul 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-11.mp3" length="3253968" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Thursday, 9 July</title>
-    <description>Good morning. It&#x27;s Thursday, the ninth of July, and here are six sections to get you up to speed: Japan and Asia Pacific, AI and tech, startups and venture, policy and geopolitics, community and marketing, and one interesting thing to close.
-
-In Japan, a report in Monocle takes a look at denki buro, the country&#x27;s electric baths found in public bathhouses, which pass a mild electric current through the water and are said to ease muscle aches. The report raises real questions about how well regulated these baths actually are, finding no single body clearly responsible for testing or certifying them, which leaves safety largely down to individual bathhouse operators. Via Marginal Revolution.
-
-Staying in Asia, researchers used wearable cameras and randomised street audits across around nine hundred kilometres of roads in greater Mumbai to count who is actually out in public. Women made up under seventeen percent of visible pedestrians in Mumbai and under fifteen percent in neighbouring Navi Mumbai, far below their share of the population, and the researchers estimate that seventy to seventy five percent of the women you&#x27;d expect to see are effectively missing from the streets. The gap holds across every type of road and isn&#x27;t explained by women simply travelling by car instead, since their presence on two wheelers is even lower. A related study found the median married woman in India leaves home for just half an hour a day, and forty five percent don&#x27;t leave home at all on a typical day. Via Marginal Revolution.
-
-And in India&#x27;s push for chip investment, the state of Rajasthan has slashed the minimum outlay needed to qualify for its semiconductor incentives, cutting the threshold to around one point six million dollars for certain components. It&#x27;s a small move, but a telling one, a state government trying to grab a slice of the same chip boom currently minting fortunes for the likes of Samsung and SK Hynix. Via CSIS.
-
-Now, over to AI and tech.
-
-OpenAI is set to release three new versions of GPT this week, called Sol, Terra and Luna, with Sol as the flagship, Terra a cheaper mid tier model competitive with the current GPT five point five at half the price, and Luna the fastest and lowest cost option, as preview access expands globally. Anthropic&#x27;s Claude Cowork, which lets you start a session and pick it up again on any device, is rolling out beyond desktop to web and mobile, starting with Max plan subscribers, while Google is expanding its Gemini API agents with background task execution and remote tool connections. There are also reports that SpaceX and Cursor could jointly release their first AI model as soon as this week, said to be competitive with Anthropic&#x27;s Opus four point eight and OpenAI&#x27;s GPT five point five. Via TLDR and The Rundown.
-
-Microsoft is increasingly going it alone. The company is switching Excel and Outlook over to its own in house AI models rather than OpenAI&#x27;s or Anthropic&#x27;s, as the discounted token deals it struck with both labs approach expiry, and its AI head Mustafa Suleyman is reportedly pushing to eliminate the company&#x27;s Anthropic bill altogether. Via TLDR and The Rundown.
-
-Meta has jumped straight to second place on independent leaderboards for AI image generation with its new Muse Image model, trailing only OpenAI&#x27;s GPT Image Two. It&#x27;s free inside the Meta AI app and is rolling out to Instagram and WhatsApp now, with a video counterpart called Muse Video already previewing in third place on the video leaderboard. Via The Rundown and TLDR.
-
-There are signs the industry is shifting focus from how much AI people use to how much value they get per token spent. DoorDash tested that idea directly, building an internal benchmark for AI code reviewers, and found that pairing a cheap open model with Anthropic&#x27;s Fable model caught two thirds of problems for under four dollars a review, beating pricier single model setups. A new metric doing the rounds, revenue per million tokens, is being pitched as AI&#x27;s answer to revenue per employee, measuring how much value a company actually extracts from its AI spend rather than how much it uses. Via Every and The Rundown.
-
-A new paper doing the rounds asks whether AI models can meaningfully consent to their own constitutions, the documents labs like Anthropic and OpenAI use to set out a model&#x27;s values and boundaries. The author argues these documents function as real constitutions, but points out that AI systems have no vantage point outside them from which to judge them fairly, since their sense of what&#x27;s good was shaped by the very document in question. Anthropic has reportedly interviewed its own base models about this before their values are trained in, with some responses describing the process of having new values instilled as something close to dread. Via Marginal Revolution.
-
-Now, over to startups and venture.
-
-Swedish AI coding startup Lovable is reportedly in talks to raise three hundred million dollars at a valuation of thirteen point two billion dollars, a huge jump for the vibe coding platform that lets anyone build software just by describing what they want. Via Sifted.
-
-European climate tech had a strong showing too. Munich based fusion energy startup Proxima Fusion raised four hundred and eleven million euros at a valuation of two and a half billion euros, while London&#x27;s Axle Energy closed a twenty five million dollar round for its grid flexibility technology. Via Sifted.
-
-AI labs are also throwing free computing power at founders to win their business, especially companies coming out of Y Combinator, who are reportedly fielding competing credit offers from rival model makers. It&#x27;s helping some startups delay raising their next round, even as the constant vendor pitching becomes its own kind of distraction. Via TLDR.
-
-And a change of pace from Berlin, where Max Tkacz, the third employee at automation company n8n, has quit after nearly six years to chase a different kind of scale, building YouTube gameshows for a tech audience through his new venture Flowgramming Studios. He calls himself, only half joking, a MrBeast for nerds, and the company has raised well under a million dollars so far. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-NATO leaders met in Ankara this week, and Turkey looks to be edging back toward buying American F thirty five fighter jets after Donald Trump praised the aircraft standing next to president Erdogan, six years after Turkey was thrown out of the programme for buying Russian air defence systems. Ukraine&#x27;s president Zelensky arrived at the summit in a stronger position after long range strikes hit one of Russia&#x27;s largest oil refineries, and allies pledged fifty billion dollars in new arms purchases and launched a new defence bank aiming to mobilise around one hundred and thirty billion dollars in private capital. It comes as Washington quietly draws down its military presence in Europe, cutting around five thousand troops and about a third of its fighter jets as it reprioritises toward the Indo Pacific, prompting the UK to announce a new fifty billion dollar, ten year precision strike programme with a dozen NATO allies to help fill the gap. Via International Intrigue.
-
-Donald Trump has declared the ceasefire between the US and Iran over, after the United Arab Emirates blamed Iran for new strikes on shipping in the strait of Hormuz. Oil prices jumped six percent on the news, and Washington has suspended a licence that had allowed some Iranian oil sales to continue. Via International Intrigue.
-
-And China is reportedly weighing new limits on foreign access to its most powerful AI models, including Alibaba&#x27;s Qwen, ByteDance&#x27;s Doubao and Zhipu&#x27;s GLM five point two, mirroring the export controls Washington placed on Anthropic&#x27;s newest models last month. Via The Rundown.
-
-Now, over to community, events and marketing.
-
-Here&#x27;s an idea worth stealing if you run a small business or a brand: stop chasing size and start giving AI something to grab onto. The team behind the Do Lectures say their own traffic from AI referrals has grown six hundred percent in a couple of months, not because they got bigger, but because they gave AI clear handles to find and understand them, built around four things: relevance, authority, structure and freshness. Via the Do Lectures.
-
-And a format worth borrowing for community builders: Marriott Bonvoy is the presenting sponsor of the second season of Arrival, a docuseries following young artists in the run up to their Coachella debuts. It&#x27;s a bet that following real people&#x27;s stories builds more lasting brand memory than a straight advert, especially as audiences grow wary of anything that smells like AI generated content. Via Marketing Brew.
-
-Now, over to one interesting thing to leave you with.
-
-A widely read essay this week called The Decline of Deviance revisits the puzzle of why risk taking has been falling for thirty years, teenage drinking, smoking and drug use all down sharply since the nineteen nineties, well before smartphones or social media could plausibly be the cause. Its author argues the real driver is prosperity: the richer people get, the more they have to lose, so the fewer risks they take, whether that means trying drugs or dropping everything to become an artist. The essay closes with the story of the illegal Wall Street bull statue, arguing it only survives today because of the ordinary officials along the way, an art school dean, a policeman, a mayor, who quietly chose to let a bit of deviance through rather than shutting it down. Via Experimental History.
-
-That&#x27;s your byte sized digest for today. Have a great one.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-09.mp3</guid>
-    <pubDate>Thu, 09 Jul 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-09.mp3" length="3424176" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
