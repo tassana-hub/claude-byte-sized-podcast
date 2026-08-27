@@ -7,6 +7,64 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 27 August</title>
+    <description>Hello, and welcome to Byte-sized for Thursday, the twenty seventh of August. Six sections today, so let&#x27;s get straight into it.
+
+JAPAN AND ASIA PACIFIC
+
+We start in Taiwan, where prosecutors have indicted a senior Nvidia manager and two Super Micro Computer executives for smuggling restricted AI servers into China. Investigators say the black market operation rerouted around seventy machines through Japan and Indonesia to dodge export controls. It&#x27;s a reminder that even inside a legendary, high paying firm like Nvidia, insider risk is real, and that Taiwan is now more willing than ever to help police America&#x27;s chip rules. Via International Intrigue.
+
+Next, Vietnam has officially overtaken China, Mexico and Taiwan to record the world&#x27;s largest goods trade surplus with the United States. The takeaway is that Trump&#x27;s tariffs haven&#x27;t so much closed America&#x27;s trade deficit as relocated it, with firms like Apple and Nike shifting production to de-risk from China. Regulators are now probing how much of that shift is genuine manufacturing versus Chinese goods simply being relabelled on the way through. Via International Intrigue.
+
+And a lighter note from Tokyo. Japan&#x27;s prime minister, Sanae Takaichi, wrote a surprisingly heartfelt social media post about missing a cockroach that her staff had removed from her office, citing a classic postwar manga about the cycle of life and death as her reasoning for not wanting it squashed. Even the pets, it turns out, come with philosophical backstories in Japanese politics. Via International Intrigue.
+
+Now, over to AI and tech.
+
+Nvidia posted a blowout quarter: ninety six billion dollars in revenue, more than double what it made a year ago, with data centre sales alone hitting eighty nine billion. The company is guiding for a hundred and eight billion next quarter, and is reportedly circling a thirteen billion dollar bid for Hugging Face, the platform where developers share and test open source models. The logic is simple: own the hub, and you help lock in your chips as the industry default. Via TLDR and International Intrigue.
+
+Stripe has agreed to acquire OpenRouter for more than seven billion dollars, turning what was a simple AI model routing service into core payments infrastructure. The deal hands Stripe a gateway connecting eight million users to over four hundred AI models through a single programming interface, with centralised billing baked in. The catch is that a lot of that traffic flows to Chinese developed models, which could bring new regulatory headaches. Via TLDR.
+
+And Salesforce and Anthropic have launched what they&#x27;re calling Claudeforce, pulling live customer relationship data and Salesforce workflows directly into Claude. The first release ships with thirty seven sales specific skills, covering everything from pipeline analysis to account research, and Salesforce is pitching it as a reason you&#x27;ll never need to open the separate app again. Via TLDR.
+
+And away from the big labs, community pushback against new AI data centres is gaining real momentum. Local lawmakers across several US states are moving toward outright moratoriums, citing electricity costs, water use and strain on local infrastructure, and that backlash is becoming a genuine constraint on how fast AI computing capacity can grow, regardless of how much money the big players are willing to spend. Via TLDR.
+
+Now, over to startups and venture.
+
+Anthropic is gunning for the biggest initial public offering on record, targeting a hundred billion dollar raise at a two trillion dollar valuation, more than double what Elon Musk&#x27;s SpaceX is worth. The company is already generating sixty five billion dollars a year in revenue, seven times what it made last year, and Wall Street&#x27;s biggest banks are reportedly being asked to commit over a billion dollars each toward a credit facility ahead of the listing. Given that AI exposed companies now make up more than forty percent of the S and P five hundred, this listing is shaping up as a serious stress test for the wider market. Via TLDR and International Intrigue.
+
+Meanwhile, China&#x27;s fast fashion giant Shein has filed for its third attempt at going public, this time in Hong Kong, hoping to raise one point eight billion dollars at a twenty five billion dollar valuation. That&#x27;s a steep comedown from its hundred billion dollar peak in twenty twenty two, after a US listing collapsed under political pressure and a London listing fell apart when Beijing itself refused to bless it. Via International Intrigue.
+
+And a genuine growth story: the AI meeting notes app Granola has gone from nothing to a one point five billion dollar valuation in three years. A detailed teardown of its playbook this week highlighted a deliberate year in stealth that saw the team cut half their planned features before launch, a refusal to build a generic meeting bot despite investor pressure, and a pivot from simple notepad to what the founders call a context layer for AI, now plugging into other tools rather than trying to do everything itself. Via The VC Corner.
+
+Buy now, pay later firm Klarna offers a cautionary tale for founders eyeing a US listing. Its shares plunged nearly twenty five percent this week after warning that weak consumer spending in Germany would hurt full year revenue. Part of the problem is structural: Klarna&#x27;s core markets are European, but it listed in the US, where it&#x27;s relatively small and under followed, missing out on the index inclusion and investor familiarity a European listing might have brought. Sometimes where you list matters as much as how you perform. Via TLDR.
+
+Now, over to policy and geopolitics.
+
+The biggest mystery of the week: America&#x27;s CIA director, John Ratcliffe, made a surprise, very public trip to Moscow, flying in on a US military transport rather than a discreet private jet. The leading theory is deterrence, echoing a similar 2021 visit that correctly warned Putin the West knew he was planning to invade Ukraine, this time amid intelligence suggesting Russia may test NATO&#x27;s resolve directly. Quieter theories point to stalled Ukraine peace talks, pressure over Iran, or a handful of Americans still held in Russian jails. Nobody in Washington or Moscow is confirming which it was. Via International Intrigue.
+
+In the Himalayas, flash floods along the Nepal-Tibet border have killed at least a hundred and seventy seven people, with fifteen hundred more missing, after an ice and rock avalanche dammed a river that then gave way. Warmer temperatures have shrunk Nepal&#x27;s glacial ice by a third over three decades, and the timing was especially cruel, since the area was packed with pilgrims from several faiths heading to the sacred Mount Kailash. Via International Intrigue.
+
+And in the Gulf, oil prices have dropped to around eighty five dollars a barrel on hopes that talks between Oman and Iran might finally ease tensions around the Strait of Hormuz, with Qatar&#x27;s prime minister also headed to Tehran to encourage a fresh round of talks with Washington. Shipping executives are more cautious, warning the standoff looks more like a prolonged stalemate than a quick resolution. Via International Intrigue.
+
+Back in Washington, Meta has agreed to pay up to eighteen billion dollars to settle a landmark case brought by forty seven US states over teen social media harm. The deal forces the company to add real guardrails across Facebook and Instagram, including limits on how much time young people can spend scrolling. It&#x27;s one of the largest consumer protection settlements in tech history, and a signal that state attorneys general, not just federal regulators, are now setting the pace on platform accountability. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+One idea worth stealing this week comes from the founder of systeme dot io, who built his acquisition strategy entirely around a sixty percent affiliate commission, paid for the lifetime of every customer referred. He treats it as his marketing budget rather than a cost, and it&#x27;s helped take the bootstrapped company to three million accounts. The lesson: if your product naturally creates advocates, consider paying them like a channel, not a favour. Via Indie Hackers.
+
+A second one: the founder behind EditionGuard, an ebook piracy protection tool, grew from thirty to over a hundred customers by writing detailed guides on how to use his biggest competitor&#x27;s product, rather than only marketing his own. Publishers searching for help with that rival tool found his tutorials first, then discovered he offered the same protection for a fraction of the price. Teaching people how to use a competitor&#x27;s product, it turns out, can be a surprisingly effective way to find your own customers. Via Indie Hackers.
+
+Now, over to one interesting thing.
+
+Economist Alex Tabarrok has a sharp essay this week on why the fight over data centres bothers him less because of water or land use, and more because of what it reveals about how permission to build anything is granted in America. He borrows a distinction from the economists North, Wallis and Weingast between a natural state, where access to valuable activity depends on political favour, and an open access order, where the same impersonal rules apply to everyone regardless of what they&#x27;re building or who approves of it. His worry is that the maze of rezonings, negotiated community benefit payments and case by case approval that now surrounds every data centre is really the natural state creeping back in, dressed up in modern language. Via Marginal Revolution.
+
+That&#x27;s your six sections for today. Thanks for listening, and I&#x27;ll catch you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3</guid>
+    <pubDate>Thu, 27 Aug 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3" length="3467808" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 26 August</title>
     <description>Good morning. It&#x27;s Wednesday, the twenty sixth of August, and this episode carries six sections of news gathered since Monday. Let&#x27;s get into it.
 
@@ -1495,44 +1553,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and I&#x27;ll see you ba
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-15.mp3</guid>
     <pubDate>Wed, 15 Jul 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-15.mp3" length="3758400" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Tuesday, 14 July</title>
-    <description>Hello, and welcome to Byte-sized. It&#x27;s Tuesday, the fourteenth of July, and today we&#x27;ve got six sections lined up: Japan and Asia-Pacific, A.I. and tech, startups and venture, policy and geopolitics, community, events and marketing, and one interesting thing to close us out. Let&#x27;s get into it.
-
-Starting with Japan and Asia-Pacific. New Delhi&#x27;s Great Nicobar Project is being read by regional watchers as India&#x27;s formal arrival as an Indian Ocean power, a signal that the archipelago at the mouth of the Malacca Strait is becoming a genuine strategic asset rather than a remote outpost, as India builds out infrastructure that lets it project influence along one of the world&#x27;s busiest shipping corridors. The move sits alongside a steady run of Indian Ocean activity from rival and allied navies alike, and it is the kind of quiet infrastructure story that tends to matter far more in five years than it does the week it is announced.
-
-Over in Seoul, CSIS convened its Capital Cable series this week to take stock of one year of the Lee Jae Myung administration, weighing how the government has handled its early foreign policy and economic choices against the expectations it set on taking office. A year in is normally when a government&#x27;s actual priorities, as opposed to its campaign promises, become visible, and this is exactly the kind of stocktaking that is worth watching for anyone tracking how Seoul balances its relationships with Washington and Beijing.
-
-And closer to home for Japanese founders, the research firm SPEEDA, part of Uzabase, is bringing together three corporate innovation leads this month, from JGC Holdings, Keio Corporation and Mitsubishi Materials, to dig into a problem familiar to anyone who has tried to launch a new business inside a large company: the original plan almost never survives contact with customers, markets and internal politics unchanged. Their shared argument is that the real skill large firms need is not the ability to execute a fixed vision, but the organisational muscle to keep exploring and revising judgment as assumptions shift, whether that means building a corporate venture arm, as Keio has done, or systematically connecting new technology to market need, as Mitsubishi Materials has tried to do. It is a useful reminder that Japan&#x27;s biggest companies are still actively wrestling with how to make internal entrepreneurship work, rather than treating it as solved.
-
-Now, over to A.I. and tech, where the week&#x27;s biggest story is a lawsuit rather than a launch. Apple has sued OpenAI, accusing it of stealing confidential trade secrets and unreleased hardware information through former Apple employees, one of whom allegedly kept access to Apple&#x27;s internal network after leaving, using a previously unknown authentication flaw and a colleague&#x27;s still-active credentials to get back in. Apple is seeking damages, the destruction of any misused material, and changes to OpenAI&#x27;s future hardware if Apple&#x27;s technology shows up in it. The commentary site The Diff points out that when a company wants to prove theft without revealing exactly what was taken, the trick is to make the circumstantial picture of bad behaviour as damning as possible, and Apple&#x27;s filing does precisely that. It is an awkward moment for a relationship that still includes OpenAI powering parts of Apple Intelligence, even as the two increasingly compete on hardware.
-
-Elsewhere in AI products this week, Figma acquired the team behind Bud, a vibe-coding and AI agent platform, folding it into its own push toward app-building tools, while Meta pulled its Muse image AI feature from Instagram and WhatsApp just three days after launch, after the tool let users generate images from any public account by default and drew a swift backlash from Hollywood talent agencies and performers.
-
-And on the more reflective side, the newsletter Every argues that as AI agents take over the actual writing of code, the valuable human work left is polish: opening the finished feature yourself, using it as a real user would, and telling the agent what feels off until it doesn&#x27;t. A model doesn&#x27;t know what &quot;good&quot; means for your product and your users sitting in front of it, so that final layer of taste and judgment is becoming the part of software work that agents can&#x27;t yet do for you. Via Every.
-
-Now, over to startups and venture, where the week&#x27;s best story is also its briefest. Sifted reported that the AI scientist Yann LeCun was launching a new fund, Extelligence Invest, backed by sources close to the deal and confirmed by LeCun&#x27;s own spokesperson before publication. Within eight hours of that story going live, the fund&#x27;s website had been taken down, LeCun&#x27;s team said he had withdrawn over what they called existing exclusive relationships with other funds, and Extelligence itself announced it was shutting down the entire launch. By Saturday the website was back up, scrubbed of any names at all. It&#x27;s a reminder of just how fast reputational plumbing can unwind once one thread gets pulled in public.
-
-Underneath the drama, TLDR&#x27;s founders newsletter carried a sharper structural point this week: foundation models, for all the capital and brilliance behind them, don&#x27;t have a durable business model of their own, because every new release makes the last one obsolete, and enterprises are increasingly buying intelligence the way they buy electricity, as an interchangeable commodity. The flip side, the newsletter argues, is that the biggest financial winners from AI won&#x27;t be AI companies at all, but low-margin businesses that finally have a cheap way to attack the coordination costs that have kept them structurally unprofitable for decades.
-
-And in a smaller but telling consolidation move, Booking Holdings is forming a new business-to-business unit that brings Booking.com, Agoda and Priceline together to power travel offerings for other companies, putting Agoda&#x27;s chief executive in charge of an effort to catch up with Expedia&#x27;s already sizeable B2B arm, which grew three times faster last quarter than its consumer business. Via Skift.
-
-Now, over to policy and geopolitics, where CSIS hosted a panel this week on the two Section 301 investigations the US Trade Representative is running into forced labour and industrial overcapacity, with China a central target in both. Panellists compared the current probe to the 2017 to 2018 investigation into Chinese intellectual property theft, and the framing question running through it was whether Washington&#x27;s legal, economic and diplomatic toolkit is any better suited this time to managing a trade relationship that keeps generating fresh points of friction.
-
-And CSIS&#x27;s Futures Lab published a striking piece of geographic analysis on Russia&#x27;s missile and drone campaign in Ukraine, mapping oblast-level damage reports from 2023 through early this year to show how Moscow is concentrating strikes on frontline and southern regions, industrial and energy infrastructure, ports and major cities. The pattern suggests a deliberate coercive logic: using long-range firepower not just for battlefield effect but to strain Ukraine&#x27;s ability to repair, govern and negotiate, with cheap Shahed-type drones letting Russia sustain a far higher tempo of attacks than precision missiles alone would allow.
-
-Now, over to community, events and marketing, where two ideas are worth stealing this week rather than just noting. The facilitator Priya Parker argues that a single well-run gathering, whether a family meeting, a celebration or an offsite, works because it gives people connection instead of performance: focus on a small group of the right people rather than a large group of the wrong ones, and let meaning and fun sit alongside each other rather than treating them as competing goals.
-
-And the CMX community newsletter closed out its webinar series with a sharper version of the same point aimed at workplaces. One guest speaker&#x27;s take was that engagement metrics aren&#x27;t the outcome of community work, they&#x27;re just the fuel, and that reporting pipeline influence and retention instead of registrations and badges is what actually gets leadership to invest. Another argued that community managers aren&#x27;t generalists who failed to specialise, they&#x27;re the only people in a company who sit in the middle of marketing&#x27;s story, product&#x27;s story and everyone else&#x27;s, and that vantage point is a genuine strength rather than a lack of focus. Via CMX.
-
-Finally, one interesting thing to take you into the day. The economist Tyler Cowen gave a talk at DeepMind this month reflecting on what he calls an exhaustion of meaning rather than a shortage of it. His argument is that as models improve at a relentless pace, the problem for many people won&#x27;t be finding purpose, it will be coping with how much purpose, stimulation and pressure to keep up a fast-moving world now generates, especially for anyone young enough to fear falling behind if they don&#x27;t jump on each new wave immediately. He points to his own working life as evidence: he says he is busier now because of AI, not despite it, driven by a wage gradient that rewards engaging with each new model the moment it appears. The eventual leisure dividend from all this technology may well arrive, he suggests, but probably on a much longer horizon than the exhaustion that comes first.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and I&#x27;ll see you back here tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-14.mp3</guid>
-    <pubDate>Tue, 14 Jul 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-07-14.mp3" length="3264048" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
