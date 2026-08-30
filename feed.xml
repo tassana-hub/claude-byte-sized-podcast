@@ -8,7 +8,63 @@
   <itunes:author>Ana</itunes:author>
   <item>
     <title>Byte-sized — Monday, 31 August</title>
-    <description>$(cat /tmp/claude-0/-home-user-claude-byte-sized-podcast/38048822-bd71-5d4f-83c2-2da7eab910d2/scratchpad/2026-08-31.md)</description>
+    <description>Hello, and welcome to Byte-sized for Monday, the thirty first of August. Six sections today, so let&#x27;s get straight into it.
+
+JAPAN AND ASIA PACIFIC
+
+First to Tokyo, where CSIS&#x27;s weekly numbers roundup flags an underappreciated stat. Japan&#x27;s summer parliamentary session closed with every single government submitted bill passed, a hundred percent clearance rate. That is a notable show of strength, but CSIS analysts caution it masks real friction beneath the surface, much of it driven by the crowded agenda that the ruling Liberal Democratic Party has had to share with the Osaka based Japan Innovation Party. It all feeds into the broader question of how durable Prime Minister Sanae Takaichi&#x27;s approval shield really is as she heads toward a second year in office. Via CSIS.
+
+Staying in the region, Thailand is quietly positioning itself as an unlikely player in the AI power story. CSIS researchers point out that Thailand holds one of the largest spare power reserve margins in Southeast Asia, sitting somewhere between forty and fifty five percent of capacity. With American data centres desperate for electricity to run AI workloads, and Thailand sitting on underused, ready to run gas generation, there&#x27;s a real opening for new US-Thailand energy cooperation built around liquefied natural gas. Via CSIS.
+
+And a sharper story out of China. Cheap, high quality AI video generation is gutting a whole tier of the country&#x27;s entertainment gig economy. According to reporting picked up by Marginal Revolution, ByteDance&#x27;s newest video model, Seedance two point oh, has become good enough that short drama producers who used to shoot three productions a week say the work has simply evaporated. By the spring, the vast majority of the most popular animated dramas on ByteDance&#x27;s domestic platform Douyin were already AI generated. It&#x27;s a vivid, concrete example of AI substitution happening not in some hypothetical future, but in a market right now. Via Marginal Revolution.
+
+Now, over to AI and tech.
+
+AI AND TECH
+
+Persistent memory is becoming the defining problem of this next stage of AI products. On Lenny&#x27;s podcast, Tara Seshan, who leads product for Codex and ChatGPT Work at OpenAI, argued that the industry is entering what she calls AI&#x27;s third era, one where the interesting differentiator stops being raw model capability and becomes human ambition and judgement. As agents take over more of the actual execution, her framing is that people shift from rowing to steering, and the winning teams will be the ones who build for where the models will be in a few months, not where they are today. Via Lenny&#x27;s Newsletter.
+
+That same theme showed up from a different angle in The VC Corner&#x27;s roundup, which flagged persistent agent memory as fundamentally a database problem. Storing what an agent has learned across sessions turns out to need the same disciplined engineering as any serious data system: retrieval, user scoping, expiry rules, and a split between working, procedural, semantic and episodic memory. It&#x27;s a useful reminder that a lot of the unglamorous plumbing behind agentic AI still has to be built the old fashioned way. Via The VC Corner.
+
+The same newsletter also flagged a shift in where AI usage is actually happening, with Chinese open source models such as Qwen and DeepSeek taking a growing share of traffic on the OpenRouter marketplace, mainly because they&#x27;re dramatically cheaper to run than Western alternatives. The catch is strategic risk, since policymakers are increasingly scrutinising the data handling, provenance and security implications of routing traffic through Chinese built models. Via The VC Corner.
+
+There was also a useful framing question doing the rounds this week, via a venture deck from investor Anish Acharya that The VC Corner picked up. His argument is that raw AI capability and actual economic diffusion are two different things, and the gap between them is where the real value sits. The questions worth asking, he says, are where model commoditisation still leaves room for genuine moats, how automation actually reshapes the way big companies are structured, and which consumer applications can sustain demand once the novelty wears off. Via The VC Corner.
+
+And Every&#x27;s newsletter captured a trend worth watching inside companies. Teams are starting to clone their own best colleagues, turning a specific person&#x27;s judgement into a reusable AI skill that the rest of the organisation can call on. It&#x27;s an extension of the same instinct behind persistent AI coworkers, just pointed inward at institutional knowledge rather than outward at customers. The same issue also carried a live debate about whether cheaper models are now good enough for most everyday work, pushing back on the assumption that everyone always needs the newest, most expensive frontier model. Via Every.
+
+Now, over to startups and venture.
+
+STARTUPS AND VENTURE
+
+The venture picture out of Europe brightened up this week. The VC Corner reports that European deal values rose a quarter year on year, exits jumped, and down rounds fell to a record low, all signs that the exit drought of the last couple of years may finally be easing. The flip side is structural. Europe is sitting on around fifteen trillion dollars in pension and insurance assets, yet barely a tenth of one percent of it reaches venture capital, so even a small increase in that allocation could meaningfully change how much capital is available to European founders. Via The VC Corner.
+
+Space is having a moment too. Space technology start ups raised over eleven billion dollars in the first half of this year alone, already beating the whole of last year with fewer, larger deals, and the overwhelming majority of that money went into later stage, proven companies rather than speculative early bets. Via The VC Corner.
+
+And on the investing side, YC alum and investor Jason Freedman made the case that the strongest signal for backing Y Combinator companies isn&#x27;t early revenue or a polished product, it&#x27;s how quickly and deeply founders learn from their users. Access to the best deals, he argues, comes down to speed and founder relationships more than anything else. Via The VC Corner.
+
+Now, over to policy and geopolitics.
+
+POLICY AND GEOPOLITICS
+
+CSIS&#x27;s numbers brief this week zeroed in on the fragility of energy supply chains. With the Strait of Hormuz and Qatar&#x27;s Ras Laffan export terminal effectively shut because of the Iran war, Pakistan is among the most exposed countries anywhere, since over ninety percent of its imported liquefied natural gas normally comes through Qatar. It&#x27;s a sharp illustration of how a regional conflict thousands of miles away can immediately squeeze energy security in South Asia. Via CSIS.
+
+Closer to home for defence planners, the Pentagon is visibly trying to shift its munitions buying toward cheaper, more numerous weapons. CSIS analysts note that roughly half of the munitions the Department of Defense is requesting for the twenty twenty seven budget cost under six hundred thousand dollars per unit, and that share is projected to climb past seventy percent by the early twenty thirties. It&#x27;s a clear signal of a rebuild strategy that favours quantity and industrial resilience over exquisite, expensive systems, a shift that matters as much for the defence contractors chasing that budget as it does for the Pentagon itself. Via CSIS.
+
+Now, over to community, events and marketing.
+
+COMMUNITY, EVENTS AND MARKETING
+
+One idea worth stealing this week comes from the world of wellness, oddly enough. The DO Lectures rounded up a cluster of new community formats built entirely around rest: strangers meeting in parks just to lie down together, ice bath clubs that bill themselves as recovery made social, and even a physical lock people fit to their phones to force a real digital break. The common thread is that organisers are treating rest the same way community builders usually treat activity, as something you can schedule, brand and gather people around. Worth stealing for anyone running events who&#x27;s tired of the usual formats. Via The DO Lectures.
+
+The second idea is about getting more mileage out of content you&#x27;ve already made. Growth In Reverse profiled newsletter writer Trung Phan, who has built an audience of over six hundred and eighty thousand people by treating his long form articles as raw material for a constant stream of shorter, punchier posts, rather than writing once and moving on. His method leans on humour infused business writing, a deliberate split between evergreen long form pieces and viral short form ones, and a methodical daily habit of scanning for the best stories on the internet before he ever sits down to write. The lesson for anyone sitting on a backlog of decent content is that the repurposing engine matters as much as the original idea. Via Growth In Reverse.
+
+Now, for one interesting thing to close on.
+
+ONE INTERESTING THING
+
+Mathematician Terence Tao has coined a lovely phrase for a problem his field didn&#x27;t expect to have: proof indigestion. AI systems are now generating mathematical proofs faster than human mathematicians can verify or even understand them. Tao recently spent days working through a ninety thousand line AI generated proof of a decades old conjecture about polynomial roots, eventually distilling it down to a far more elegant fifteen thousand lines that a human could actually follow. It&#x27;s a striking preview of a world where checking and translating an AI&#x27;s answers becomes its own discipline, separate from discovering them in the first place. Via Every.
+
+That&#x27;s Byte-sized for Monday the thirty first of August. Thanks for listening, and I&#x27;ll see you tomorrow.</description>
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-31.mp3</guid>
     <pubDate>Mon, 31 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-31.mp3" length="86976" type="audio/mpeg"/>
