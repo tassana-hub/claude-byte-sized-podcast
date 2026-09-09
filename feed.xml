@@ -7,6 +7,64 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 10 September</title>
+    <description># Byte-sized — Thursday, 10 September
+
+Good morning. It&#x27;s Thursday the tenth of September, and today&#x27;s episode has six sections for you.
+
+Let&#x27;s start in Japan and Asia-Pacific.
+
+First, China. Chinese regulators are tightening the approval process for humanoid robotics companies seeking to go public, after a volatile trading debut from sector leader Unitree Robotics. The China Securities Regulatory Commission wants to cool a sector it sees as sizzling but full of copycats with little real technological breakthrough behind them, and the tighter posture is expected to catch other hopefuls too, including the firms AGIBOT and Galbot. Via TLDR.
+
+Next, security in North East Asia. North Korea has commissioned its second nuclear-capable destroyer, more than a year after the first was damaged in a botched launch attempt. It&#x27;s a reminder that the security picture across the region keeps sharpening, and it lands just as analysts debate whether the alliance between South Korea and the United States needs a clearer, more coherent strategy going forward. Via the CSIS Project on Nuclear Issues.
+
+And a policy story you won&#x27;t have seen elsewhere: India&#x27;s state governments have been on a reform tear. Uttar Pradesh drafted a new data centre policy offering incentives for renewable-powered facilities, Haryana passed a Right to Business bill promising newly registered firms a three-year moratorium on inspections, and half a dozen other states pushed through similar ease-of-business measures in the same week. It&#x27;s a reminder that some of the most consequential regulatory shifts for investors in Asia are happening at the state level, not the national one. Via CSIS&#x27;s States Weekly.
+
+And a reminder of how much of the advanced chip supply chain still runs through a handful of hands: reporting this week found that China&#x27;s homegrown lithography machines, the tools used to print the tiniest features onto computer chips, still rely on lenses from the German company Zeiss. Huawei has become the de facto coordinator of China&#x27;s push to build a fully domestic alternative, but for now, even Beijing&#x27;s chip independence drive has a European bottleneck built into it. Via TLDR.
+
+Now, over to AI and tech.
+
+The big claim of the week: OpenAI says an internal model, more capable than its public system, used ten thousand parallel agents working for eighty eight hours to produce a proposed solution to the Navier-Stokes existence and smoothness problem, one of mathematics&#x27; seven Millennium Prize problems, unsolved for roughly ninety years. The system reportedly showed that smooth three-dimensional fluid flow can develop a finite-time singularity, and backed the claim with both a written proof and a machine-checked formal version. Via TLDR and This Week in Startups.
+
+Meanwhile, Meta launched Muse, which it&#x27;s billing as the first personal AI agent built for everyone. It runs in its own secure cloud computer, can handle tasks like booking travel or sending emails on your behalf, and is rolling out on iOS, Android and the web in the United States, with an encrypted tier coming soon. It landed the same week OpenAI pushed out an upgrade to its image generator, with sharper detail, more reliable editing, and faster generation times. Via TLDR.
+
+On the engineering side, OpenAI&#x27;s Tibo Sottiaux talked through how Codex, the company&#x27;s coding agent, actually got built. It was written in the programming language Rust from day one, for scale, even though the underlying models were better at other languages at the time. It was released open source, partly so it could plug into rival companies&#x27; models rather than lock users into OpenAI&#x27;s own. And it&#x27;s now embedded so deeply into OpenAI&#x27;s internal tools that new hires are simply told: if you want to know who&#x27;s working on something, ask Codex. Sottiaux argues that maintenance and re-architecting work that used to take years can now take days. Via the Pragmatic Engineer podcast.
+
+And a sharper note: an Anthropic researcher, Jacob Coxon, said this week he&#x27;s quitting the company over fears the industry is racing toward self-improving superintelligence without adequate safeguards, naming both Anthropic and OpenAI directly. It&#x27;s gone semi-viral, and it&#x27;s a reminder that the safety debate inside the top labs is far from settled, even as ChatGPT itself quietly broke its own usage record for the fourth month running, reaching one point zero six billion monthly active users in August. Via TLDR and Sifted.
+
+Now, over to startups and venture.
+
+AI coding startup Cognition closed a two-billion-dollar funding round at a forty-eight-billion-dollar valuation, up from twenty-six billion in May, led by Andreessen Horowitz, Accel, Founders Fund, General Catalyst and Avenir. It&#x27;s a sign investors still think there&#x27;s room for several winners in AI coding, even as the startup&#x27;s cash burn could reach eight hundred million dollars this year. Via TLDR and This Week in Startups.
+
+In Europe, French AI group Mistral confirmed a three-billion-euro round at a twenty-one-billion-euro valuation, backed by Samsung, the European Union&#x27;s Scale-up Fund, and the American growth investor PSG Equity. Almost in the same breath, Mistral&#x27;s own robotics chief is now out raising two hundred million euros for his own robotics-model startup, a sign of how quickly talent is recycling itself inside Europe&#x27;s AI boom. Sifted&#x27;s own new leaderboard of the hundred fastest-growing startups across Central and Eastern Europe and the German-speaking DACH countries found Germany claiming the biggest share of names, but the very top spot going to a company in Prague, with strong showings from Latvia and Georgia too. Founders there flagged a challenge unique to the region: several of these countries border Russia, and building a company now means building against a backdrop of an escalating geopolitical standoff with the West. Via Sifted.
+
+And in legal tech, Harvey closed a five-hundred-and-fifty-million-dollar round at a fifteen-point-six-billion-dollar valuation, beating even the fifteen-point-five-billion target it was said to be chasing a month earlier. Its Swedish rival, Legora, is expanding just as fast off the back of its own five-hundred-and-fifty-million-dollar raise, underlining just how hot enterprise legal AI has become. Via This Week in Startups and Sifted.
+
+Now, over to policy and geopolitics.
+
+The veteran trade voice Bill Reinsch used his CSIS column this week to tally up what he calls three Trump-era own goals. First, the war with Iran, which closed the Strait of Hormuz, stranded cargo ships and depleted American weapons stocks, seemingly heading toward an outcome that will look much like the deal Trump abandoned in his first term. Second, the trade war with Canada, where escalating tariffs have been met with strong Canadian public support for retaliation, despite Canada&#x27;s economic dependence on the United States. And third, the tariff fight with China, which he argues has only accelerated Beijing&#x27;s push for high-tech self-sufficiency. His conclusion: all three reflect a failure to think through consequences before acting. Via CSIS.
+
+And an old dispute is flaring again: Argentina&#x27;s president, Javier Milei, is once more talking up reclaiming the Falkland Islands from Britain, this time threatening criminal charges against an Israeli energy firm planning to drill for oil near the islands. The timing lines up with sliding approval ratings at home, a Trump administration reviewing its neutrality on the issue, and elections roughly a year away. Britain&#x27;s response has been to simply repeat that ninety-nine-point-eight percent of Falklanders voted to stay British back in twenty thirteen. Via International Intrigue.
+
+And in the Middle East, new satellite imagery analysis shared with CNN by CSIS points to a clear surge in construction activity at a suspected Iranian nuclear site known as Pickaxe Mountain, near the Natanz facility. Analysts describe a site that has shifted over the past few years from active excavation toward internal construction and continued reinforcement, just as Washington weighs options for striking deep underground facilities. Via CSIS&#x27;s Project on Nuclear Issues.
+
+Now, over to community, events and marketing.
+
+Marketing Brew highlighted how the tequila brand eight-eighteen has been bringing an influencer-style production experience to ordinary couples&#x27; weddings, essentially treating someone&#x27;s wedding day like a brand activation, with the kind of polish usually reserved for a product launch. One idea worth stealing: borrow influencer-marketing production values for real-life milestone moments, not just campaigns. Via Marketing Brew.
+
+And Sifted spoke to the chief operating officer of the German AI company Voize about running a great team offsite as the company tripled in size: presentations on culture, candle-making, line-dancing, and beer by a lake outside Berlin. The idea worth stealing here: treat the offsite as a serious retention tool rather than a throwaway perk, and deliberately scale the format as the team grows instead of repeating the same playbook every year. Via Sifted.
+
+And finally, one interesting thing.
+
+Every&#x27;s Laura Entis spoke to five professional writers about how they actually use AI day to day. One, facing a mountain of research, turned each day&#x27;s material into a podcast she listened to while making breakfast, then had ChatGPT interview her on a walk whenever she got stuck, saying her head felt clear again within forty minutes. Another had an AI research agent that, while hunting for a source&#x27;s contact details, found a security flaw that let it pull an email address straight out of someone&#x27;s GitHub account. The common thread across all five: they draft the bones of a piece themselves, and only bring AI in afterwards to restructure, tighten and fill gaps. Via Every.
+
+That&#x27;s your six sections for today. Thanks for listening to Byte-sized, and I&#x27;ll see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-10.mp3</guid>
+    <pubDate>Thu, 10 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-10.mp3" length="3579552" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 9 September</title>
     <description>Good morning. It&#x27;s Wednesday the ninth of September, and this is Byte-sized, in six parts today. Let&#x27;s get into it.
 
@@ -1648,60 +1706,6 @@ That is all for today&#x27;s Byte-sized. I will be back tomorrow with the next e
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-05.mp3</guid>
     <pubDate>Wed, 05 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-05.mp3" length="2724336" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Tuesday, 4 August</title>
-    <description># Byte-sized — Tuesday, 4 August
-
-Hello, and welcome to Byte-sized for Tuesday, the fourth of August. Today&#x27;s episode runs across six sections, from Asia-Pacific news through to a closing idea. Let&#x27;s get started.
-
-Japan and Asia-Pacific.
-
-We start in Washington, where the Center for Strategic and International Studies hosted a special live episode of its Impossible State podcast on the sharpening trade tension between the United States and South Korea. Victor Cha was joined by Bloomberg Economics&#x27; Adam Farrar, alongside journalists from the Chosun Ilbo and the Hankyoreh, to unpack a recent US House Judiciary Committee report on discriminatory trade practices, the expiry of so called Section one twenty two tariffs, and the fate of recent Korean investment deals into the United States. The tone from all three panellists was that Seoul and Washington are drifting further apart on trade than either government would like to admit. Via CSIS.
-
-In China, Alibaba has unveiled Qwen three point eight Max, a two point four trillion parameter model with a context window stretching to a million tokens, which the company says can code autonomously for weeks at a stretch. It is the clearest sign yet of Beijing&#x27;s push to close the gap with American frontier labs, and it lands in the same week that DeepSeek quietly released the production version of its V4 Flash model, which independent benchmarking found averages just three cents per test, making it more than a hundred times cheaper to run than Anthropic&#x27;s Fable five for broadly comparable reasoning and knowledge performance. Via This Week in Startups and TLDR.
-
-And that AI rivalry has spilled into hardware politics too. The American Federal Communications Commission this week banned new foreign made humanoid robots, quadrupeds, robot vacuums and sidewalk delivery robots from the US market, citing privacy risks from devices that map homes and public spaces, as well as supply chain security concerns. The rule does not name China outright, but China controls roughly eighty five per cent of the global humanoid robot market, and Beijing has already threatened retaliation, calling the move a threat to economic and trade stability. Notably, the ban does not curb data collection by robots already in American homes, and it risks hurting US robotics firms that themselves depend on Chinese components. Via TLDR.
-
-Now, over to AI and tech.
-
-OpenAI has revealed that Astra, an unreleased internal version of its next model family, has solved ten long open problems across mathematics, quantum complexity and theoretical computer science, including a symmetry structure mathematicians had hunted for since nineteen ninety nine, and three items from Paul Erdos&#x27;s list that had not moved in a decade. Every proof was formally verified using the Lean theorem prover, and the whole run cost roughly two thousand dollars in tokens. Within twenty four hours, an Anthropic researcher said he had reproduced five of the ten proofs using Fable running on a generic prompt with no internet access, which has sparked a lively debate about whether a machine&#x27;s proof can meaningfully be called Fields Medal worthy work. Via The Rundown.
-
-That breakthrough arrives amid a full blown frontier pricing war. OpenAI cut the price of its Luna model by eighty per cent just three weeks after launch and trimmed its Terra model by a further twenty per cent, Anthropic released Opus five at half the price of Fable five, and Google is now pricing Gemini three point six Flash below Alibaba&#x27;s Kimi K three on a per task basis. Commentators note that model pricing can now go stale before a startup even ships, which is pushing labs to move before most enterprise customers have even finished switching. Via TLDR Founders.
-
-And on the practical side of things, Lenny&#x27;s Newsletter sat down with Nick Baumann of OpenAI, who demonstrated how he now runs huge parts of his work and life through ChatGPT&#x27;s Codex Voice interface. He triggers it with a hotkey, and it can read his screen, then spin up separate parallel threads to book a flight, file an expense report and check his calendar all at once, forking new conversation threads on its own when a task gets complicated. He also uses a custom plugin that takes fifty or sixty raw video clips, transcribes them, picks the strongest takes and assembles a finished video overnight while he sleeps. The bigger theme, as his co host puts it, is that talking to AI rather than typing tends to give it more context, and more context tends to produce better results. Via Lenny&#x27;s Newsletter.
-
-Now, over to startups and venture.
-
-The British chip startup Olix has raised three hundred and twelve million dollars in a Series B round at a three point three billion dollar valuation, with Arm and Hudson River Trading among the participants, to expand its specialised AI inference silicon platform. It is one of several large European raises this week: Index Ventures closed a fresh two billion dollar fund to double down on the next generation of AI startups, even as Sifted&#x27;s reporting flags a broader awkward question hanging over so called neolabs, ambitious outfits like Recursive Superintelligence and Inherent that have raised eye watering sums chasing self improving AI and world models without ever quite explaining how they intend to make money. Via Sifted.
-
-Meanwhile in travel, Expedia has acquired the AI planning startup Layla to speed up its own AI strategy, hoping to marry its scale and supply relationships with Layla&#x27;s personalisation features, while the corporate travel platform Engine has acquired Options Travel to build a fully AI native online booking tool for travel management companies. Industry watchers at PhocusWire argue that in travel, agentic AI succeeds or fails less on the model underneath and more on whether the everyday conversational interface actually gets adopted by agents and travellers. Via PhocusWire.
-
-Now, over to policy and geopolitics.
-
-A review of more than eighty Chinese academic papers and patents has found that military and security linked researchers in China are using a technique called model distillation to train smaller domestic AI systems on the outputs of American models from OpenAI and Anthropic, extracting frontier level capability without needing the vast GPU clusters that training from scratch would require. It is a workaround that quietly undercuts the entire logic of American chip export controls, since restricting access to advanced silicon matters far less if capability can simply be distilled down onto whatever hardware is already sitting in a domestic data centre. Via TLDR.
-
-And writer Byrne Hobart has a sharp piece this week on why some of the wealthiest people in tech are pouring money into aggressive, seemingly irrational AI bets. His argument is that for someone whose entire net worth rests on a business that AI could suddenly make obsolete, an investment that pays off specifically if AI accelerates further is not really a bet for returns at all, it is a hedge, and hedges are allowed to look financially strange because their job is to protect against a very particular kind of ruin rather than to maximise profit. Via The Diff.
-
-Now, over to community, events and marketing, and here is one idea worth stealing.
-
-Marketing Brew reports that executives at Netflix, Tubi, Adobe and Reddit are increasingly building strategy directly around fandom rather than around generic audience segments, after a twenty twenty five Deloitte study found that seventy five per cent of American adults now consider themselves part of at least one fandom. Netflix&#x27;s chief marketing officer described deliberately designing around fan obsession, in her words the good kind rather than the stalker kind, treating superfans as strategic partners worth investing in directly rather than just another slice of the audience to advertise at. Via Marketing Brew.
-
-And community builder Rosie Sherry published a candid reflection this week on falling out of love with indie hacking, the loosely organised movement of solo founders building small software businesses in public. Her complaint was not with building businesses at all, but with the transactional churn around it, the spammy requests for upvotes and feedback that substitute for genuine community. Her one idea worth stealing is really a warning: the founders she still respects are the ones who tuned out the noise and the hustle theatre entirely, and simply kept building something they believed was good. Via Rosie Sherry.
-
-And now, one interesting thing.
-
-Economist Tyler Cowen flagged a genuinely elegant piece of philosophy this week. Utilitarian ethicists have long been stuck on a puzzle: if the universe is infinite, then there is infinite positive value and infinite negative value in it, which makes it mathematically impossible to even describe how good or bad the current state of things is, let alone whether any action improves it. Oxford philosopher Toby Ord&#x27;s proposed fix is to use so called hyperreal numbers, a mathematical system in which infinities can still be compared in size, so that infinitely many twos genuinely add up to twice as much as infinitely many ones. It does not resolve everything, since some of the underlying choices in the system remain unavoidably arbitrary, but for a problem that has quietly bothered moral philosophy for decades, it counts as real progress.
-
-That is all for today&#x27;s Byte-sized. I will be back tomorrow with the next episode. Until then, take care.
-
----
-
-**Production note:** Audio generation failed for this episode. edge-tts&#x27;s WebSocket handshake to speech.platform.bing.com was rejected (403) even after the proxy&#x27;s CA bundle was merged into certifi&#x27;s trust store to fix the initial TLS verification error — the rejection itself came from the far end, not from a local cert problem. The documented fallback, gTTS, was blocked at the network egress layer: the proxy status endpoint confirmed a `connect_rejected` / 403 policy denial for translate.google.co.uk. Per the runbook, the script is committed as text only; no mp3 was produced and feed.xml was not updated for this episode, since there is no audio file to enclose.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-04.mp3</guid>
-    <pubDate>Tue, 04 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-04.mp3" length="3652848" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
