@@ -7,6 +7,68 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Monday, 21 September</title>
+    <description>Hello, and welcome to Byte-sized for Monday, the twenty first of September. Six sections today, so let&#x27;s get straight into it.
+
+JAPAN AND ASIA-PACIFIC
+
+A thin day for the region, but one genuinely interesting policy experiment out of Singapore. The government there has launched a scheme paying citizens actual cash to read: log fifty reading sessions of at least fifteen minutes each, with only one session countable per day, and you earn one Singapore dollar, worth roughly fifty nine pence. It won&#x27;t make anyone rich, but behavioural scientists think the real trick isn&#x27;t the money so much as the structure around it: a manageable daily goal built into an existing routine, like a commute or bedtime, with visible streaks to track progress. It&#x27;s a small, very Singaporean bet that gamifying a habit can outcompete the dopamine hit of scrolling. Via Marginal Revolution.
+
+Meanwhile in India, economist Tyler Cowen&#x27;s Emergent Ventures grant programme unveiled its nineteenth Indian cohort this week, and the range of projects funded says something about where the region&#x27;s next wave of builders is coming from. Grants went to a solar powered elephant deterrent already field deployed in Jharkhand, a fully electric hubless bicycle, a two hundred dollar diagnostic pen built as a cheaper alternative to a three thousand dollar Parkinson&#x27;s scan, and a platform tracking real time updates from Delhi&#x27;s courts. Several of the recipients are still teenagers. It&#x27;s a small programme by venture standards, but a genuinely useful read on how much grassroots deep tech and civic tooling is being built across India right now. Via Marginal Revolution.
+
+Now, over to AI and tech.
+
+AI AND TECH
+
+Claude keeps turning up in unexpected corners of business. A fundraising newsletter walked through using Claude Code to build what amounts to a fundraising engine: founders feed it a one page thesis describing their stage, region and target investor type, and it scores prospective investors on three dimensions, fit with the fund&#x27;s actual recent deals, how recently that specific partner wrote a check, and whether there&#x27;s a real way to reach them, rather than treating a scraped list as gospel. The pitch is blunt: half of any bought investor list is dead weight, wrong stage, dead funds, or contacts who left years ago, and no amount of clever subject lines fixes a list problem. Via the VC Corner.
+
+Elsewhere, the newsletter Every used its own AI agent as a party planner, handing an upcoming Brooklyn meetup over to its in house assistant to organise end to end, while flagging a separate piece collecting thirteen beliefs about writing with AI and an early look at a strikingly capable new model. It&#x27;s a small, telling example of AI moving from a tool people use to something people are willing to delegate actual logistics to, and a reminder that the most interesting AI adoption stories right now are often the mundane ones, not the frontier benchmark ones. Via Every.
+
+And economist Tyler Cowen gave a rare unqualified rave to a product called Muse this week, praising its interface, its speed and its calendar and email integration as some of the smoothest he&#x27;s seen from any piece of software recently. High praise from a writer who reviews a great many AI tools and rarely sounds this enthusiastic, and worth a look if your current note taking and calendar setup still feels like three separate apps stitched together. Via Marginal Revolution.
+
+Now, over to startups and venture.
+
+STARTUPS AND VENTURE
+
+On the podcast circuit, Lenny&#x27;s newsletter sat down with Peter Sellis, the first product manager at Snapchat and later head of product at Discord, for an unusually candid conversation now that he has nothing left to promote. Among the more memorable lines: his case for designing product teams the way you&#x27;d design a small, disciplined outfit rather than a large bureaucracy, and his three oxymorons of great product management, born from watching what actually separates strong product leaders from mediocre ones at two of the last decade&#x27;s fastest growing consumer apps. Via Lenny&#x27;s Newsletter.
+
+On the fundraising side, the VC Corner published a fresh database of nine hundred and three seed stage venture firms across Europe, each one checked for an actual way in, whether that&#x27;s two hundred and eighty seven with a direct email, three hundred and eighty six with a deck submission link, or two hundred and thirty with both. It&#x27;s less a story than a resource, but a useful reminder of how much of fundraising success now comes down to basic list hygiene rather than pitch polish. Via the VC Corner.
+
+And a nice indie hacker story out of the pandemic years. Shaun Donnelly built a simple iOS workout tracker in five days during lockdown, mostly as an excuse to leave the house afterwards. Six years on, that app, Personal Best, has passed five hundred thousand downloads, has around fifty thousand monthly active users, earned a cameo in one of Apple&#x27;s developer conference keynotes, and now brings in close to five thousand dollars a month, all while running almost entirely on the device itself to keep costs near zero. He still freelances part time to cover the gap. Via Indie Hackers.
+
+Now, over to policy and geopolitics.
+
+POLICY AND GEOPOLITICS
+
+CSIS&#x27;s weekly numbers roundup was a useful snapshot of how stretched the world&#x27;s supply chains and alliances currently are. Europe has filled just sixty eight percent of its gas storage against an eighty percent winter target, with prices climbing on Middle East conflict and reduced pipeline flows from Algeria and Norway. China has been quietly upgrading its military base in Djibouti, a country that sits on a chokepoint carrying an estimated sixteen percent of global maritime trade. On the AUKUS submarine pact, the United States alone reckons it needs to grow its submarine industrial workforce by one hundred and forty thousand people over the next decade, a reminder of just how much physical capacity, not just political will, that partnership still requires. And separately in the same digest, CSIS put US private sector investment in proprietary AI models at around two hundred and eighty five billion dollars, framing China&#x27;s push toward competitive open weight models as a genuine challenge to that spending rather than a simple catch up story. Via CSIS.
+
+And in economic data, Britain&#x27;s statisticians quietly rewrote a decade of history this week. The Office for National Statistics now estimates UK productivity grew at one point three percent a year between two thousand and nine and twenty nineteen, almost double its earlier estimate of zero point seven percent, thanks to a new methodology for counting workers and hours. It doesn&#x27;t undo the last decade&#x27;s stagnation entirely, but it does make Britain look meaningfully less of an international productivity outlier than the old numbers suggested. Via Marginal Revolution and the Financial Times.
+
+And in travel economics, airline executives used investor conferences this week to warn that renewed attacks during the Iran war have pushed jet fuel back up to around four dollars fifty a gallon, undoing this summer&#x27;s brief relief. American&#x27;s chief executive said the airline is slowing its growth into next year, Southwest&#x27;s finance chief said there&#x27;s room to pass more of that cost onto ticket prices, and United said it expects to recover the entirety of its higher fuel costs by the end of the year. It&#x27;s a reminder that a shooting war in the Middle East shows up in ordinary lives less through headlines than through the price of a plane ticket. Via Skift.
+
+Now, over to community, events and marketing. One idea worth stealing.
+
+COMMUNITY, EVENTS AND MARKETING
+
+From the DO Lectures: you don&#x27;t need a big content drop to stay in someone&#x27;s inbox. Their newsletter this week, cheerfully titled Chicken Shed Chronicles, was mostly a handful of small, human curiosities: an artist who paints in miniature using paint colour cards, a design studio&#x27;s take on a less boring highlighter, a Welsh craftsperson&#x27;s handmade instruments. None of it was a pitch for anything. The idea worth stealing is that a community newsletter doesn&#x27;t have to justify itself with an event or an announcement every time; sometimes just being interesting and a little odd is enough to keep people opening the email. Via the DO Lectures.
+
+Now, to close, one interesting thing.
+
+ONE INTERESTING THING
+
+The newsletter the Diff flagged a genuinely strange piece of history this week. Papua New Guinea&#x27;s interior stayed almost entirely cut off from the outside world until nineteen thirty, a fact confirmed not just by old explorers&#x27; accounts but by modern genetic analysis showing a population that was isolated for an extraordinarily long stretch of human history. Its traditional economy ran on shell currency, and its social status system rewarded whoever could give away the biggest gifts without expecting them back in full, which amounted to an accidental, deeply progressive tax on accumulating wealth. It&#x27;s a reminder of how recently parts of the world existed entirely outside the systems the rest of us take for granted. Via the Diff.
+
+That&#x27;s Byte-sized for Monday, the twenty first of September. Thanks for listening, and I&#x27;ll see you tomorrow.
+
+---
+
+**Production note:** Audio generation failed for this episode. edge-tts (voice en-GB-SoniaNeural) requires a WebSocket connection to Microsoft&#x27;s speech endpoint, which this session&#x27;s egress proxy does not support (a categorical limitation, not a transient fault). The gTTS fallback to translate.google.com was then blocked with a 403 from the egress proxy, an organization policy denial rather than a transient error, so per the no-retry-on-403 rule it was not retried further. No mp3 was produced and feed.xml was left unchanged. The written script above is committed so no research is lost; audio can be generated and the feed updated in a follow-up run once TTS access is available.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-21.mp3</guid>
+    <pubDate>Mon, 21 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-21.mp3" length="3544416" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Week in review, 20 September</title>
     <description>Hello, and welcome to Byte-sized, week of the fourteenth of September. This is the week in review, six sections as usual, so let&#x27;s get straight into it.
 
@@ -1686,64 +1748,6 @@ That&#x27;s Byte-sized for Saturday. Have a good weekend, and I&#x27;ll be back 
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3</guid>
     <pubDate>Sat, 15 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3" length="3739536" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Friday, 14 August</title>
-    <description># Byte-sized — Thursday, 14 August
-
-Good morning. It&#x27;s Friday the fourteenth of August, and this is Byte-sized, your daily digest of newsletters, in six parts. Let&#x27;s get into it.
-
-Japan and Asia-Pacific first.
-
-Tokyo has lodged a formal protest after Vladimir Putin paid his first-ever visit to the Kuril Islands, the chain seized by the Soviets after the Second World War but still partly claimed by Japan. Russian state media confirmed Putin visited Iturup, known in Japan as Etorofu, this week. The timing is pointed: Japan&#x27;s prime minister, Takaichi, recently released a new defence white paper warning about growing cooperation between Russia, China and North Korea, so a high-profile trip to the fortified islands reads as a deliberate jab at Tokyo. It also underlines a point security commentators keep making, that Japan&#x27;s defence posture still rests on an uneasy contradiction: a nation devoutly opposed to nuclear weapons that continues to shelter under America&#x27;s nuclear umbrella. Via CSIS and International Intrigue.
-
-Next, Japan has released the second version of its national Artificial Intelligence Basic Plan, aiming to speed up the rollout of smart technology to tackle national challenges while tightening up regulation and cybersecurity safeguards. It lands as part of a much bigger wave of AI policy-making breaking out across the region. Australia has stood up a new Office of AI and promised to protect creative works from being scraped for training data. China has published action plans on AI cooperation and on AI ethics governance. South Korea is pushing &quot;physical AI&quot; strategies for robotics, ports and manufacturing. Vietnam, Malaysia, Thailand, Singapore and Pakistan have all published their own frameworks in the past month. The upshot: Indo-Pacific governments are no longer waiting on Washington or Brussels to set the rules for AI, they&#x27;re writing their own. Via CSIS&#x27;s Pac-Tech Pulse newsletter.
-
-And in Southeast Asia, CSIS&#x27;s Greg and Elina sat down with journalist Shibani Mahtani to unpack the evolving scam centre ecosystem in Cambodia, which has grown from a localised criminal enterprise into a regional problem with implications well beyond its borders. The conversation is a reminder that the region&#x27;s digital economy has a dark underside that governments are still struggling to contain. Via CSIS Southeast Asia Radio.
-
-Now, over to AI and tech.
-
-SpaceX&#x27;s AI division has released Grok four point six, a model tuned for long-running agents, coding and knowledge work. It now matches OpenAI&#x27;s GPT five point six Sol on independent benchmarks while undercutting it on price by around sixty percent, and it&#x27;s already overtaken Kimi K3 for third place on the Artificial Analysis leaderboard. It&#x27;s the latest sign that frontier AI pricing is becoming as competitive a battleground as raw capability. Via TLDR and This Week in Startups.
-
-Anthropic is reportedly in early talks to acquire the Israeli startup Decart for around six billion dollars, a deal that would bring Decart&#x27;s chip optimisation technology in-house. If it goes ahead, it would be one of Anthropic&#x27;s largest acquisitions to date and points to how seriously the big AI labs are taking the cost of compute. Separately, Anthropic confirmed it will begin embedding invisible watermarks in text and images generated by Claude, bringing it in line with the European Union&#x27;s AI Act code of practice. The text watermark survives copying and light editing, though the company admits detection can fail on short or heavily rewritten snippets. Via TLDR Design and CTech.
-
-And Databricks has raised five billion dollars at a valuation of one hundred and ninety billion dollars, cementing its place as one of the most valuable private companies in AI infrastructure. The raise lands the same week Databricks confirmed it&#x27;s acquiring Electric, a startup whose lightweight, in-browser version of Postgres lets AI agents keep fast local databases that sync back to a central source of truth. Together the moves show Databricks racing to own the plumbing that agentic AI will run on. Via TLDR IT.
-
-Now, over to startups and venture.
-
-Sifted reports that Index Ventures is in talks to lead a five hundred million dollar round for a new AI lab founded by a former DeepMind researcher, focused on so-called world models, AI systems designed to simulate and reason about physical environments rather than just text. It would be one of the largest seed-stage AI bets of the year if it closes. Via Sifted.
-
-OpenAI-backed Thrive Holdings, which buys traditional businesses and rebuilds them around AI, has raised two billion dollars at a twelve billion dollar valuation from SoftBank, D1 Capital Partners and Altimeter. It&#x27;s a striking bet that the fastest way to monetise AI isn&#x27;t building new software companies, but retrofitting old ones. Via This Week in Startups.
-
-And in Europe, two rounds worth watching: the vibe-coding platform Lovable closed a four hundred million dollar Series C backed by the European Union&#x27;s own Scaleup Fund, while Portuguese drone maker Uforce is said to be targeting a valuation north of four billion dollars in its next raise. Between them they capture the twin themes of the moment, AI-native software and defence-adjacent hardware, both pulling in serious European capital. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-BlackRock, the world&#x27;s largest asset manager, published its latest geopolitical risk dashboard this week, and two calls stand out. First, on trade: the dashboard flags the European Union&#x27;s dispute with China over industrial overcapacity as the year&#x27;s likely flashpoint. China&#x27;s manufacturing surplus has now reached roughly two percent of global GDP, its trade surplus with the EU has overtaken its surplus with the United States for the first time in three decades, and Beijing has been retaliating selectively against European exports, from French cognac to Spanish pork, whenever Brussels moves on electric vehicle tariffs. With Washington and Brussels not exactly aligned right now, Europe may be facing this one largely alone. Second, on AI: BlackRock doesn&#x27;t expect meaningful US-China cooperation on frontier AI any time soon, but notes a narrow opening has appeared. May&#x27;s Trump-Xi summit produced a new bilateral dialogue on AI &quot;best practices,&quot; with a first working round due next month, ahead of a planned reciprocal Xi visit to the US. The goal isn&#x27;t friendship, it&#x27;s avoiding a repeat of Cold War-style nuclear near misses, this time with AI systems instead of warheads. Via International Intrigue.
-
-Separately, Zhu Rongji, China&#x27;s former premier and the hard-charging technocrat who drove the country&#x27;s entry into the World Trade Organization, has died at ninety-seven. His legacy splits sharply depending on who you ask: the state-firm workers who lost jobs under his efficiency drives, the hundreds of millions who rode China&#x27;s post-WTO boom into the middle class, and the workers abroad who lost out to the China shock that followed. It&#x27;s a reminder of how consequential, and how contested, that period of Chinese economic opening still is. Via International Intrigue.
-
-And a live example of why supply chains keep showing up on the geopolitical risk radar: a cyberattack this week disrupted eight warehouses run by the logistics giant Ceva, delaying or cancelling orders for retailers across Europe, including hardware customers of the online retailer Bol and gaming customers of Valve. Attackers reportedly accessed order-processing systems containing names, addresses and purchase details. It&#x27;s a small story on its own, but it&#x27;s the kind of quietly cascading disruption that boardrooms increasingly have to plan around, alongside tariffs and export controls, when they think about resilience. Via TLDR.
-
-Now, over to community, events and marketing. One idea worth stealing from each.
-
-From the Community Inc newsletter: most community-building advice assumes you already own a platform, a forum, a Discord, an events calendar. Writer Shyaamal Tripathi makes the case for building trust in spaces you don&#x27;t control instead, drawing on his experience growing communities inside other people&#x27;s Discord servers, hackathons and open-source projects. The practical takeaway: show up consistently, add value without asking for credit, and let the trust you build outlast any single platform. Via Community Inc.
-
-From SEO writer Zyppy Signal, on how Google actually judges content quality: buried in a leaked Google ranking document is a signal called &quot;content effort,&quot; estimated by a large language model for every page it crawls. The point isn&#x27;t how long something took to make, it&#x27;s whether the finished page shows visible evidence of real work, original testing, first-hand opinions, unique photography, curated judgment, rather than being a repackaging of what&#x27;s already on the internet. For anyone publishing anything, physical or digital, the one-line lesson is: make the effort visible, don&#x27;t just make it. Via Zyppy Signal.
-
-And now, one interesting thing to close on.
-
-Thrift stores are having a moment again, and the internet has decided secondhand shopping is content. The Bureau of Labor Statistics published a report this year marvelling at how many millennials and Gen Z-ers now flock to thrift shops, and resale platform ThredUp reckons the worldwide secondhand clothing market will hit nearly four hundred billion dollars within four years. Writer Jason Boog traces the through-line back to a New York Sun article from nineteen-oh-two, describing the same cast of characters haunting a Brooklyn Salvation Army store: bargain hunters, canny resellers, and one gum-chewing teenager after a good pair of shoes for the dance. More than a century on, her spiritual heirs are the same age, filming &quot;thrift with me&quot; videos that have racked up millions of posts on TikTok. Some things, it turns out, really don&#x27;t change. Via Why Is This Interesting.
-
-That&#x27;s your six for today. Thanks for listening, and I&#x27;ll see you tomorrow.
-
----
-
-**Production note:** Audio generation failed for this episode. Both edge-tts (voice en-GB-SoniaNeural) and the gTTS fallback returned proxy/network errors (HTTP 403) when reaching their respective TTS endpoints from this environment — an egress policy block, not a transient fault, so it was not retried further. No mp3 was produced and feed.xml was left unchanged. The written script above is committed so no research is lost; audio can be generated and the feed updated in a follow-up run once TTS access is available.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-14.mp3</guid>
-    <pubDate>Fri, 14 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-14.mp3" length="3927744" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
