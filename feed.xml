@@ -7,6 +7,68 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Saturday, 26 September</title>
+    <description>Hello, and welcome to Byte-sized for Saturday, the twenty sixth of September. Six sections today, so let&#x27;s get straight into it.
+
+JAPAN AND ASIA-PACIFIC
+
+A rich few days for the region, starting with a striking piece of research on the most sensitive subject in Japanese security policy. CSIS&#x27;s Japan Chair has published a new survey of Japanese strategic elites, meaning current and former scholars, business leaders and officials, on the question of nuclear weapons. Despite a worsening security environment, from North Korea&#x27;s missile programme to China&#x27;s expanding arsenal, the clear majority still oppose Japan acquiring its own bomb, consistent with the wider public mood. But the researchers found two specific triggers that could shift that: a drawdown of American forces on the Korean Peninsula, and, more powerfully, South Korea itself going nuclear. Japanese elites said a nuclear South Korea would move their support more than a US withdrawal would, suggesting a cascade effect where one country&#x27;s proliferation pushes its neighbours to follow. Via CSIS.
+
+Staying with security, but in a very different register, a Japanese language AI newsletter from Uzabase&#x27;s Speeda service flagged that Japan&#x27;s government has adopted a non-binding code requiring AI developers to disclose more about their training data, arriving in the same week the EU opened its first formal information requests to OpenAI, Anthropic and Google DeepMind under the AI Act, and China&#x27;s top court issued its first nationwide judicial guidance on AI disputes and deepfakes. Three different regulatory philosophies, converging on the same set of questions about who answers for an AI system&#x27;s behaviour. Via Speeda Intelligence.
+
+And a lovely piece of pure geography from Uncharted Territories, asking why the largest city on earth sits on some of the most hazardous ground imaginable. Tokyo has thirty seven million people, a subway network so big it would take five days to walk across, and was built on land prone to earthquakes, volcanoes, tsunamis and typhoons. The answer, it turns out, isn&#x27;t density, Tokyo isn&#x27;t even in the world&#x27;s top fifty most crowded cities, it&#x27;s sheer surface area. Tokyo sits on the Kanto Plain, by far the largest flat, farmable expanse in Japan, which meant it could feed, and eventually house, more people than anywhere else in the country. Geography decided the capital long before politics did. Via Uncharted Territories.
+
+Now, over to AI and tech.
+
+AI AND TECH
+
+The biggest single number this week belongs to Anthropic, which has committed eleven point six billion dollars over seven years to Akamai&#x27;s cloud infrastructure to support its growing computing needs, an agreement that could expand by a further nine billion dollars and includes warrants giving Anthropic roughly a five percent stake in Akamai. It&#x27;s another sign of just how much of the AI boom&#x27;s capital is now flowing not into flashier model headlines but into unglamorous compute and infrastructure deals behind the scenes. Via TLDR.
+
+Security researchers, meanwhile, had a rough week with Meta&#x27;s new autonomous assistant, Muse. A zero day vulnerability, demonstrated by researcher Patrick Wardle, allows any local app or terminal command on a Mac to redirect Muse&#x27;s transcription to an attacker controlled server, handing over account access to a tool that can already read email, send messages, check calendars and use the microphone and camera. Amazon has already started blocking Muse&#x27;s shopping requests as unauthorised. It&#x27;s a reminder that giving an assistant sweeping permissions across your digital life is only as safe as its weakest technical seam. Via TLDR.
+
+And a smaller, more human story about what AI is doing to how companies are organised. A widely shared essay this week, flagged by both Lenny&#x27;s Newsletter and TLDR&#x27;s product digest, argued that AI native companies are flattening hierarchies and handing individuals far more autonomy and far more fluid roles, on the theory that as execution gets cheaper and faster, human judgement, not process, becomes the scarce resource. Worth remembering next time a start up boasts about having no middle management. Via Lenny&#x27;s Newsletter.
+
+Now, over to startups and venture.
+
+STARTUPS AND VENTURE
+
+A genuinely useful piece of engineering news for anyone running AI agents at scale. NVIDIA published research called Sol Pi, in which they pointed an AI system at the &quot;harness&quot;, the scaffolding of tools, context and feedback loops around a model, rather than at the model itself, and let it hunt for waste across fifty one tasks. Out of one hundred and fifty two candidate fixes, four survived testing, cutting token use by roughly forty five to forty nine percent and API costs by fifty to fifty four percent against the standard Codex and Claude Code harnesses, all without touching the underlying model. NVIDIA estimates that&#x27;s worth roughly nine to thirteen dollars an hour of savings on agent work, and the code is openly available. The lesson for founders watching their inference bill climb: before switching models or waiting for prices to fall, check the plumbing first. Via the VC Corner.
+
+On the creator economy side, Growth in Reverse told the story of Heather Cox Richardson, a Boston College history professor who didn&#x27;t know what a newsletter was in 2019 and now earns seven figures a month from one. Her Facebook following built slowly for five years, then took off once she began tying breaking news to historical parallels ahead of the 2020 election. It&#x27;s a reminder that in the newsletter economy, distribution built patiently over years can suddenly compound once the content finds its moment. Via Growth in Reverse.
+
+And from Europe, Sifted&#x27;s Anne Sraders sat down with Andreessen Horowitz general partner Anish Acharya, who argued European founders should stop measuring themselves against Silicon Valley and instead build companies that are, in his words, unapologetically European, serving markets and customers that only make sense in a European context. A16z has no plans to reopen its London office, closed less than two years after opening in 2023, but Acharya said the firm is actively looking at more deals on the continent. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+POLICY AND GEOPOLITICS
+
+The United Nations General Assembly&#x27;s annual leaders&#x27; week in New York produced a genuinely striking Trump line: the president told the hall he would decide after the American midterm elections whether to strike a deal with Iran that allows it to rebuild, or, in his words, annihilate the Islamic Republic. Analysts reading the timing see an attempt to preserve maximalist leverage while blunting the war&#x27;s political cost before voters go to the polls. Elsewhere in the same week, Brazil&#x27;s Lula used his traditional opening speech to appeal to voters at home ahead of his own tight election, and Jordan&#x27;s King Abdullah warned that Israel&#x27;s recent strikes into Syria, Lebanon and Iran now amount to a regional threat rather than a series of isolated actions. Via International Intrigue.
+
+Closer to the ground, CSIS&#x27;s Middle East programme flagged a serious test of the US-Saudi relationship. Houthi attacks on Saudi Arabia have continued with limited American support, and separately, Syria saw its most widespread protests since the fall of the Assad government after fuel prices jumped by up to ninety four percent this year, a direct knock-on effect of the wider Iran war disrupting regional energy supplies. Analysts at CSIS argue Gulf states are now having to absorb security shocks that a decade ago they would have expected Washington to help shoulder. Via CSIS.
+
+And a smaller but nagging story about the fog beneath the Arctic. Geopolitical Monitor noted that Norway&#x27;s defence minister insists NATO never loses track of Russian submarines in northern waters, but NATO&#x27;s own spokesperson has been notably more cautious in public, and two undersea cables cut off the Norwegian coast remain unattributed months later. It&#x27;s a useful corrective to any confident public statement about undersea surveillance capability. Via Geopolitical Monitor.
+
+Now, over to community, events and marketing. One idea worth stealing.
+
+COMMUNITY, EVENTS AND MARKETING
+
+The Event Design Collective made a case worth sitting with even outside the events world: AI can generate an agenda, summarise research and throw out format options in seconds, but it cannot answer the genuinely hard questions, what should this event change, for whom, and what should deliberately not be automated. Their term for this middle path is augmented event design, using AI to widen the field of options while keeping the actual judgement calls human. It&#x27;s a useful framing for anyone tempted to let a model make a decision that was never really about information in the first place. Via the Event Design Collective.
+
+And a small, concrete marketing example from Marketing Brew: Inter Milan&#x27;s social team grew its followers, impressions and views not by posting more, but by posting less, trading volume for a smaller number of sharper posts. In an attention economy where most brands default to flooding the feed, it&#x27;s a reminder that restraint can be the more sophisticated strategy. Via Marketing Brew.
+
+Now, to close, one interesting thing.
+
+ONE INTERESTING THING
+
+A new NBER paper by Dora Costa and Matthew Kahn puts a number on something most families feel but rarely measure: grandmotherhood is arriving much later, and it&#x27;s shrinking the years grandchildren actually get with a healthy grandmother. Under the fertility patterns of 1960, the median age of first becoming a grandmother was forty four; under today&#x27;s patterns it&#x27;s fifty seven, cutting the years of healthy grandmothering nearly in half, from twenty eight years down to fifteen. Longer lifespans haven&#x27;t closed that gap, because it&#x27;s specifically the healthy, energetic years that have been lost, not just years alive. The researchers call it the rotten adult kid problem: when a daughter delays having children to maximise her own life outcomes, the cost of that delay lands on her mother, a classic economic externality hiding inside an ordinary family decision. Via Marginal Revolution.
+
+That&#x27;s Byte-sized for Saturday, the twenty sixth of September. Thanks for listening, and I&#x27;ll see you next time.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-26.mp3</guid>
+    <pubDate>Sat, 26 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-26.mp3" length="3759120" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Monday, 21 September</title>
     <description>Hello, and welcome to Byte-sized for Monday, the twenty first of September. Six sections today, so let&#x27;s get straight into it.
 
@@ -1692,62 +1754,6 @@ That&#x27;s your week, all six sections, sorted. Thank you for listening to Byte
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-16.mp3</guid>
     <pubDate>Sun, 16 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-16.mp3" length="5398992" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Saturday, 15 August</title>
-    <description>Hello, it&#x27;s Saturday the fifteenth of August, and this is Byte-sized, your six-part rundown of today&#x27;s newsletters, in about ten to fifteen minutes.
-
-Japan and Asia-Pacific first.
-
-The Center for Strategic and International Studies has a new paper from Makoto Tsujiguchi arguing that Japan&#x27;s creative industries are becoming a strategic pillar of its economic policy. The idea is straightforward: pair Japan&#x27;s globally competitive intellectual property with America&#x27;s dominant digital platforms, and the two countries can expand their reach across the Indo-Pacific, deepen digital trade, and compete harder for global audiences against Korean and Chinese content industries, all while shaping the information environment and deepening people-to-people ties along the way. It is as much a soft-power argument as an economic one: culture as a lever for the alliance, not just entertainment for its own sake. Via CSIS Japan Chair.
-
-Staying regional, CSIS also published its monthly Pac-Tech Pulse, tracking technology policy across the Indo-Pacific, and Japan features prominently. Tokyo has released a second Artificial Intelligence Basic Plan, aimed at accelerating the rollout of smart technologies while tightening up cybersecurity and regulatory oversight. It lands alongside a wave of regional moves: Australia has stood up a new AI framework, an Office of AI, and rules forcing data centres to underwrite the power and water they consume; South Korea is pushing &quot;physical AI&quot; strategies for robotics, ports and manufacturing; Thailand has tightened its screening of data centre investment; and Vietnam has published its first official list of high-risk AI systems. The throughline is that Asia-Pacific governments are moving from AI enthusiasm to AI governance, all at once, and Japan is positioning itself firmly on the regulatory end of that spectrum. Via CSIS Pac-Tech Pulse.
-
-Reuters, picked up in CSIS&#x27;s Nuclear Policy News briefing, explains why North Korea has been ramping up criticism of Japan. Pyongyang has stepped up its rhetoric against Japan&#x27;s military buildup and its security cooperation with the United States and South Korea, framing all three as a threat to regional stability. It&#x27;s a reminder that Japan&#x27;s own defence posture is increasingly part of the story in Northeast Asian tension, not just a bystander to it. Via CSIS Nuclear Policy News.
-
-And CSIS&#x27;s Southeast Asia programme turned its podcast to Cambodia&#x27;s scam centre ecosystem this week, with reporter Shibani Mahtani discussing how the industry has evolved and why its implications now reach well beyond Cambodia&#x27;s own borders, into the wider region&#x27;s trafficking and fraud networks. Via CSIS Southeast Asia Radio.
-
-Now, over to AI and tech.
-
-The headline model release this week was Grok four point six from SpaceXAI, which the company says now matches GPT five point six Sol on the main industry benchmark and overtakes China&#x27;s Kimi K3, with particular strength in long-running coding and agent tasks. It&#x27;s notably cheaper too, priced at two dollars per million input tokens and six dollars per million output tokens, well under half of what GPT five point six costs to run in standard mode. Via TLDR.
-
-Google, meanwhile, rolled out Gemini three point seven Flash just three weeks after its predecessor, an unusually fast turnaround the company puts down to developer feedback, alongside a temporary fifty percent price cut aimed squarely at coding and agent workloads. OpenAI answered with a preview of an &quot;Ultrafast&quot; mode for GPT five point six Sol, capable of fourteen times its standard processing speed. The frontier labs are now racing each other on speed and price as much as raw intelligence. Via TLDR.
-
-The bigger financial story, though, is Anthropic. Investors are now pricing a potential initial public offering at over two trillion dollars, which would make it the largest listing in history, on the back of projected annualised revenue of up to one hundred and twenty billion dollars by the end of the year. On the product side, the company also upgraded Claude in Chrome this week, so the browser side panel now runs a full Cowork session that saves to your account and picks up on desktop or mobile. It&#x27;s a striking combination for a company that barely existed as a household name three years ago, and it says a lot about how much capital is still flowing into frontier AI despite the wobbles elsewhere in the sector. Via TLDR.
-
-On the enterprise side, IBM is launching a dedicated OpenAI consulting practice, with plans to certify tens of thousands of consultants and jointly build AI offerings for finance, government, telecoms and retail. It lands in the same week Cisco reported its AI infrastructure orders have hit nine point three billion dollars for the year, and it&#x27;s the clearest sign yet that OpenAI is chasing the same enterprise services market that Anthropic, Cisco and the big consultancies are already fighting over. Via TLDR.
-
-Now, over to startups and venture.
-
-Swedish vibe-coding platform Lovable has closed a four hundred million dollar Series C, taking its valuation to thirteen point three billion dollars, with the round co-led by the EU&#x27;s new Scaleup Europe Fund alongside Menlo Ventures, and the company is reportedly on track for a revenue run rate approaching six hundred million dollars by the end of this month. It&#x27;s a slightly awkward fit for a fund meant to back European tech sovereignty in areas like defence and quantum, and it&#x27;s raised a few eyebrows in Sifted&#x27;s own newsroom, but it underlines just how much capital is chasing the application layer of AI right now. Via Sifted and TLDR.
-
-Index Ventures is reportedly in talks to lead a five hundred million dollar round for a new AI lab founded by an ex-DeepMind researcher, focused on world models, the technology that lets AI systems simulate and reason about physical environments rather than just text. If it closes, it would be one of the largest seed-stage AI bets of the year, and it lands in the same week that three departing partners from London&#x27;s LocalGlobe were reported to be exploring a spin-out fund of their own, part of a broader reshuffle running through European venture right now. Via Sifted.
-
-And Databricks has acquired Electric, a startup whose technology lets AI agents keep a fast, local copy of a database in sync with a central one. The team is joining Databricks&#x27; Neon unit to build infrastructure specifically for agentic applications, another sign that the plumbing underneath AI agents, not just the models themselves, is becoming its own competitive battleground. Via TLDR.
-
-Now, over to policy and geopolitics.
-
-CSIS&#x27;s Foreign Affairs piece this week, from Caitlin Welsh and Brian Hart, digs into what they call China&#x27;s Hunger Games: Beijing&#x27;s habit of using access to its enormous agricultural import market as geopolitical leverage, from suspending American soybean purchases during the tariff fight, to cutting off Canadian canola over EV tariffs, to briefly halting Japanese seafood and sake imports last year over Taiwan tensions. The twist is that this leverage cuts both ways. China imports over two hundred billion dollars of food a year and depends on foreign suppliers for the vast majority of its soybeans, which is exactly why Beijing is now racing to build up its own agricultural biotechnology, so it can eventually wield exports as a weapon too, not just imports. Via CSIS.
-
-And in Europe, Bloomberg reports that Sweden, one of the continent&#x27;s most committed disarmament voices, is quietly rethinking its historic rejection of nuclear-armed alliances as the perceived threat from Russia grows. It&#x27;s a small but telling data point in a broader pattern of traditionally neutral or dovish states hardening their security posture, and it landed the same day NATO jets shot down a drone that had entered Latvian airspace, which Latvia&#x27;s military blamed on Russian electromagnetic warfare. Via CSIS Nuclear Policy News.
-
-Further south, Saudi Arabia and thirteen other countries have confirmed a new maritime defence coalition to protect shipping through the Bab-el-Mandeb Strait, the Red Sea and the Gulf of Aden, with more members expected to join. The Financial Times frames it alongside Pakistan&#x27;s own more assertive turn, including a fresh defence pact with Saudi Arabia and Turkey, as part of a wider reshuffling of Middle Eastern and South Asian security alliances that&#x27;s easy to miss amid the AI headlines but matters just as much for anyone tracking where the next flashpoints sit. Via CSIS Nuclear Policy News.
-
-Now, over to community, events and marketing.
-
-Priya Parker, best known for The Art of Gathering, is following it up with a new book called The Art of Fighting, about how groups stay together through real conflict rather than falling apart into ghosting, walkouts and lawsuits. Her practical takeaway is that most conflict advice out there is written for pairs, couples, business partners, but groups need their own rituals and infrastructure for handling tension, the same kind of deliberate design she&#x27;s long argued goes into a good gathering. It&#x27;s worth stealing for anyone running a team, a community or a family through a rough patch, whether that&#x27;s a seating chart fight or a group chat that&#x27;s quietly imploding. Via Priya Parker&#x27;s newsletter.
-
-And Marketing Brew flagged what it&#x27;s calling the rise of the &quot;brand puppet,&quot; with skincare brand CeraVe among those leaning into cartoonish, personality-driven characters in their social content rather than straight product messaging, as a way to cut through an increasingly noisy feed. The idea worth stealing: a recurring character can carry a brand&#x27;s voice further, and feel less like an ad, than another polished product post ever will. Via Marketing Brew.
-
-And finally, one interesting thing.
-
-Ahead of Delhi&#x27;s badminton world championships, the city has been hiring people for a genuinely strange job: professional langur-monkey impersonators. The screech of a langur is apparently the only reliable way to scare off the rhesus macaques that roam the city stealing food and causing chaos, so a handful of Indians have turned mimicking a much larger, more intimidating monkey into a paid pest-control gig, protecting the tournament venues one shriek at a time. Via Marginal Revolution.
-
-That&#x27;s Byte-sized for Saturday. Have a good weekend, and I&#x27;ll be back tomorrow with the week in review.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3</guid>
-    <pubDate>Sat, 15 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-15.mp3" length="3739536" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
