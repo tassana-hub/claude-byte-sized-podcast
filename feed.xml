@@ -7,6 +7,68 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Wednesday, 7 October</title>
+    <description>Good morning, and welcome to Byte-sized for Wednesday the seventh of October. Five sections today, plus a closing thought. This one covers everything since Monday&#x27;s edition, so there is a little more to get through.
+
+Section one, Japan and Asia Pacific.
+
+First, Japan&#x27;s bond market. International Intrigue notes that risk premiums on the debt of heavily indebted countries, including Japan, spiked last week. Japan&#x27;s thirty year government bond yield hit a new high on worries about Prime Minister Takaichi&#x27;s stimulus plans, and she has told investors to rest assured. Worth watching alongside Europe&#x27;s own bond wobble, which we come to later. Via International Intrigue.
+
+Second, India, and a neat idea for anyone thinking about inbound tourism in Asia. The Indian government and the ONDC network have launched a National Digital Tourism Stack, an open digital layer that puts more than twenty three thousand homestays, guides, attractions and transport providers where travellers, and increasingly AI agents, can actually find them. A pilot runs in January twenty twenty seven, with a wider rollout from July. The point is that big hotel chains already know how to be found; family run homestays rely on messaging apps and word of mouth. Japan&#x27;s regional tourism operators face exactly the same problem. Via Skift.
+
+Third, Taiwan. Taipei has condemned what it calls transnational repression after the FBI arrested a California estate agent at Los Angeles airport, accused of following the son of Taiwan&#x27;s president in Seattle at Beijing&#x27;s direction. It is another sign that old red lines about operating on foreign soil are blurring. Via International Intrigue.
+
+And fourth, Australia. Counter terrorism police are investigating the background of the co-pilot behind last week&#x27;s attempted hijacking of a FlyDubai flight, who reportedly studied in Melbourne. It lands just as Australia&#x27;s conservative opposition promises its biggest ever cut to migration, so expect the politics to heat up. Via International Intrigue.
+
+Now, over to artificial intelligence and technology.
+
+Section two, AI and tech.
+
+The big story is Reflection AI, a startup valued at twenty five billion dollars that had never released a public model, until now. Its first, called Beam, is an open weight model for coding and agents. It has five hundred and one billion parameters in total, with twenty three billion active at any time. Reflection says it matches a recent Chinese rival at a fraction of the computing cost, though a stronger Chinese model, Moonshot&#x27;s Kimi, still leads on raw ability. The weights are due this month under a permissive Apache licence, and a test is reportedly under way in South Korea. It is being called the DeepSeek of the West, but the lesson is how far ahead Chinese open models still are. Via The Rundown and TLDR.
+
+Second, money. OpenAI is reportedly in talks on a thirty billion dollar funding round, with funds from the United Arab Emirates considering a syndicate of up to ten billion, and BlackRock, Thrive and Andreessen Horowitz also possible. Separately, OpenAI is expanding advertising inside ChatGPT with a new visual format, and has opened a business marketplace with thirty two partners, which TLDR&#x27;s analysts compare to a cloud style app store where buyers get one invoice. Via TLDR.
+
+Third, watermarking. OpenAI will add an invisible text watermark, called textGrain, to ChatGPT and Codex output in the European Union within weeks, to satisfy the AI Act. It is off by default elsewhere, and the detector is limited to vetted researchers. Anthropic launched its own watermark in August, and drew backlash by applying it globally. Via The Rundown.
+
+Fourth, who actually pays for AI. Andreessen Horowitz&#x27;s latest consumer apps list finds only four point five percent of Americans subscribe to a major chatbot, and the top one percent of spenders average nine hundred and three dollars a month. Meta&#x27;s new Muse agent reportedly passed five million downloads in under a month. Via The Rundown.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+Sifted reports that Revolut&#x27;s valuation has gone from forty five billion dollars last summer to seventy five billion in November and now, reportedly, one hundred and fifteen billion, each time through employee share sales. The question from Sifted&#x27;s secondaries panel is who else gets that liquidity. A speaker from Isomer Capital said the boom concerns fewer than one percent of European companies. If you run a fintech without Revolut&#x27;s glamour, liquidity for your team is still a real problem. Via Sifted.
+
+Next, a deal falling through: Monzo&#x27;s reported talks to be acquired by Brazil&#x27;s Nubank have been scrapped. Via Sifted.
+
+And a bright spot in hardware. German factory robotics startup RobCo has passed a one billion dollar valuation in a share sale. Sifted also launched its Sifted two fifty ranking of Europe&#x27;s fastest growing startups, won by wellness marketplace Healf, with Neko Health and security firm Aikido next. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, EU and China. CSIS&#x27;s Francesca Ghiretti argues that Beijing&#x27;s long position paper on so called excess capacity signals that its export driven growth model is not up for negotiation. Chinese exports grew twenty four percent year on year in July and twenty five percent in August. EU Trade Commissioner Maroš Šefčovič visits Beijing on the eighth and ninth of October, and her base case is managed tension, with periodic spikes, rather than a settlement. For anyone doing business with Europe or China, expect friction to become normal. Via CSIS.
+
+Second, Europe&#x27;s own wobble. International Intrigue says the euro fell about one percent on Monday to an eighteen month low, as Spain&#x27;s prime minister called a snap election for the twenty ninth of November and French budget talks deadlocked, with French debt at one hundred and nineteen percent of output. Spreads between French and German bonds are at their widest since the eurozone crisis, leaving the European Central Bank in a bind. Germany and France have also written to Brussels urging stronger powers to block distorted imports. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing. Two ideas worth stealing.
+
+First, from Indie Hackers: price the outcome, not your time. Vikash Kumar Prajapati took a hundred dollar freelance job making eighteen hundred mockups, automated it in thirty minutes, charged three hundred dollars, then turned the script into a product now earning about one hundred and fifty thousand dollars a year. He reached customers through YouTube, where people were already searching for the fix. The same issue has a growth tip: pursue partnerships where both sides gain customers, as one logistics platform did by swapping referrals with warehouse and freight firms. Via Indie Hackers.
+
+Second, from Skift. Informa is buying Clarion for three billion dollars, the second largest deal ever among event organisers, giving one company more leverage over venues and suppliers. The practical takeaway comes from their note on Brand USA, with international arrivals down about twelve percent: plan twenty twenty seven as if overseas attendance stays soft, and build in virtual or regional options. Via Skift.
+
+And finally, one interesting thing.
+
+Works in Progress argues that mosquito borne disease is now a choice. Genetically engineered mosquitoes cut wild populations by up to ninety five percent in trials, yet the American approval of the first one has sat in regulatory limbo for sixteen years, bounced between three agencies. A rival bacterial method finally won full registration in twenty twenty four. The lesson is that the technology exists, and the bottleneck is review capacity. Via Works in Progress.
+
+That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-07.mp3</guid>
+    <pubDate>Wed, 07 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-07.mp3" length="3054960" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Monday, 5 October</title>
     <description>Good morning, and welcome to Byte-sized for Monday the fifth of October. Five sections today, plus a closing thought. A lighter inbox over the weekend, so this one is a little shorter than usual.
 
@@ -1752,58 +1814,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and I&#x27;ll see you ba
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-26.mp3</guid>
     <pubDate>Wed, 26 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-26.mp3" length="3940416" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Monday, 24 August</title>
-    <description>Good morning, it&#x27;s Monday the twenty-fourth of August, and this covers the news from Friday through the weekend. Six sections today, running from Tokyo&#x27;s currency diplomacy to a founder who lost eight million dollars overnight and built it straight back up. Let&#x27;s get into it.
-
-Now, over to Japan and Asia-Pacific.
-
-Tokyo Steps Into the Currency Markets. On the latest Trade Guys podcast, CSIS&#x27;s Bill Reinsch and Scott Miller broke down a joint United States-Japan intervention in currency markets, alongside trade provisions tucked into the Senate&#x27;s farm bill and fresh Trump administration enforcement action against goods linked to forced labour. The currency move is a reminder of how central the Tokyo-Washington relationship remains to managing global trade friction, even while attention drifts toward tariffs elsewhere. Via CSIS.
-
-Japan&#x27;s Boardrooms Get Faster, Not Necessarily Wiser. A Japanese-language dispatch from Uzabase&#x27;s Speeda AI News desk looked at how generative AI is reshaping mid-term corporate planning in Japan, the three-year &quot;public promise&quot; companies traditionally rewrote only occasionally. Plans can now be updated annually, or even continuously, as AI compresses research and analysis that used to take weeks. Yet in a new management-planning survey, only thirteen percent of respondents said they would trust AI&#x27;s output for a decision more or less as it stands. Speed has outpaced trust, and the final call still sits with a person. Via Speeda AI News, Uzabase.
-
-Tokyo&#x27;s Missile Test Rattles Pyongyang. CSIS&#x27;s nuclear policy briefing flagged a sharp read from the Washington Examiner: Japan&#x27;s test-firing of US-made Tomahawk cruise missiles, paired with Tokyo&#x27;s push for its own long-range strike capability, appears to have shifted Kim Jong un&#x27;s nuclear calculus more than anything coming out of Washington. The item landed alongside news that President Trump plans to meet Kim again later this year, and wildly differing estimates of the North&#x27;s arsenal, from Trump&#x27;s own count up to South Korea&#x27;s estimate of one hundred and twenty warheads, more than double what Trump himself cited just a day earlier. It&#x27;s a reminder that on this question, allies watching Pyongyang closely still can&#x27;t agree on the basic facts. Via CSIS&#x27;s Project on Nuclear Issues.
-
-Now, over to AI and tech.
-
-The Hospital System That Built Its Own Claude. Every profiled Headway, a nine-hundred-person mental healthcare company that couldn&#x27;t find an off-the-shelf AI tool meeting its security and compliance bar, so it built one. The result, called Eddy, runs on Anthropic&#x27;s Claude Code SDK inside Headway&#x27;s own cloud environment, with every conversation sandboxed in a disposable container and tightly scoped access to company systems. Six months after starting, the whole company now uses it, and the chief technology officer says relying on outside vendors &quot;felt like we were missing the train.&quot; Via Every.
-
-Slack Wants to Own the Room Where Coding Happens. Salesforce launched Slack Code, which drops coding agents, including Claude Code, Devin, GitHub Copilot and Vercel, straight into shared Slack channels, so engineers and non-technical teammates alike can watch, steer and approve a build as it happens. Deployment stays gated behind human sign-off, and finished projects leave behind a searchable, archived record. It&#x27;s a bet that the winning AI coding platform won&#x27;t be the smartest agent, but the venue where humans and agents already meet. Via TLDR AI and TLDR IT.
-
-Your Meetings Now Do Your Agents&#x27; Homework. Anthropic is testing a Mac-first feature called Project Parka that listens in on meetings, produces speaker-attributed transcripts, and turns them directly into runnable prompts for Claude&#x27;s agents. It&#x27;s not yet clear whether those agents act automatically or wait for a nod first, but the direction is unmistakable: the meeting itself becomes the input, and follow-up work can start before anyone&#x27;s typed a word. Via TLDR AI.
-
-A Chinese Model Jumps Sharply on Security Benchmarks. Z.ai released GLM-5.3, and on two closely watched security benchmarks the jump was steep: its score on CyberGym rose from seventy-seven point two percent to eighty-four point five percent, and on ExploitBench it more than doubled, from twenty-four point four to fifty-four point four. In tests with security teams in China, the model surfaced over two thousand vulnerabilities across two hundred and sixty-nine projects. It&#x27;s a useful marker of how fast frontier coding models are also becoming frontier offensive-security tools, for better and worse. Via TLDR Information Security.
-
-Now, over to startups and venture.
-
-Italy&#x27;s Answer to Big Language Models Tops a Billion. Domyn, the Italian company building its own large language models, has raised one point one billion dollars in debt and equity over two years, and founder Uljan Sharka wants to push that to two billion by year end. It&#x27;s a rare case of a European company chasing frontier-model scale rather than ceding the category entirely to the United States and China, and it lands in the same week Sifted&#x27;s data team reported that European robotics startups alone raised more in the first half of this year than in the previous two years combined. Via Sifted.
-
-Revolut&#x27;s Founder Bets Big on an AI Stock-Picker. QuantumLight, the venture firm co-founded by Revolut&#x27;s Nik Storonsky, closed its second fund at five hundred million dollars, oversubscribed and hitting a hard cap just fifteen months after its first two-hundred-and-fifty-million-dollar fund. The firm leans on an AI system called Aleph that reportedly sifts ten billion data points to hunt for deals, and claims it can move from product demo to term sheet within twenty-four hours. Its portfolio already includes the vibe-coding platform Lovable, Revolut alumnus Alan Chang&#x27;s Fuse Energy, and the San Francisco-based Applied Compute. Via Sifted.
-
-The Midas List Has a Rival, and the Rankings Don&#x27;t Agree. Stanford&#x27;s Ilya Strebulaev built a data-driven alternative to Forbes&#x27; Midas List, scoring nearly thirteen thousand venture investors on value actually captured after dilution, cost, and a three-year decay factor, rather than headline deals. Sequoia comes out on top, but the more striking finding is how little the two lists overlap: when Strebulaev tried to reverse-engineer the Midas List from its own published method, forty-nine of his best-fit top one hundred still didn&#x27;t appear on the real thing. Counting unicorns barely helps either, since one firm with over a hundred unicorns still ranks below a firm with fewer than fifty, because concentrated, capital-efficient bets score higher than a scattershot of small checks. Via The VC Corner.
-
-Now, over to policy and geopolitics.
-
-Cybercrime&#x27;s Twenty-Billion-Dollar Bill. CSIS&#x27;s weekly numbers round-up put a figure on America&#x27;s cybercrime problem: over twenty billion dollars lost annually, serious enough to be named a national security threat in the twenty twenty-three US National Cyber Strategy. The same briefing flagged that the US has now struck more than thirteen thousand Iranian military and industrial targets in Operation Fury, a reminder that air strikes alone haven&#x27;t ended that conflict and land power still matters. On a gentler note, the World Food Programme&#x27;s AI tool, called Scout, saved around six point two million dollars over eighteen months by timing food purchases and storage decisions more precisely. Via CSIS.
-
-Washington Woos Windhoek Over Rare Earths. CSIS&#x27;s Critical Minerals Security Program spent the week on Africa, hosting a dinner in Windhoek on US-Namibia cooperation in mining and energy, attended by the US ambassador and Namibia&#x27;s own mining and capital-markets leadership, and publishing an interview on whether critical minerals could reset the US-South Africa relationship. Both point to the same strategic problem: breaking China&#x27;s grip on rare earth processing takes more than new mines, it takes new demand-side commitments too, since supply-side policy alone hasn&#x27;t been enough. Via CSIS.
-
-Now, over to community, events and marketing.
-
-One idea worth stealing: go and work inside your customer&#x27;s business. Founder Ruslan Leteyski watched Shopify quietly lock down the checkout access his eight-million-dollar business depended on, killing it overnight. His next venture, an AI sales agent called Zipchat, is nearing two million dollars in annual revenue instead. The sharper lesson came from a separate founder in the same newsletter: Jonathan Weinberg took a part-time job inside one of his own customers&#x27; businesses when money ran short, and discovered his software was solving the wrong problem entirely. Repositioning around what he actually saw on the job took his company to eighty thousand dollars a month. Via Indie Hackers.
-
-One idea worth stealing: shout quietly. This month&#x27;s the DO Lectures newsletter is built around unsung effort, the theme they call &quot;shout quietly.&quot; It points to Sylvia Bloom, a legal secretary who quietly built a nine-million-dollar fortune over sixty-seven years and left most of it to send disadvantaged young people to college, and to Chuck Feeney, who gave away billions and insisted, for years, that his gifts stay anonymous. The takeaway for any community builder: recognition and impact don&#x27;t have to travel together. Via The DO Lectures.
-
-And now, to close, one interesting thing.
-
-Economist Tyler Cowen points to a Wall Street Journal piece on founders who now feel obliged to stay awake whenever their AI agents might need a nudge, some running from half past seven in the morning to two the next. An agent stuck for eight hours feels like an unbearable waste. One founder describes it as a kind of fear of missing out, where every idle minute means a week&#x27;s worth of unclaimed agent output slipping away. Cowen&#x27;s dry response: we will get an AI leisure dividend eventually, just not yet. Via Marginal Revolution.
-
-That&#x27;s Byte-sized for Monday the twenty-fourth of August. Back tomorrow with more.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-24.mp3</guid>
-    <pubDate>Mon, 24 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-24.mp3" length="3663504" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
