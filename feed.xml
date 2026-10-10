@@ -7,6 +7,82 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Week in review, 11 October</title>
+    <description>Hello, and welcome to Byte-sized. This is your week of the fifth of October, the week in review, across our usual six sections. Let&#x27;s get into it.
+
+Section one, Japan and Asia Pacific. Where the week landed: Japan&#x27;s own pocketbook and Japan&#x27;s neighbourhood were both under strain, and the most useful reading came from two places, a long look at why Japan rose and stalled, and a very local newsletter from Fukuoka.
+
+Start with the Korean peninsula, which is still the thread to follow. Last week&#x27;s story was a South Korean patrol hit by blasts on its own side of the demarcation line, with Seoul pointing at mines planted by the North. This week the CSIS Korea Chair put it front and centre, with a live episode of The Impossible State podcast titled Brewing Korea Crisis, covering mines, missiles and North Korean prisoners of war, and what it all means for President Lee&#x27;s outreach to Pyongyang. The Korea Chair also announced an event for the fourteenth of October on North Korean human rights and the Russia axis, which tells you where Washington&#x27;s analysts think the real pressure sits. For Japan, which lies squarely within range of any escalation, nothing here has calmed down. Via CSIS.
+
+Second, a quiet reminder that Japan&#x27;s corporate habits are being tested. Japan&#x27;s fair trade watchdog raided all four of the country&#x27;s major beer makers over suspicions of a long running price cartel. International Intrigue&#x27;s reading is that, with households finally feeling inflation after decades of flat prices, regulators are signalling that business as usual will no longer be tolerated. If you advise companies selling into Japan, expect more scrutiny of how prices get set. Via International Intrigue.
+
+Third, the money. Earlier in the week we covered a record high for Japan&#x27;s thirty year government bond yield, driven by worries about Prime Minister Takaichi&#x27;s stimulus plans, with the government telling investors to stay calm. It sits alongside the Bank of Japan&#x27;s quarterly survey, which Fukuoka Now picked up from a regional angle: business sentiment across Kyushu and Okinawa worsened for a second quarter running, with the all industry index down four points to plus seventeen, and hotels and restaurants hit hardest. National headlines say stimulus and yields; the regional ground truth says confidence is soft. Via International Intrigue and Fukuoka Now.
+
+Fourth, Fukuoka itself, which this week is a good case study in a city mid transition. After sixteen years under Mayor Takashima, at least thirteen people have said they will run for mayor. The city also meets the proposed criteria to serve as a backup capital, according to NHK, which is a very Japanese way of saying that resilience is now a selling point for investment. On the everyday side, new season rice was on sale at a supermarket for two thousand nine hundred and seventy yen, below last year&#x27;s price of three thousand two hundred and eighteen. The minimum wage in the prefecture rises to one thousand one hundred and fourteen yen. And a data breach at the discount retailer MrMax may have exposed information on more than one point seven million members, a useful prompt for anyone running a Japanese consumer business to check their own security hygiene. Via Fukuoka Now.
+
+Fifth, a piece of thinking worth your commute. Tomas Pueyo wrapped up his eight part series on Japan with an essay asking why Japan rose so far and then stagnated. The first half is about why Japan was the only non Western country to industrialise and build an empire in the nineteenth century. His answer is a list of ingredients: plentiful food from fertile plains, dense cities, fast coastal transport, widespread trade, high literacy, and, strikingly, an island geography that made defence cheap, much like Britain&#x27;s. He calls Japan the Britain of Asia. The teaser for the second half is that the very things that made Japan rich later became liabilities. Via Uncharted Territories.
+
+Sixth and last in this section, Southeast Asia and the Pacific. CSIS published a study of the Chinese language media landscape in Southeast Asia, arguing that there is no workable strategy against Chinese information operations without buy in from regional partners. CSIS&#x27;s Southeast Asia Radio also looked at Thailand&#x27;s Bhumjaithai party after its first year in power. And in the Pacific, the United States sanctioned a China born, Fiji based businessman, Zhao Fugang, over alleged bribery on behalf of Chinese interests, a signal that Washington is now using anti corruption law to contest influence in the island states. Via CSIS and International Intrigue.
+
+Now, over to artificial intelligence and technology.
+
+Section two, AI and tech. Where the week landed: the model release calendar was busy, but the stories that matter are about money, speed, and who gets trusted to check the work.
+
+First, the model lineup. Anthropic released Claude Haiku 5.5, which it describes as its fastest and cheapest small model to date, aimed at high volume, cost sensitive work. The Rundown&#x27;s practical advice was to hand Claude&#x27;s routine tasks to Haiku and keep the bigger models for the hard parts. Anthropic also halved the price of cache reads on Sonnet 5.5, which TLDR says makes most agentic work around twenty percent cheaper. On the other side, OpenAI rolled out an Ultrafast mode for GPT-6.1 Sol across its interface, its coding tool and its business product, claiming near top tier intelligence at up to eight times the speed, priced at twelve dollars per million input tokens and sixty dollars per million output tokens. The pattern is clear: the race has moved from who is smartest to who is smart enough, fast enough, at a price you can scale. Via TLDR and The Rundown.
+
+Second, agents. Google introduced a universal Gemini agent for knowledge work, media creation, coding and multi step workflows across its workplace tools, with governance and cost controls built in. Meta, Sierra and partners including Shopify, Stripe and Walmart announced a protocol for AI agents, and Microsoft added more than thirty Copilot skills across its business applications. On the consumer side, The Rundown counted a wave of personal agents, from Meta&#x27;s Muse to SpaceXAI&#x27;s GrokBot and OpenAI&#x27;s Dots. Via TLDR and The Rundown.
+
+Third, trust and safety. Three former OpenAI safety researchers, fired for allegedly mishandling sensitive information, went public with an open letter, saying they acted within their mandates and warning that the firings are chilling dissent and may weaken outside auditing. OpenAI says there was a pattern of misconduct and that it agrees with the recommendations on outside evaluators. Separately, Anthropic published its annual usage policy update, including a first of its kind rule, from the twelfth of November, against sustained and needless abuse of Claude itself, and it launched a cyber mission offering free vulnerability scanning for open source projects. Whatever you think of the abuse rule, it is a sign that questions about model welfare are now written into product policy. Via The Rundown and TLDR.
+
+Fourth, the numbers behind the hype. TLDR reported that OpenAI has told investors its annualised revenue is approaching fifty billion dollars, around twenty billion less than a figure circulated a week earlier. The gap seems to come from accounting: Anthropic counts sales made through its cloud partners, and OpenAI does not. The lesson for anyone reading headline revenue comparisons is to check the definition first. Via TLDR.
+
+Fifth, Europe. Mistral released Le Chonk, its latest flagship, which it calls the best open model in Europe and the United States and comparable to leading Chinese systems, ending nearly a year without a major release. Days earlier Germany&#x27;s Aleph Alpha unveiled Kolibri, an open model tuned for regulated sectors and German language work. Sifted reports a surge of optimism about sovereign European AI, and a Hugging Face executive summed it up in capital letters. Via Sifted.
+
+Now, over to startups and venture.
+
+Section three, startups and venture. Where the week landed: capital is flowing to AI infrastructure and to agents that do real work, while the advice for everyone else is to be sharper about who they are raising from.
+
+First, the big rounds. Valon raised one hundred and fifty million dollars led by Ribbit Capital, with Andreessen Horowitz taking part. Hone, a five month old startup founded by veterans of some of the fastest growing AI companies, raised a sixty million dollar seed round to build agents that run parts of a business over weeks or months. Via TLDR.
+
+Second, Europe&#x27;s deal flow, from Sifted. A weight loss startup, Yazen, raised fifty million euros in a Series B led by Verdane. A Paris biotech, Rivercell, raised a twenty five million dollar seed round to build a model that predicts human cell behaviour. And smaller rounds included VoltR, which remanufactures used lithium cells, and Noah, a stablecoin payments infrastructure company. The theme is AI applied to biology, batteries and payments, not chatbots. Via Sifted.
+
+Third, a lesson on acquirers. Bending Spoons, the Italian company that went public on Nasdaq in July at an eighteen billion dollar valuation, has bought more than fifty companies, including WeTransfer, Vimeo and AOL. At Sifted Summit its chief executive explained why deals can fail, which is useful reading if exit through acquisition is your plan. Sifted also published a panel of Series A investors on what they want to see, with timing, story and clarity about the investor&#x27;s own needs at the top of the list. Via Sifted.
+
+Fourth, founder tools. The VC Corner published two curated lists this week: eighty seed stage AI funds that invested in the last one hundred and eighty days, and nine hundred and seventy three funds under two hundred million dollars, scored for fit. If you are fundraising, that is a ready made target list. And the speedrun accelerator published answers to the questions founder applicants ask most. Via The VC Corner and Speedrun.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics. Where the week landed: the pressure points are undersea, in the air, and in supply chains, and several of them touch Japan and its partners.
+
+First, and most relevant to anyone in infrastructure or telecoms, CSIS&#x27;s Futures Lab published a study of two hundred and twenty three research vessels across forty eight countries. It finds that Chinese flagged research ships spend a disproportionate share of their time near critical undersea infrastructure on the high seas, with case studies near Guam, the western Pacific and the Bering Sea. The data cannot prove intent, but the report recommends that allies share evidence, run joint maritime patrols near cables, and invest in regional repair hubs and cable repair fleets. For Japan and its neighbours, this is the cable security debate in plain data. Via CSIS.
+
+Second, the Middle East is now hitting aviation. Yemen&#x27;s Houthis struck airports in Riyadh and Abha, killing at least three people, just as Saudi backed forces press to retake coastal areas near the Bab al Mandeb strait. The knock on effects were visible elsewhere in the week: Trafigura reportedly paid seventy six million dollars to charter one oil tanker from the United States Gulf Coast to China, around ten times the pre war rate, and Skift reported that airlines expect record revenues while rising fuel costs erase most of the gains. Delta is among the few expected to stay profitable despite six billion dollars of extra fuel costs. Via International Intrigue and Skift.
+
+Third, a supply chain story with a human lesson. Components for F-35 fighter jets were reportedly routed through Hong Kong after a missed email at a courier firm. The point, as International Intrigue put it, is that mundane error often beats conspiracy, and even large security budgets can be undone by a missed message. Via International Intrigue.
+
+Fourth, a health scare with a transparency problem. A young employee at a Siberian anti plague laboratory died last week, and Russian authorities have offered little beyond &quot;pneumonia of unknown cause&quot;, while the World Health Organization and the United States ask for more information. Mongolia and several Central Asian states have tightened border health checks. The risk of wider spread looks low, but the story is really about whether governments share information quickly. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing. These are practical takeaways rather than news. Where the week landed: the best ideas this week were about how people gather, and how people are found.
+
+One idea worth stealing: the Fukuoka Now roundtable format. The publisher is hosting a free, English language session on the thirtieth of October at CIC Fukuoka about the city&#x27;s mayoral race. The twist is the framing: it explicitly does not endorse a candidate, it invites people who cannot vote but live and work in the city, and it puts audience questions at the centre. If you run a community of internationals in any city, a no endorsement, issues first discussion with a local expert and a moderator is a cheap way to become the place people go to understand what is happening. Via Fukuoka Now.
+
+A second idea, for marketers: Amanda Natividad argues that the buyer journey is happening without you, and points to three studies that should change how you measure marketing. Her theme, tied to her book on zero click marketing, is that much of the influence on a purchase occurs where your analytics cannot see it, so you should stop treating click based attribution as the whole truth. Via Amanda Natividad&#x27;s newsletter.
+
+And for community builders, Priya Parker&#x27;s Group Life hosted MIT professor Sherry Turkle on her new book, Artificial Intimacy, about what we become when we talk to machines and the de skilling of humans. My takeaway, not hers: as people lean on AI companions, the in person gathering that is well designed becomes more valuable, not less. Via Priya Parker.
+
+Now, for one last thing.
+
+Section six, one interesting thing. Samuel Hughes, writing in Works in Progress, asks why Victorian Britain&#x27;s elites were so successful when they got up late, drank a great deal, and spent half the year at parties. His answer is that the parties were the work. Balls, dinners and the London Season, held in a district small enough to walk across, created a tight community that shared friends, relatives and values, and that bound a very diverse ruling class into one. That community could pay in prestige rather than money, so Parliament was filled with unpaid MPs who spent a fortune to win their seats. The idea is that team building and networking, taken to an extreme, can be a competitive advantage rather than a distraction. Via Works in Progress.
+
+That&#x27;s your week in review. Thank you for listening, and have a good week ahead.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-11.mp3</guid>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-11.mp3" length="5604912" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 7 October</title>
     <description>Good morning, and welcome to Byte-sized for Wednesday the seventh of October. Five sections today, plus a closing thought. This one covers everything since Monday&#x27;s edition, so there is a little more to get through.
 
@@ -1760,60 +1836,6 @@ That&#x27;s your six sections for today. Thanks for listening, and I&#x27;ll cat
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3</guid>
     <pubDate>Thu, 27 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3" length="3467808" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Wednesday, 26 August</title>
-    <description>Good morning. It&#x27;s Wednesday, the twenty sixth of August, and this episode carries six sections of news gathered since Monday. Let&#x27;s get into it.
-
-Now, over to Japan and Asia Pacific.
-
-Letara Raises Sixteen Million Dollars to Build Bigger Rockets. A Japanese startup building rocket propulsion systems, Letara, has raised sixteen million dollars in a round co-led by Headline Asia, J I C Venture Growth Investment, and Incubate Fund. The company started out building thrusters for satellites, but this new money is earmarked for larger hybrid rocket systems aimed at the space, defence, and security markets. It&#x27;s a reminder that Japan&#x27;s small but growing space technology scene keeps punching above its weight. Via This Week in Startups.
-
-A Stolen Blueprint Behind China&#x27;s Biggest Memory Chip Maker. Testimony in a South Korean criminal trial has laid out, in striking detail, how China&#x27;s now largest maker of memory chips got its start. Prosecutors say a Samsung engineer of twenty eight years&#x27; standing left for China&#x27;s C X M T around 2016 carrying a six hundred step process manual covering an entire generation of Samsung&#x27;s memory chip technology, from deposition through to annealing. He was sentenced to seven years in prison this April, but the technology transfer is already done, and it&#x27;s said to have saved C X M T years of independent development. It&#x27;s a sharp illustration of how contested the boundary still is between Asian chipmaking rivals. Via T L D R.
-
-Beijing&#x27;s Robot Olympics Signals Who&#x27;s Winning the Humanoid Race. Beijing has just wrapped its second annual World Humanoid Robot Games, and the numbers tell their own story: over two thousand robots and more than six hundred teams took part, the vast majority of them Chinese. Unlike last year, most contests now test genuine autonomous skill, wiring circuits, sorting parcels, working a restaurant floor, rather than remote controlled stunts. Chinese firms including AgiBot and Unitree are already said to account for roughly three quarters of humanoid robots shipped worldwide, helped by a nearly fully localised supply chain, and Unitree&#x27;s share price has surged several fold since its Shanghai listing. Washington, meanwhile, has just moved to restrict imports of foreign advanced robotic hardware. Via International Intrigue.
-
-A Kyushu Roundtable Tackles What&#x27;s Broken in Japanese Healthcare. Closer to home, Fukuoka Now is hosting its sixth Kyushu Roundtable next month, this time on healthcare, with Doctor Ronald Schlemper, a Dutch physician who has practised in Fukuoka for decades, comparing how Japanese and European medicine handle patients differently. It&#x27;s a small, English language gathering capped at forty five seats, but it&#x27;s exactly the kind of grounded, practical event that makes navigating Japan&#x27;s healthcare system as a foreign resident a little less daunting. Via Fukuoka Now.
-
-Now, over to AI and tech.
-
-Why a Fintech Company Ditched Claude Code to Build Its Own Coding Agent. The fintech company Ramp has quietly built its own AI coding agent rather than relying on Claude Code or Cursor, and the results are hard to argue with. A tool called Inspect, built by a team of just five and a half people, now produces three quarters of all the code that gets merged at the company, up from sixty percent back in January. It began life as a Chrome extension before evolving into a full remote development environment that can spin up a sandbox in under five seconds. Ramp isn&#x27;t alone either, Stripe, Block, and Shopify have all built comparable in-house agents of their own. Via The Pragmatic Engineer.
-
-OpenAI Claws Back Ground on Anthropic in the Corporate Wallet War. The competitive picture between OpenAI and Anthropic for corporate spending keeps shifting. Data from Ramp, covering more than seventy thousand companies, shows Anthropic ahead in May and July, but OpenAI clawing back share as the third quarter gets underway. Interestingly, within Anthropic&#x27;s own customer base, its pricier Fable model now accounts for barely a tenth of spending, with the cheaper Opus model overtaking it within a month, a sign that businesses are becoming far more price sensitive about which model they reach for. Via T L D R.
-
-Nvidia&#x27;s New Chip Claims the Fastest Inference Yet. Nvidia has pushed its new Groq three L P X inference chip into full production, an extension of its Vera Rubin platform that the company claims responds four times faster than the nearest rival and can turn hour long agentic tasks into minutes. Nebius has already committed to deploying it. In a stranger footnote, an anonymous AI model calling itself Ox Alpha appeared for free on the OpenRouter marketplace and processed twenty six trillion tokens in just four days, drawing over three hundred thousand users before anyone quite worked out who built it, though the naming and behaviour point toward a Chinese lab. Via T L D R.
-
-Alibaba Bets Ten Billion Dollars on the AI Build-Out. Alibaba is putting real money behind its AI ambitions, planning to raise around ten billion dollars through a share sale to expand chips, data centres, and model development, just days after reporting a seventy five percent jump in AI related capital spending. Via T L D R.
-
-Now, over to startups and venture.
-
-Solo Founders Need Sixty Percent Less Capital Than They Used To. Starting a company has arguably never been cheaper. The share of startups built by a single founder has grown from under a quarter in 2019 to over a third last year, helped by the running cost of AI tools falling roughly a hundredfold in two years. Solo founders are punching above their funding too, Wix&#x27;s eighty million dollar acquisition of Base44, built by one person in six months, is becoming something of a template. But solo led startups, despite making up over a third of new companies, still capture only around fifteen percent of venture funding, a gap investors haven&#x27;t fully closed. Via The V C Corner.
-
-Hugging Face Explores a Sale Nearly Three Times Its Last Valuation. Hugging Face, the open source AI hub, is reportedly in talks with a bank about a sale that could value it above thirteen billion dollars, nearly three times its twenty twenty three valuation. The platform now hosts more than two point seven million models and thirteen million users, a long way from its origins as a teenage chatbot app in Paris a decade ago. Via Sifted.
-
-Europe Weighs Chasing the AI Frontier or Playing a Different Game. There&#x27;s a real debate underway about whether Europe can still compete at the frontier of AI, or whether it should play a different game entirely. Italian model maker Domyn says it has raised over a billion dollars so far, mostly in debt, and expects to add another billion in equity this year as it leads the European Union&#x27;s Europa consortium on frontier models. Meanwhile France has pointedly ruled out OpenAI for sensitive public sector cybersecurity work in favour of the homegrown Mistral AI, and a fresh crop of nineteen European startups are betting not on chasing frontier scale but on making AI radically more efficient, led by Multiverse Computing, which just raised five hundred million euros at a two billion valuation for its model compression technology. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-Eighteen Months In, Countries Have Learned to Read Trump&#x27;s Tariff Bluffs. Countries seem to have found the playbook for handling the current wave of tariff threats. CSIS trade analysts point out that despite the fifty percent tariff Washington has threatened against Canada, it actually touches less than five percent of Canadian imports, and the average real US tariff rate sits around eleven percent, far below the headline numbers. Countries are increasingly responding with vague, nonbinding framework agreements that let Washington claim a win while quietly preserving the status quo. The moments that actually shifted US behaviour were the forceful ones: Iran closing the Strait of Hormuz, and China tightening its grip on critical minerals exports. Via CSIS.
-
-Washington Declares Economic Warfare on Iran as Canada Talks Collapse. The Treasury Department has launched what it&#x27;s calling an economic D Day against Iran, threatening secondary sanctions across digital assets, gold, technology, aviation, and shipping, and naming sixty entities so far, with a major financial institution reportedly next. Notably absent from the list is China, which still buys the vast majority of Iran&#x27;s oil through a shadow fleet of tankers, a gap that lines up conveniently with President Xi&#x27;s planned visit to Washington next month. Separately, trade talks between the US and Canada have collapsed altogether, with Washington doubling car tariffs to fifty percent from the new year and Canada promising dollar for dollar retaliation on twenty billion dollars of American goods. Via International Intrigue.
-
-Now, over to community, events, and marketing.
-
-Puzzle Nights Are the New Dating Apps. Here&#x27;s one worth stealing. Young people are trading dating apps and doom scrolling for what&#x27;s being called soft socialising, low pressure, activity based meetups where the point is the puzzle or the trivia night, not the small talk. Puzzle events are up a hundred and fifty one percent year on year, mahjong meetups up ninety four percent. If you&#x27;re building community, the lesson is to give people something to do together, not just a room to stand around in. Via T L D R.
-
-Community Teams Still Can&#x27;t Prove Their Own Value. CMX&#x27;s latest community industry report has a sobering headline of its own: only seventeen percent of community professionals feel confident they can prove their work&#x27;s business value, down from a quarter last year, even though ninety three percent of them are now using AI tools and in-person events are on the rise again. If you run a community programme, that gap between doing good work and proving it in numbers the C-suite understands might be the thing worth fixing first. Via CMX.
-
-Finally, one interesting thing to take you into the rest of the week.
-
-The writer Rebecca Solnit, by way of Dense Discovery, has a thought worth sitting with. She argues that we increasingly crave tidy, airtight categories, total success or total failure, in ways that flatten anything genuinely complicated, and that once something gets filed into a category, that&#x27;s often where thinking about it stops rather than starts. Her point isn&#x27;t that nuance is nice to have, it&#x27;s that treating the status quo or the middle ground as automatically neutral is its own kind of bias, dressed up as balance. Real understanding, she argues, means being able to hold two true but contradictory things at once. Via Dense Discovery.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and I&#x27;ll see you back here tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-26.mp3</guid>
-    <pubDate>Wed, 26 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-26.mp3" length="3940416" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
