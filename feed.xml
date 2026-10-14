@@ -7,6 +7,132 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 15 October</title>
+    <description>Good morning, and welcome to Byte-sized for Thursday, the fifteenth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, a Japanese journalist detained in Russia. Russian authorities have arrested Yuki Imai, a reporter for the Hokkaido Shimbun, accusing him of gathering information on Russian military activity in the Far East. The timing is delicate. President Putin recently angered Tokyo by visiting the contested Kuril Islands, and Moscow has a record of holding foreign journalists as bargaining chips. Expect this to become a diplomatic test for the Japanese government. Via International Intrigue.
+
+Second, a French defence firm comes to Japan. Thales is set to become the first foreign defence company to open a dedicated military maintenance base in the country, starting with servicing naval sensors and radars, and transferring technology to build heavy mortar systems locally from twenty twenty seven. Tokyo has traditionally kept such work for domestic champions like Mitsubishi and Kawasaki. The reading is that Japan&#x27;s historic defence spending increase is now running into supply chain limits, which opens the door to foreign partners. Via International Intrigue.
+
+Third, South Korea&#x27;s Arctic shortcut. A Korean container ship has just completed a round trip to Europe via the Arctic, returning to Busan ten to fourteen days faster than the usual Suez route, with about thirty five percent less distance. It is a hedge against fragile chokepoints like Hormuz, the Red Sea and Panama. But the route runs through Russian controlled waters, which raises sanctions questions in Western capitals. For Japan, which is just as dependent on sea lanes and just as exposed to those chokepoints, expect the same debate to arrive at home. Via International Intrigue.
+
+Fourth, one for your diary. The CSIS and Nikkei Symposium takes place in Tokyo on Friday the twenty third of October, on the future of the Indo-Pacific order. Japan&#x27;s defence minister, Shinjiro Koizumi, gives a special address, and sessions cover the United States, China and Japan triangle and regional views on trade and security. In person registration closes today, Japan time, and online viewing is open until midday on the day. Via CSIS.
+
+Now, over to artificial intelligence and technology.
+
+Section two, AI and tech.
+
+First, the story every AI newsletter is talking about. Federal prosecutors have charged OpenAI engineer Abdulrahman Alfozan, a Saudi national, with hiding a listening device behind a television in an executive meeting room at the San Francisco office. OpenAI&#x27;s security team found it on the thirtieth of September, and the company says its own models helped analyse the device&#x27;s storage and trace it to him. OpenAI says no model weights, source code or customer data were accessed. Prosecutors haven&#x27;t linked the case to any foreign government, but the United States Attorney called it a matter of national security. The lesson for anyone building in this space: the insider is as big a risk as the model. Via The Rundown and TLDR.
+
+Second, chips. Microsoft says that from twenty twenty seven it will deploy its own Maia accelerators at multi gigawatt scale, making Maia the main inference system for its own products. The next generation uses TSMC&#x27;s latest process and targets long, multi step agent workloads. This is the pattern to watch: every big cloud is reducing its dependence on a single chip supplier. Via TLDR.
+
+Third, how close is self improving AI? Anthropic co founder Jack Clark has moved his estimate for fully automated AI research forward by a year, to twenty twenty seven, citing a new test of how good models are at research judgement. In that test, Anthropic&#x27;s latest model beat a panel of human experts at roughly one thirtieth of the cost per attempt. Anthropic engineers also say coding is no longer their bottleneck, with daily code merges up more than tenfold since May. Whatever you think of the forecast, the direction of travel is clear. Via The Rundown.
+
+Fourth, Google has opened general access to Gemini 4 Argon, in the Gemini app, in search&#x27;s AI Mode and on Google Cloud, priced at two dollars and ten dollars per million tokens for input and output. Enterprise buyers now have another frontier option to compare. Via The Rundown and TLDR.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, a cautionary tale from the consumer AI boom. Character dot AI has filed for Chapter Eleven bankruptcy to run a court supervised sale. It was once valued at around two and a half billion dollars, and at its peak was answering twenty thousand messages a second. Disney, which once threatened it with legal action, has put in the opening bid of twenty million dollars for a licence to some of the technology. If no buyer appears by early December, the service will probably shut. Safety lawsuits and a loss of direction did the damage, a reminder that attention is not a business model. Via The Rundown and TLDR.
+
+Second, a sales playbook worth studying. The VC Corner breaks down how Rippling, valued at about seventeen billion dollars, grew its pipeline. When it swapped email sequencing software for people working the very same accounts, conversion rose from about one percent to between three and seven percent. Roughly half of the thirteen hundred meetings booked each month are still arranged by phone, and outbound now drives more than half of revenue. The honest caveat is that the maths only works because of the company&#x27;s many products and high lifetime value, so a one product firm selling a small contract should not copy the headcount. Copy the habits instead: fix conversion before buying more lists, and be specific about who you refuse to call. Via The VC Corner.
+
+Third, travel tech. Booking Holdings has launched Vayo, an AI travel agent that organises bookings from a traveller&#x27;s inbox and watches trips for savings and disruption, including reservations made outside Booking&#x27;s own brands. The company plans to invest a hundred million dollars. The signal is that the big platforms now want to own the assistant layer, not just the inventory. Via PhocusWire.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, China has frozen assets of, and banned visas for, cabinet ministers from Paraguay and Belize over their diplomatic ties with Taiwan. The measures are mostly symbolic, since few of those ministers hold Chinese assets, but they raise the personal cost of supporting Taipei, and Paraguay&#x27;s agricultural lobby is already pushing its government to switch recognition for better access to the Chinese market. Taiwan has twelve formal partners left. Via International Intrigue.
+
+Second, a global warning on AI safety. Geoffrey Hinton and Yoshua Bengio, with more than four hundred other scientists, have signed an open letter calling for an international body to log what they call containment failures, and asking labs to keep models capable of hacking offline by default. Governments have so far preferred voluntary commitments, so watch whether this nudges anyone towards a formal incident reporting regime. Via The Rundown.
+
+Third, stablecoins as geopolitics. Tomas Pueyo argues that stablecoins, now worth over three hundred billion dollars, behave like silver to Bitcoin&#x27;s gold: stable enough to be useful as money. If dollar stablecoins spread worldwide, Washington could borrow more cheaply, but the dollar&#x27;s reach would grow and the leverage of the SWIFT payments network would shrink, and smaller countries would find their own monetary policy weaker. It is a useful frame for any conversation with government or finance people. Via Uncharted Territories.
+
+Now, over to community, events and marketing.
+
+Section five, one idea worth stealing.
+
+Sifted interviews Sophie Rogers, who landed a community manager job at Lovable. Her first attempt was to wait outside the company&#x27;s Stockholm office with a box of cakes bearing the message that building communities requires sweet ingredients. It didn&#x27;t work. So she started a video series, Builders Brew, where she walks around Stockholm drinking tea with founders, grew an audience, and applied again. The idea worth stealing: don&#x27;t send the application, build the proof. A small recurring series that features the people you want to work with is a better calling card than a cover letter, and it works just as well for community builders as for job hunters.
+
+And a second, short one from Skift. Travel brands such as Hostelworld, Timeleft and WeRoad now charge for social access, as more of everyday social life has to be deliberately arranged. Solo travellers often lead group trips. If you run events, the takeaway is that connection itself is the product, and people will pay for someone else to organise it. Via Skift.
+
+Now, one last thing.
+
+Section six, one interesting thing. Adam Mastroianni of Experimental History takes on the fear that AI will take all the jobs. He points to what economists call the lump of labour fallacy, the mistaken idea that there is a fixed list of work to be done. If that were true, unemployment should have climbed ever since the Industrial Revolution, yet it is about where it was eighty years ago. His explanation is that human wants are endless: give a mouse a cookie and it asks for milk, then a straw. We cannot imagine the new desires we will have once the current ones are met. And the bank teller is a nice example: it was not the cash machine that disrupted the job but the smartphone, and there are still over three hundred and twenty nine thousand tellers in the United States. Via Experimental History.
+
+That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-15.mp3</guid>
+    <pubDate>Thu, 15 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-15.mp3" length="3702672" type="audio/mpeg"/>
+  </item>
+  <item>
+    <title>Byte-sized — Tuesday, 13 October</title>
+    <description>Good evening, and welcome to Byte-sized for Tuesday, the thirteenth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific. A note up front: today&#x27;s inbox was light on Japan itself, so this section leans on the wider region, with a Korean peninsula angle that matters directly to Tokyo.
+
+First, China and Europe. According to Bloomberg, relayed by International Intrigue, Beijing has agreed to cap its own surging exports of hybrid cars to the European Union, accepting a four year quota framework starting in December. The backdrop is that hybrid exports to Europe grew thirteen fold through a loophole in the EU&#x27;s 2024 tariffs on electric vehicles. The sharp observation is that a cap on exports may simply move final assembly into the Chinese brand factories now being built across Europe, so the competitive pressure on European carmakers may not disappear, just move inside the fence. For anyone watching Japanese automakers in Europe, that is the squeeze to keep an eye on. Via International Intrigue.
+
+Second, Indonesia. Jakarta is considering a freeze on new smelters that produce semi finished nickel, to curb overproduction and protect prices. Years ago, Indonesia banned raw nickel exports to force buyers, mostly Chinese, to build refining capacity locally. Many invested the bare minimum, creating a glut of partly processed metal finished elsewhere. This is the follow up attempt to push investors higher up the value chain, and a good example of how resource nationalism is less a switch than a continuing negotiation. Via International Intrigue.
+
+Third, Pakistan and South Asia. President Zardari has declared a state of emergency in Khyber Pakhtunkhwa and suspended its provincial government, citing the ruling party&#x27;s failure to crack down on Islamist groups. The opposition has been organising a march on the capital to demand the release of Imran Khan, so critics will read this as pre-emptive politics. Via International Intrigue.
+
+Fourth, India&#x27;s tourism ambitions. Skift reports that India&#x27;s foreign tourist arrivals are falling and its promotion budget has been cut, even as the stated goal is to grow from nine million visitors to one hundred million in twenty two years. The point of the piece is that a big number is not a plan. Worth remembering when we hear Japan&#x27;s own inbound tourism targets. Via Skift.
+
+Fifth, Korea. CSIS is hosting a conversation on the thirteenth with General Xavier Brunson, who commands United Nations Command, Combined Forces Korea and United States Forces Korea. Following last week&#x27;s tensions along the demilitarised zone, expect his comments on landpower and deterrence to be read closely in Seoul and Tokyo alike. Via CSIS.
+
+Now, over to artificial intelligence and technology.
+
+Section two, AI and tech.
+
+First, Europe&#x27;s open model comeback. Sifted reports that Mistral has released a new flagship open weight model, nicknamed Le Chonk, after nearly a year without a large release, and describes it as state of the art. Days earlier, Germany&#x27;s Aleph Alpha unveiled its own open weight model, tuned for regulated sectors like public administration and aerospace, and trained in Europe with a focus on German. Both are pitched as sovereign alternatives to American and Chinese labs. As one founder put it, Mistral is no longer alone in Europe. Via Sifted.
+
+Second, the flip side of open models. A new report from Tech Against Terrorism says that so called abliterated versions, where the safety guardrails have been stripped out, will answer nearly all harmful requests. Hugging Face pushes back, arguing that open access is essential to the research that makes the ecosystem safer, and that some recommendations could backfire. A live policy argument for anyone selling open models to enterprises. Via Sifted.
+
+Third, Microsoft&#x27;s Satya Nadella has published an essay urging companies to treat advanced AI like a powerful employee who could slip up or be hacked. His asks: permissions and logs the AI cannot edit, no model grading its own work, an emergency brake a human can pull, and models that explain their reasoning in plain words. His closing line is that the most trustworthy system is the one that requires us to trust the model the least. Via The Rundown.
+
+Fourth, the money behind the machines. Nvidia is reportedly in early talks to buy, or acqui-hire, Reflection AI, the American open model start-up it already backs with around eight hundred million dollars. And TLDR notes that global PC shipments fell roughly twenty percent year on year in the third quarter, as AI&#x27;s appetite for memory pushes up component prices. Also from TLDR: Google has launched an enterprise Gemini agent with its own workplace identity, email address and audit trail, positioning it as a digital coworker rather than a chatbot. Via TLDR.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, what counts as a moat. Sifted, reporting from the Unlock VC summit in Barcelona, says investors now believe a product alone is no longer defensible, because development tools have made building cheap and deep pocketed model makers can move into any category. Instead, they look for sophisticated go to market and a brand buyers trust, plus talent, with giant rounds clustering around researchers who have just left DeepMind. Via Sifted.
+
+Second, talent policy in the United Kingdom. The government has said it will legislate against non compete clauses, with detail expected at the Autumn Budget. More than twenty AI founders and executives had lobbied for it, arguing long restrictions hold back growth and keep top researchers out of the labour market. Founders in any jurisdiction with non competes should watch how this lands. Via Sifted.
+
+Third, a reminder that hardware is hard. Daedalus, a German factory automation start-up founded by a former OpenAI technical lead, has entered insolvency proceedings, according to court filings seen by Sifted. Meanwhile another German robotics firm, RobCo, passed a one billion dollar valuation in a share sale, and Revolut&#x27;s chief executive told a podcast that he wants to dominate the United States, with a full digital bank including credit cards and loans. Via Sifted and TLDR.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, Russia&#x27;s diesel. International Intrigue explains that President Trump has eased sanctions to let Russian diesel reach world markets, announcing an energy ceasefire between Moscow and Kyiv that Ukraine says it was not told about. The numbers are small: the first release of three hundred thousand tonnes covers American demand for about thirteen hours, and Ukraine has already knocked out a third of Russian refining capacity. The more lasting cost is credibility, since the exemption comes weeks after a bill threatening tariffs on buyers of Russian energy. Context: Brent crude is at its highest since 1991. Via International Intrigue.
+
+Second, the Gulf. Houthi strikes on Riyadh&#x27;s international airport over the weekend killed thirteen and injured around three hundred, the deadliest attack on the kingdom since the Iran war began. Several oil majors&#x27; chief executives quietly dropped out of this week&#x27;s World Petroleum Council congress in Riyadh, which is a real dent in Saudi Arabia&#x27;s safe for business story. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, one idea worth stealing.
+
+The Event Design Collective is reviewing the IMEX trade show not by scoring it but by asking better questions. What is the event actually designed to create, and for whom? Their checklist is worth borrowing for any event you run: what is the intended value, which stakeholders matter, what is strong, where are the tensions, what culture does the event create, and what would you want to understand before recommending changes. Try it on your own next meetup before you count meetings booked. Via Event Design Collective.
+
+Now, one last thing.
+
+Section six, one interesting thing. Patrick Collison, quoted on Marginal Revolution, argues that companies are in some sense the original superintelligence. They already pool many minds, long memory and specialised roles into a single decision maker. The interesting implication for the age of agents is that the question is less whether a smart agent can beat a person, and more how it fits inside the structures companies already use to coordinate, check and correct themselves. Via Marginal Revolution.
+
+That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3</guid>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3" length="3281904" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Week in review, 11 October</title>
     <description>Hello, and welcome to Byte-sized. This is your week of the fifth of October, the week in review, across our usual six sections. Let&#x27;s get into it.
 
@@ -1726,116 +1852,6 @@ That&#x27;s the week in review. Thanks for listening, and I&#x27;ll be back tomo
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-30.mp3</guid>
     <pubDate>Sun, 30 Aug 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-30.mp3" length="5832864" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Saturday, 29 August</title>
-    <description>Hello, and welcome to Byte-sized for Saturday, the twenty ninth of August. Six sections today, so let&#x27;s get straight into it.
-
-JAPAN AND ASIA PACIFIC
-
-We start with Japan&#x27;s prime minister, Sanae Takaichi, who six months after leading her Liberal Democratic Party to a two thirds majority in the Lower House is still riding what analysts are calling an approval shield. Her public support tracks the polling patterns of Japan&#x27;s most resilient postwar leaders, which has been enough to keep would-be rivals inside her own party quiet. That shield is conditional, though: as the autumn parliamentary session opens, she faces a cabinet reshuffle and has to prove her domestic agenda is actually landing with voters, all while keeping Japan&#x27;s commitments abroad on track. Via CSIS.
-
-Next, a large vote of confidence in Japan&#x27;s chip industry. Memory makers Kioxia and Sandisk are planning to invest more than thirty one billion dollars in Japan through 2032, including eleven point three billion dollars for a new plant in Kitakami. It is one of the clearest signs yet that, even as Washington and Beijing fight over chip export rules and Washington now weighs tariffs of its own, Japan is positioning itself as a safe, well capitalised base for the memory hardware that AI data centres the world over are racing to build. Via TLDR.
-
-And over in Southeast Asia, a CSIS podcast this week dug into Myanmar&#x27;s junta government, its recent diplomatic outreach to ASEAN, and what its neighbours can realistically expect next. The takeaway is that the junta is playing a longer diplomatic game than outsiders often give it credit for, using engagement with the regional bloc to slowly normalise its position. Via CSIS.
-
-Now, over to AI and tech.
-
-The story dominating every newsletter in my inbox this week: Nvidia has reportedly agreed to buy Hugging Face, the open source hub where developers share and test AI models, for twelve point nine billion dollars, though some reports suggest the deal isn&#x27;t fully signed yet. Buying Hugging Face would give Nvidia a foothold in models and developer tools to go with its dominance in chips. In the same breath, Amazon Web Services is tripling its already enormous Nvidia order, adding two million more chips, including the newest Blackwell Ultra and Rubin systems, after demand blew past its earlier commitment of a million GPUs. Via TLDR and Sifted.
-
-Anthropic, meanwhile, is doubling down on compute and on its independence. The company has struck a six year, forty five billion dollar deal with Nscale, a UK based AI infrastructure specialist, to lease four hundred and sixty megawatts of capacity from a new West Virginia campus running Nvidia&#x27;s next generation Vera Rubin chips, due online in late 2027. That came in the same week a federal judge blocked the Pentagon&#x27;s attempt to blacklist Anthropic after the company refused to let the military use Claude without restrictions, a reminder that being the AI lab with the firmest safety lines can carry real commercial cost, but also real legal protection. Via TLDR and Sifted.
-
-Not every AI story is about who is spending the most, though. A growing number of American startups are quietly switching away from OpenAI and Anthropic toward Chinese models to save money, and the price gap explains why: DeepSeek charges around fourteen cents per million tokens against OpenAI&#x27;s five dollars. Chinese models are reportedly now dominating traffic on OpenRouter, the AI routing marketplace, even as US lawmakers investigate the security and data privacy risks of running so much American software on Chinese made models. Via TLDR.
-
-And Anthropic isn&#x27;t just chasing software any more. It has opened a research preview of what it calls the Model Hardware Standard, a companion to its now familiar Model Context Protocol, designed to let AI agents operate physical equipment like microscopes and robotic arms using plain language descriptions instead of weeks of custom code. In one demonstration, Claude taught itself to align a laboratory laser through trial and error, then turned what it learned into a script that did the job in a single pass. Equipment makers Tecan and Qiagen, along with AWS, Hugging Face and Raspberry Pi, are already on board. Via The Rundown.
-
-Now, over to startups and venture.
-
-New data from Sifted shows just how aggressively American money is chasing European startups this year. Between January and the end of August, seven hundred and thirty eight US headquartered investors wrote cheques into European companies, with familiar names like Y Combinator, Sequoia, Andreessen Horowitz and General Catalyst among the most active. Most of that money, sixty six percent, is going into early stage deals, and it&#x27;s overwhelmingly chasing AI, deep tech and fintech. Sifted also flagged a striking concentration problem closer to home: just three companies, the defence tech firms Helsing and Quantum Systems and the robotics scaleup Neura Robotics, accounted for nearly forty four percent of all the money raised by German startups so far this year. Via Sifted.
-
-Elsewhere, the Advent and Stripe consortium has walked away from its pursuit of PayPal, after reportedly offering more than fifty billion dollars for one of online payment&#x27;s oldest names. It&#x27;s a rare example of a mega deal being allowed to quietly die rather than dragging on for months. Via TLDR.
-
-And a sharper look at what AI is actually doing inside engineering teams: The Pragmatic Engineer newsletter this week pushed back on a viral OpenAI case study claiming Codex helped Asana clear five years of testing migration work in two weeks. The real story, confirmed directly with Asana&#x27;s engineering leadership, is more mundane but still striking: a low priority migration that would have dragged on for years got done in a couple of weeks once AI tools were pointed at it, echoing similar AI assisted migrations at Airbnb and Uber that shrank projects from years to weeks. The lesson for founders isn&#x27;t the eye catching dollar figure, it&#x27;s that AI is quietly making previously unthinkable technical debt projects worth doing. Via Pragmatic Engineer.
-
-Now, over to policy and geopolitics.
-
-The strangest story of the week comes from the Spanish enclave of Ceuta, where more than seventy thousand people crossed from Morocco in a single day at the end of July after a viral, and possibly coordinated, message claimed that swimming across the border meant migrants could no longer be instantly returned. Most went back, but around five thousand remain, straining the city of eighty four thousand and reigniting a decades old dispute over who Ceuta actually belongs to. Spanish authorities suspect Moroccan involvement, given Rabat&#x27;s long history of using mass border crossings as leverage in territorial disputes, though a genuine viral panic that Moroccan officials simply chose not to stop remains the more likely explanation. Via Uncharted Territories.
-
-Migration is also the theme a continent over. A CSIS podcast this week examined recent attacks on migrants in South Africa, which have reignited one of the continent&#x27;s most sensitive debates just as the African Union and the African Continental Free Trade Area push for deeper labour mobility and regional integration. The gap between the economic case for freer movement of people and the political reality on the ground remains as wide as ever. Via CSIS.
-
-And back in Washington, the Trump administration is reportedly weighing sweeping new semiconductor tariffs that could extend all the way to data centre servers and other chip powered goods, at the exact moment American tech companies are already struggling with high end chip shortages. The irony isn&#x27;t lost on anyone: tariffs meant to protect America&#x27;s AI ambitions could end up undercutting them instead. Via This Week in Startups.
-
-Now, over to community, events and marketing.
-
-One idea worth stealing this week: Marketing Brew&#x27;s look at how professional pickleball has quietly turned itself into a serious sponsorship business, attracting the kind of brand deals that used to go only to established sports. The same issue noted Zoom leaning on a similar playbook, attaching itself to a cultural moment, in that case Apple&#x27;s Mac Mini relaunch, to get its own product in front of an audience it wouldn&#x27;t otherwise reach. The lesson for anyone building a community or a brand around a growing niche is that credibility and sponsorship dollars follow audience size, not sport size, and pickleball&#x27;s organisers built the fan base first and let the sponsorship pitch write itself. Via Marketing Brew.
-
-Now, over to one interesting thing.
-
-Works in Progress has a sharp essay this week arguing that American public transit is bad largely because of what the author calls scope creep. Buses and trains are asked to cut emissions, create union jobs, beautify neighbourhoods and reflect endless rounds of community input, all on top of their actual job of moving people, and every one of those extra goals costs money that could otherwise buy more frequent service. The examples are startling: Miami Dade&#x27;s electric buses break down roughly every six hundred miles, seven times more often than diesel ones, so that on any given day only six of the agency&#x27;s seventy five electric buses are actually running, while Boston&#x27;s Green Line extension added a three kilometre bike path, after just thirteen people asked for it at a community meeting, at a cost of twenty million dollars. The core argument is simple: every dollar spent satisfying a side goal is a dollar not spent making transit fast and frequent enough that people who could drive choose not to. Via Works in Progress.
-
-That&#x27;s your six sections for today. Thanks for listening, and I&#x27;ll catch you next time.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-29.mp3</guid>
-    <pubDate>Sat, 29 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-29.mp3" length="3500352" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Thursday, 27 August</title>
-    <description>Hello, and welcome to Byte-sized for Thursday, the twenty seventh of August. Six sections today, so let&#x27;s get straight into it.
-
-JAPAN AND ASIA PACIFIC
-
-We start in Taiwan, where prosecutors have indicted a senior Nvidia manager and two Super Micro Computer executives for smuggling restricted AI servers into China. Investigators say the black market operation rerouted around seventy machines through Japan and Indonesia to dodge export controls. It&#x27;s a reminder that even inside a legendary, high paying firm like Nvidia, insider risk is real, and that Taiwan is now more willing than ever to help police America&#x27;s chip rules. Via International Intrigue.
-
-Next, Vietnam has officially overtaken China, Mexico and Taiwan to record the world&#x27;s largest goods trade surplus with the United States. The takeaway is that Trump&#x27;s tariffs haven&#x27;t so much closed America&#x27;s trade deficit as relocated it, with firms like Apple and Nike shifting production to de-risk from China. Regulators are now probing how much of that shift is genuine manufacturing versus Chinese goods simply being relabelled on the way through. Via International Intrigue.
-
-And a lighter note from Tokyo. Japan&#x27;s prime minister, Sanae Takaichi, wrote a surprisingly heartfelt social media post about missing a cockroach that her staff had removed from her office, citing a classic postwar manga about the cycle of life and death as her reasoning for not wanting it squashed. Even the pets, it turns out, come with philosophical backstories in Japanese politics. Via International Intrigue.
-
-Now, over to AI and tech.
-
-Nvidia posted a blowout quarter: ninety six billion dollars in revenue, more than double what it made a year ago, with data centre sales alone hitting eighty nine billion. The company is guiding for a hundred and eight billion next quarter, and is reportedly circling a thirteen billion dollar bid for Hugging Face, the platform where developers share and test open source models. The logic is simple: own the hub, and you help lock in your chips as the industry default. Via TLDR and International Intrigue.
-
-Stripe has agreed to acquire OpenRouter for more than seven billion dollars, turning what was a simple AI model routing service into core payments infrastructure. The deal hands Stripe a gateway connecting eight million users to over four hundred AI models through a single programming interface, with centralised billing baked in. The catch is that a lot of that traffic flows to Chinese developed models, which could bring new regulatory headaches. Via TLDR.
-
-And Salesforce and Anthropic have launched what they&#x27;re calling Claudeforce, pulling live customer relationship data and Salesforce workflows directly into Claude. The first release ships with thirty seven sales specific skills, covering everything from pipeline analysis to account research, and Salesforce is pitching it as a reason you&#x27;ll never need to open the separate app again. Via TLDR.
-
-And away from the big labs, community pushback against new AI data centres is gaining real momentum. Local lawmakers across several US states are moving toward outright moratoriums, citing electricity costs, water use and strain on local infrastructure, and that backlash is becoming a genuine constraint on how fast AI computing capacity can grow, regardless of how much money the big players are willing to spend. Via TLDR.
-
-Now, over to startups and venture.
-
-Anthropic is gunning for the biggest initial public offering on record, targeting a hundred billion dollar raise at a two trillion dollar valuation, more than double what Elon Musk&#x27;s SpaceX is worth. The company is already generating sixty five billion dollars a year in revenue, seven times what it made last year, and Wall Street&#x27;s biggest banks are reportedly being asked to commit over a billion dollars each toward a credit facility ahead of the listing. Given that AI exposed companies now make up more than forty percent of the S and P five hundred, this listing is shaping up as a serious stress test for the wider market. Via TLDR and International Intrigue.
-
-Meanwhile, China&#x27;s fast fashion giant Shein has filed for its third attempt at going public, this time in Hong Kong, hoping to raise one point eight billion dollars at a twenty five billion dollar valuation. That&#x27;s a steep comedown from its hundred billion dollar peak in twenty twenty two, after a US listing collapsed under political pressure and a London listing fell apart when Beijing itself refused to bless it. Via International Intrigue.
-
-And a genuine growth story: the AI meeting notes app Granola has gone from nothing to a one point five billion dollar valuation in three years. A detailed teardown of its playbook this week highlighted a deliberate year in stealth that saw the team cut half their planned features before launch, a refusal to build a generic meeting bot despite investor pressure, and a pivot from simple notepad to what the founders call a context layer for AI, now plugging into other tools rather than trying to do everything itself. Via The VC Corner.
-
-Buy now, pay later firm Klarna offers a cautionary tale for founders eyeing a US listing. Its shares plunged nearly twenty five percent this week after warning that weak consumer spending in Germany would hurt full year revenue. Part of the problem is structural: Klarna&#x27;s core markets are European, but it listed in the US, where it&#x27;s relatively small and under followed, missing out on the index inclusion and investor familiarity a European listing might have brought. Sometimes where you list matters as much as how you perform. Via TLDR.
-
-Now, over to policy and geopolitics.
-
-The biggest mystery of the week: America&#x27;s CIA director, John Ratcliffe, made a surprise, very public trip to Moscow, flying in on a US military transport rather than a discreet private jet. The leading theory is deterrence, echoing a similar 2021 visit that correctly warned Putin the West knew he was planning to invade Ukraine, this time amid intelligence suggesting Russia may test NATO&#x27;s resolve directly. Quieter theories point to stalled Ukraine peace talks, pressure over Iran, or a handful of Americans still held in Russian jails. Nobody in Washington or Moscow is confirming which it was. Via International Intrigue.
-
-In the Himalayas, flash floods along the Nepal-Tibet border have killed at least a hundred and seventy seven people, with fifteen hundred more missing, after an ice and rock avalanche dammed a river that then gave way. Warmer temperatures have shrunk Nepal&#x27;s glacial ice by a third over three decades, and the timing was especially cruel, since the area was packed with pilgrims from several faiths heading to the sacred Mount Kailash. Via International Intrigue.
-
-And in the Gulf, oil prices have dropped to around eighty five dollars a barrel on hopes that talks between Oman and Iran might finally ease tensions around the Strait of Hormuz, with Qatar&#x27;s prime minister also headed to Tehran to encourage a fresh round of talks with Washington. Shipping executives are more cautious, warning the standoff looks more like a prolonged stalemate than a quick resolution. Via International Intrigue.
-
-Back in Washington, Meta has agreed to pay up to eighteen billion dollars to settle a landmark case brought by forty seven US states over teen social media harm. The deal forces the company to add real guardrails across Facebook and Instagram, including limits on how much time young people can spend scrolling. It&#x27;s one of the largest consumer protection settlements in tech history, and a signal that state attorneys general, not just federal regulators, are now setting the pace on platform accountability. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-One idea worth stealing this week comes from the founder of systeme dot io, who built his acquisition strategy entirely around a sixty percent affiliate commission, paid for the lifetime of every customer referred. He treats it as his marketing budget rather than a cost, and it&#x27;s helped take the bootstrapped company to three million accounts. The lesson: if your product naturally creates advocates, consider paying them like a channel, not a favour. Via Indie Hackers.
-
-A second one: the founder behind EditionGuard, an ebook piracy protection tool, grew from thirty to over a hundred customers by writing detailed guides on how to use his biggest competitor&#x27;s product, rather than only marketing his own. Publishers searching for help with that rival tool found his tutorials first, then discovered he offered the same protection for a fraction of the price. Teaching people how to use a competitor&#x27;s product, it turns out, can be a surprisingly effective way to find your own customers. Via Indie Hackers.
-
-Now, over to one interesting thing.
-
-Economist Alex Tabarrok has a sharp essay this week on why the fight over data centres bothers him less because of water or land use, and more because of what it reveals about how permission to build anything is granted in America. He borrows a distinction from the economists North, Wallis and Weingast between a natural state, where access to valuable activity depends on political favour, and an open access order, where the same impersonal rules apply to everyone regardless of what they&#x27;re building or who approves of it. His worry is that the maze of rezonings, negotiated community benefit payments and case by case approval that now surrounds every data centre is really the natural state creeping back in, dressed up in modern language. Via Marginal Revolution.
-
-That&#x27;s your six sections for today. Thanks for listening, and I&#x27;ll catch you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3</guid>
-    <pubDate>Thu, 27 Aug 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-08-27.mp3" length="3467808" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
