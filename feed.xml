@@ -7,6 +7,70 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 22 October</title>
+    <description>Good morning, and welcome to Byte-sized for Thursday, the twenty second of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, a warning light for Japanese industry. International Intrigue reports that Japan may have only months, not years, before it runs out of yttrium, a rare earth found in jet engines, semiconductors, electric vehicles and L E D lighting. China imposed export controls on the mineral last year, after Prime Minister Takaichi suggested Japan might respond in any war over Taiwan. Tokyo is now lobbying its American allies for help. For anyone selling into Japanese manufacturing, supply chain resilience has just become a boardroom topic. Via International Intrigue.
+
+Second, China&#x27;s economy is sending mixed signals. Third quarter growth accelerated to four point five per cent, up from four point three, which puts the five per cent target within reach. But retail sales are crawling at one per cent, and property investment has fallen another twenty per cent this year. The growth is coming from state funded high tech manufacturing, and high tech and industrial goods made up sixty four per cent of record new exports. In other words, Beijing is replacing weak confidence at home with subsidised demand abroad. Alongside that, the party has confirmed an investigation into Huang Qifan, the seventy four year old former mayor of Chongqing and an outspoken critic of the property sector, just before a major party plenum next week. Via International Intrigue.
+
+Third, a trade deal fourteen years in the making. Switzerland&#x27;s president has visited Vietnam to celebrate a free trade agreement between Vietnam and the European Free Trade Association, which covers Switzerland, Norway, Iceland and Liechtenstein. Vietnam gains high tech European investment, and the European bloc gains a foothold in South East Asia&#x27;s manufacturing hub, as both sides diversify away from China and tariff uncertainty. Via International Intrigue.
+
+Fourth, Accenture has reportedly hired J P Morgan to explore selling its Greater China consulting business, in a deal that could be worth up to one and a half billion dollars. A notable signal on how global professional services firms are rethinking their exposure to the region. Via T L D R.
+
+Now, over to AI and tech.
+
+Section two, AI and tech.
+
+First, Sam Altman has reportedly described three possible endgames for AI safety to OpenAI staff. The one he favoured is a global watchdog modelled on the International Atomic Energy Agency. The second would merge the leading labs into one, in the style of CERN. The third, one lab racing ahead with self improving AI to, in his words, melt everyone else&#x27;s chips, he called terrible. OpenAI reportedly has a year to pick a path, and Altman said it must include a speed limit for self improving systems. Via The Rundown AI.
+
+Second, Microsoft has taken the unusual step of describing A I agents as akin to insider threats, saying frontier models cannot be trusted because they are unpredictable and lack organisational norms. Its answer is new Guardian Agents and agent detection in Defender, built on a principle worth remembering: separate the supply of intelligence from the authority over it. Separately, Microsoft has finished pretraining its own very large model, which suggests it is reducing its reliance on OpenAI. Via T L D R.
+
+Third, a start-up with a manufacturing flavour. Bob McGrew, the former chief research officer at OpenAI, has launched Arda at a one point five billion dollar valuation after a one hundred and sixty million dollar round. It uses A I to help factories set up assembly lines for new products, and the defence firm Anduril says basic assembly instructions now take fifteen minutes instead of ten hours. McGrew&#x27;s stated ambition is a fully automated Shenzhen in West Texas. Via The Rundown AI.
+
+Fourth, the chip wars. Amazon has released TorchNeuron, which lets developers run PyTorch code on its Trainium chips with a simple configuration change, and plans to contribute code so the framework depends less on Nvidia&#x27;s software. In China, DeepSeek has released the code for the engine behind its latest model, with support for Huawei chips, so firms can serve it without Nvidia hardware. Both are attacks on the same lock in. Via T L D R.
+
+Now, over to start-ups and venture.
+
+Section three, start-ups and venture.
+
+First, Europe&#x27;s Nvidia moment continues. Nvidia has announced investments in four German start-ups, adding to a European spending spree. Sifted also reports that Tallinn&#x27;s cybersecurity company Blackwall raised one hundred million dollars in a Series C led by A V P. Via Sifted.
+
+Second, fintech and foundation models. Sifted&#x27;s fintech newsletter looks at transactional foundation models, A I systems trained on billions of payment events to speed up lending and fraud decisions. Revolut, with eighty million customers, is moving from idea to product in two to eight weeks and wants to get that down to days. One founder&#x27;s view: the real barrier to entry is scale, even though Revolut helped publish the blueprint that rivals now follow. Via Sifted.
+
+Third, Otter, the meeting transcription company, has secured three hundred and twenty million dollars of growth financing from General Catalyst, to turn meeting conversations into connected company knowledge. It reports more than forty million users. Via T L D R.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, energy is steering diplomacy. President Macron has toured the Gulf seeking fuel commitments, and Paris claims pledges equal to around ten per cent of French diesel use, offering advanced defence equipment in return. Meanwhile Secretary of State Rubio is in Uzbekistan with around two hundred American business leaders to court Central Asia on critical minerals and energy, before visiting Mumbai and Jamnagar. The aim is to give the region more options and make Beijing spend energy competing across Eurasia. Via International Intrigue.
+
+Second, the European Union has unveiled its first Arctic strategy, promising undersea cable surveillance, more satellite capability and a new fleet of icebreakers, as Russia, China and the United States compete in the High North. Cable cuts and G P S jamming have pushed Brussels to treat the region as a security issue, not just an environmental one. Via International Intrigue.
+
+Third, Ukraine&#x27;s connectivity. Kyiv says American intelligence sharing has resumed after a brief freeze, while Washington denies any pause, and the White House and Elon Musk are still trading denials over who curbed Ukraine&#x27;s Starlink access. Worth watching ahead of the American midterms. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing. Two ideas worth stealing.
+
+First, from Skift, a fix for awkward networking. After the I M E X trade show in Las Vegas, the writer suggests small adjustments that make events feel like a conversation with a new friend, not a chore, and notes that it doesn&#x27;t have to involve alcohol. The takeaway for any organiser: design low pressure ways to start conversations, instead of leaving people with a lanyard, a drink and a crowded room. Via Skift.
+
+Second, a negotiating tip for anyone booking venues. Wall Street expects American hotel revenue growth to slow in twenty twenty seven, partly because next summer is measured against this year&#x27;s World Cup crowds. Revenue managers are judged year on year, so a group filling soft nights helps them. The advice is to ask for more than you would have last year, such as a better rate or friendlier terms. Via Skift.
+
+Finally, section six, one interesting thing.
+
+In Uncharted Territories, Tomas Pueyo argues that most intelligence is really search. Writing, printing and the internet each made it cheaper to find other people&#x27;s ideas, and large language models have now pushed that cost close to zero. So where does the human edge lie? His answer is the query: noticing problems nobody has searched for, combining fields in new ways, and working where data does not exist, in unrecorded things such as noticing what people need before they say so. If intelligence is search, your edge is the question you ask.
+
+That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-22.mp3</guid>
+    <pubDate>Thu, 22 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-22.mp3" length="3234672" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Tuesday, 20 October</title>
     <description>Good morning, and welcome to Byte-sized for Tuesday, the twentieth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
 
@@ -1771,70 +1835,6 @@ That&#x27;s Byte-sized for Friday the fourth of September. Thanks for listening,
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-04.mp3</guid>
     <pubDate>Fri, 04 Sep 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-04.mp3" length="3535344" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Thursday, 3 September</title>
-    <description>Good evening, this is Byte-sized for Thursday the third of September. Six sections today, let&#x27;s get into it.
-
-JAPAN AND ASIA-PACIFIC
-
-Japan is moving ahead with submarine launched hypersonic missiles, a step that boosts deterrence against China while nudging Tokyo closer to what analysts call nuclear latency at sea. The capability doesn&#x27;t put a nuclear warhead on the missile, but it signals Japan edging toward the kind of strategic ambiguity that has long defined nuclear armed states, without actually crossing that line. Via CSIS.
-
-Japan and South Korea are also rewriting the logic of nuclear energy security across North East Asia, and doing so increasingly in step with Washington rather than apart from it. Two historic rivals are finding common cause in energy security as the region&#x27;s power politics shift under the weight of China&#x27;s rise. Via CSIS.
-
-Over in Seoul, President Lee has unveiled a record budget of nearly six hundred billion dollars for twenty twenty seven, an increase of around thirteen percent, funded largely by a near doubling of corporate tax receipts on the back of the AI boom. He&#x27;s spending some of that windfall on more AI investment and on support for the workers and regions most exposed to AI disruption, but he&#x27;s also quietly setting aside around seventy six billion dollars in reserve, in case the boom turns to bust. It&#x27;s a notably cautious use of a windfall by world standards, even if some opposition figures grumble that he should be paying down debt instead, debt that is, in fact, relatively low by international standards and still falling. Via International Intrigue.
-
-Now, over to AI and tech.
-
-AI AND TECH
-
-Anthropic has released Claude Fable five point one and Mythos five point one, successors that the company says fix many of the complaints levelled at the original Fable. The new model tops the Artificial Analysis Intelligence Index with a record score, more than doubling Fable five&#x27;s performance on scientific research tasks, and Anthropic says typical work now costs around twenty five percent less, though a demanding task run at maximum effort can actually cost around twenty percent more, since the new model tends to write substantially more text along the way. Safety refusals have also dropped sharply, down sixty percent on cybersecurity questions and eighty five percent on basic medical and biology queries. Mythos, a version of the same model with fewer guardrails, is being kept behind tighter access controls, limited for now to screened cybersecurity and life sciences researchers in the United States. Not to be outdone, OpenAI&#x27;s upcoming Astra model is said to be the company&#x27;s first to cross what it calls a critical cybersecurity capability threshold, able to find and exploit unknown security flaws without step by step human guidance, though OpenAI says it will limit access to those capabilities when the model launches. Via TLDR and The Rundown.
-
-Apple has a new chief executive. John Ternus, the company&#x27;s former hardware chief, has officially taken over from Tim Cook, and used his first staff memo to hype a huge launch event on September the ninth, widely expected to unveil Apple&#x27;s first foldable iPhone alongside a broader overhaul of Siri aimed squarely at ChatGPT and Claude. Via TLDR.
-
-Brussels has designated ChatGPT as a very large online search engine under the Digital Services Act, while Reddit and Roblox have been classified as very large online platforms. All three now have four months to comply with new obligations around systemic risk assessment, transparency and independent audits. Via TLDR.
-
-And Uber is cutting around three thousand three hundred jobs, roughly ten percent of its global workforce, flattening management layers to redirect investment toward ride sharing, delivery and robotaxis. Via This Week in Startups.
-
-Now, over to startups and venture.
-
-STARTUPS AND VENTURE
-
-Coding startup Cognition is closing in on a fresh funding round of around one billion dollars, at a valuation of roughly forty seven billion dollars, with investor demand reportedly outstripping even that, meaning the final raise could end up larger still. The company is now bringing in more than nine hundred million dollars in annualised revenue. Via TLDR.
-
-Elsewhere, TLDR&#x27;s founders newsletter describes what investors are calling the new valley, the stall zone between five and twenty five million dollars in annual recurring revenue, where AI companies with impressive growth curves increasingly struggle to convince investors they&#x27;re truly differentiated rather than just the current leader in a crowded field of copycats. Data from Carta shows just over fifteen percent of twenty twenty two seed companies reached a Series A within two years, roughly half the thirty percent rate for the twenty eighteen cohort. Via TLDR.
-
-And in the Nordics, Sifted&#x27;s latest leaderboard of the region&#x27;s hundred fastest growing companies has Stockholm once again dominating, powered by the legal AI firm Legora and the vibe coding platform Lovable, alongside Daniel Ek&#x27;s body scanning venture Neko Health at the very top. The more surprising trend in the data is energy: nearly one in ten of the hundred companies on the list are energy startups, led by the Norwegian hydrogen firm Hystar and the Danish electricity trader Reel, even as climate tech more broadly falls out of favour with venture capital. The read from founders on the ground is that the surge of renewables onto Nordic grids has created exactly the kind of price volatility that older energy incumbents are struggling to manage, and new entrants are stepping into the gap. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-POLICY AND GEOPOLITICS
-
-The Shanghai Cooperation Organisation held its annual summit in Bishkek this week, and it was a study in competing visions. Xi Jinping pushed for what he called an equal and orderly multipolar world, effectively an end to any US led hierarchy, while Iran&#x27;s president lobbied for a dedicated SCO bank to insulate sanctioned members like Iran, Russia and Belarus from the Western financial system. India&#x27;s Narendra Modi threw cold water on both ideas, wary of Chinese dominance, while also delivering an unusually blunt message to Vladimir Putin in front of the cameras, telling him it was time to move from endless war towards an end to war. Via International Intrigue.
-
-And Germany has formally blamed Moscow for last month&#x27;s discovery of explosive laden drones at Leipzig airport, including one found near a cargo plane loaded with arms bound for Ukraine. Berlin has announced a series of retaliatory diplomatic measures, including the closure of Russia&#x27;s consulate in Bonn. Via International Intrigue.
-
-Meanwhile the United States and Iran have exchanged fire again in their most intense clash in weeks, with Tehran targeting American sites in Bahrain, Jordan, Kuwait and Iraq, and Washington resuming direct strikes on Iranian territory. Both sides are now warning of further escalation, and the price of Brent crude has jumped by more than four dollars a barrel as a result. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-COMMUNITY, EVENTS AND MARKETING
-
-One idea worth stealing this week comes from a data provider called Papermark, which tracked over twenty four thousand pitch decks and more than one million three hundred thousand investor views to work out what actually makes investors keep reading. The headline finding: the median view lasts just seventy seven seconds, not the four minutes most founders assume, and nearly a fifth of investors vanish between the cover slide and slide two, which makes that opening slide the single highest leverage page in the whole deck. The data also found that twelve pages is the sweet spot for completion rates, and that decks opening with traction, rather than financials or product screenshots, get read for longer. Via The VC Corner.
-
-On the community side, gathering expert Priya Parker has been hosting a string of free live video conversations for her Substack community this week, pairing herself with guests for loosely structured, candid sessions built around a single theme rather than a fixed agenda. It&#x27;s a useful format for anyone building a community from scratch: a live, unscripted conversation costs little to host, gives existing members something to invite friends to, and tends to generate far more goodwill than a polished, pre-recorded webinar ever does. Via Priya Parker&#x27;s newsletter.
-
-And now, for one interesting thing to close on.
-
-ONE INTERESTING THING
-
-Writers at Works in Progress make an unfashionable case for landfill over recycling. Modern, well engineered landfills capture up to ninety five percent of the methane they produce and are, in most of the developed world, far cleaner than people assume, while recycling plastic can cost well over a thousand dollars for every tonne of carbon dioxide saved, compared with under five hundred dollars a tonne for direct air capture. The one clear exception is metal: recycling aluminium saves up to ninety five percent of the energy needed to make it from scratch, which is why, they argue, municipal recycling programmes should focus on metal and largely leave the rest to a well run hole in the ground. Via Works in Progress.
-
-That&#x27;s Byte-sized for Thursday the third of September. Thanks for listening, and I&#x27;ll see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-03.mp3</guid>
-    <pubDate>Thu, 03 Sep 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-03.mp3" length="3383280" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
