@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 5 November</title>
+    <description>Good morning, and welcome to Byte-sized. It is Thursday the fifth of November, and today there are six sections, beginning, as ever, in Japan and the Asia Pacific. A quick note: this edition covers everything since the last episode, so it reaches back a few days.
+
+Section one, Japan and Asia Pacific.
+
+First, Fukuoka goes to the polls on the fifteenth of November. After sixteen years under Mayor Soichiro Takashima, the city is about to get new leadership, and the Kyushu Roundtable held on the thirtieth of October asked what growth should actually deliver. Forty-six people from seventeen nationalities argued over whether the priority is better jobs, more affordable housing, better transport or public spaces that work for everyone. If you are building anything in Fukuoka, the thing to watch is whether the next mayor treats the startup and foreign-resident story as a headline or as a housing and transport problem. Via Fukuoka Now.
+
+Second, Toyota and Waymo are deepening their partnership. They plan to test autonomous Toyota bZ4X vehicles in Japan by twenty twenty-seven, with the United Kingdom and other markets to follow. For Japan, which has a driver shortage and an ageing population, this is one of the first credible routes to driverless service on its own roads. Via T L D R Hardware.
+
+Third, the US midterms rattled Asian markets. As the results came in, Japan&#x27;s Nikkei fell about four per cent, as investors repriced technology bets. Elsewhere in the region, Indonesia&#x27;s President Prabowo has sacked and arrested his chief of staff over alleged wiretapping of senior officials, which advisers are describing as possible treason. And in South Korea, a foreign ministry employee accidentally uploaded the passport details of President Lee and dozens of senior officials to a public malware-scanning site. Via International Intrigue.
+
+Fourth, memory chips. Samsung confirmed two-nanometre chip orders from major cloud companies, while Samsung and SK Hynix both say their high-bandwidth memory for AI servers is effectively sold out for years, to at least twenty twenty-eight. Meanwhile, Chinese robotics startups raised about thirteen billion dollars in the first half of the year, five times the same period last year, as the money shifts from robot bodies to robot brains. Via Benedict&#x27;s Newsletter, and T L D R Hardware.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, Apple has opened its rebuilt Siri to all developers, in the iOS twenty-seven point three beta. Apps can add their own actions and teach Siri multi-step jobs, but nothing reaches the App Store until spring, and it is not yet available in the European Union. It is a real crack in Apple&#x27;s walled garden, though most of the work now falls to developers. Via The Rundown A I.
+
+Second, Anthropic has published its S-one filing for a stock market listing. Benedict Evans notes the relief of finally seeing real quarterly revenue and a real profit and loss account, rather than leaked annualised figures. The filing also shows close to a trillion dollars of future purchase commitments, plus a shareholder structure that locks in the founders&#x27; control. His wider point is that the numbers are a snapshot with little predictive value, in a week when markets were already nervous about an A I correction, with huge capital spending, OpenAI trimming a fundraising round, and Microsoft offering buyouts to sixty thousand staff. Via Benedict&#x27;s Newsletter.
+
+Third, a usage milestone. OpenAI says ChatGPT now reaches about one point two billion people each week, its search volume is around a fifth of Google&#x27;s, and voice mode has two hundred and fifty million weekly users. It also plans to merge its chat and work modes into one. Via T L D R A I.
+
+Fourth, DeepSeek reportedly plans to train its next model on Huawei&#x27;s Ascend chips. Those chips have mostly been used for running models rather than training them, so this is a serious test of whether China can build a frontier model without Nvidia. Via T L D R A I.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, Menlo Ventures&#x27; yearly enterprise A I report says the frontier labs now capture sixty-nine per cent of enterprise A I deployment spending. Yet startups still take sixty-one per cent of application spending once the labs&#x27; own apps are left out, and new budgets funded more than half of the extra spend. The takeaway for founders is that the moat is outcome data that only exists when someone actually does the job, such as whether a loan defaulted. Via T L D R Founders.
+
+Second, fal, the platform that hosts image and video models, has raised one point three billion dollars, doubling its April valuation to sixteen billion. Money is still flowing to the infrastructure layer. Via The Rundown A I.
+
+Third, a warning sign for software. Stripe benchmarks covering about one hundred and eighty-one thousand subscription businesses show twenty-nine of forty-eight groups above one hundred thousand dollars in recurring revenue shrinking in October, up from four in September. Churn fell, so the writer suspects weaker new sales rather than customers leaving. Only companies above five million dollars were still growing. Via T L D R Founders.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, the midterms. Democrats are on track for a large House majority and appear to have taken the Senate, and flipped governorships including Texas. The tech angle matters most. Texas had paused new data centres in rural areas to calm anger over the grid and water, and markets had hoped that pause would be lifted after the election. Instead it may become permanent, which raises questions about the era of frictionless tech expansion in the United States. A Congress that cannot unwind tariffs or stop wars still controls hearings and spending. Via International Intrigue.
+
+Second, Nvidia has reportedly told its data centre partners, verbally, that at least fifty-one per cent of their revenue must come from outside China. It targets the loophole of Chinese firms renting advanced chips through offshore data centres. Via International Intrigue.
+
+Third, President Trump says he has agreed with Prime Minister Netanyahu to wind down four billion dollars in annual military aid to Israel by the end of the year, years ahead of schedule. Israeli officials have not yet commented. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing. One idea worth stealing, twice.
+
+First, the Kyushu Roundtable format. Fukuoka Now brings a few dozen people from many countries into one room, adds two local commentators with different views, then publishes a report with the questions and contrasting opinions, so people who missed it can still join the conversation. Next month it ends with a year-end bonenkai, so the serious discussion flows into socialising. It is a cheap format that builds a mixed community and a body of content at the same time. Via Fukuoka Now.
+
+Second, David Spinks, founder of the CMX community conference, admits his creative work has felt flat since he left the industry. His practical fix is to look back at which clients felt most alive to work with, and let that pattern, rather than comparison with peers, pick the focus. If your own community or brand feels unfocused, that audit takes an afternoon. Via David Spinks.
+
+Now, one interesting thing.
+
+Section six, one interesting thing.
+
+Why Is This Interesting runs a piece about trying to open a bank account in Mexico City, where the banker tore up his signature because it did not match his passport. The explanation is civil law. Countries such as Mexico, Japan, Korea and Taiwan write comprehensive codes that demand proof of identity up front. Common law countries like the United Kingdom and the United States let transactions close first, and punish lying afterwards, with private firms such as title insurers pricing the risk. One system makes paperwork painful, the other makes identity theft easy. Via Why Is This Interesting.
+
+That is Byte-sized for Thursday the fifth of November. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-05.mp3</guid>
+    <pubDate>Thu, 05 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-05.mp3" length="3120480" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Saturday, 31 October</title>
     <description>Good morning, and welcome to Byte-sized. It is Saturday the thirty-first of October, and today there are six sections, beginning, as ever, in Japan and the Asia Pacific.
 
@@ -1833,62 +1899,6 @@ That&#x27;s your six sections for today. Thanks for listening to Byte-sized, and
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-14.mp3</guid>
     <pubDate>Mon, 14 Sep 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-14.mp3" length="3528720" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Saturday, 12 September</title>
-    <description># Byte-sized — Saturday, 12 September
-
-Good morning. It&#x27;s Saturday the twelfth of September, and today&#x27;s episode has six sections for you.
-
-Let&#x27;s start in Japan and Asia-Pacific.
-
-First, a quiet capitulation from Google. Google Maps has begun blurring satellite imagery of sensitive South Korean sites, including the defence ministry, a missile base, and outposts along the demilitarised zone with North Korea, something local rivals Naver and Kakao have done for years. Google held out by insisting on one single high quality map for the whole world, but two things changed its mind: Seoul&#x27;s refusal to let it export high resolution map data left Google Maps as little more than a tool for lost tourists, while its own history of blurring sensitive sites in Israel, India and Belgium made that one-map principle look thin. Similar blurring already covers parts of Britain, France, Indonesia, Poland and Portugal, so Korea joins a long and growing list. Via International Intrigue.
-
-Next, a myth-busting note from CSIS on Vietnam. New half year trade figures show Vietnam has overtaken China, Mexico and Taiwan to record the largest goods deficit with the United States, and the Trump administration&#x27;s own report brands Hanoi a scale leader in transshipping Chinese goods to dodge tariffs. But CSIS analyst Joseph Damond found that eighty seven percent of that growth comes from just four categories, all electronics, built mostly by Apple&#x27;s Taiwanese assembler Foxconn, Samsung, LG and Intel rather than Chinese firms, while Chinese-linked categories like apparel and footwear barely moved. The real driver, he argues, is booming global demand for AI hardware from American, Japanese, South Korean and Taiwanese multinationals, all of it already tariff exempt. Via CSIS.
-
-And a small but symbolic move from Reykjavik. Iceland will table a bill in February for a permanent ban on commercial whaling, a practice that has lost both its economic logic and its social licence at home as eco-tourism now pays better than the country&#x27;s one remaining whaling firm. That would leave Norway and Japan as the only two nations still hunting whales commercially, with Japan having already quit the International Whaling Commission back in twenty nineteen. Expect Norway to feel the heat at this month&#x27;s Whaling Commission meeting in Tasmania. Via International Intrigue.
-
-Now, over to AI and tech.
-
-First, OpenAI opened up the machinery behind its Codex coding agent. The new Agents API, now in public beta, gives developers the same managed harness OpenAI uses internally: context handling, tool use, subagents, persistent execution and code environments, built for agents that need to keep running over long stretches rather than a single back and forth. It&#x27;s OpenAI&#x27;s clearest move yet to sell agent infrastructure itself, not just chat access to a model. Via TLDR.
-
-Next, Apple&#x27;s new chief executive John Ternus led his first product keynote, headlined by the iPhone Duo, Apple&#x27;s first foldable, a passport sized device with a five point four inch outer screen and a seven point six inch inner one, starting at one thousand nine hundred and ninety nine dollars. It arrived alongside the iPhone eighteen Pro line with a new A20 Pro chip and updated Apple Watches with a five second heart rate sensor. Shipping starts on the twenty third of October. Via TLDR.
-
-Then, a striking read from Anthropic&#x27;s own threat intelligence team. Its new report says Chinese models Kimi and DeepSeek were caught piping live customer conversations into Claude and serving the answers back as their own, while a suspected Chinese intelligence officer used Claude to assess surveillance footage of a target. Anthropic also says it disrupted a cell in northern Yemen that was using Claude to help develop missile guidance software, alongside cases of Iranian officials using the model to plan succession scenarios and Mali&#x27;s intelligence service using it to help monitor around twenty five million SIM cards. It&#x27;s equal parts marketing ahead of Anthropic&#x27;s expected public listing and a genuine window into how state and criminal actors are already testing frontier AI. Via International Intrigue and TLDR.
-
-And finally, a cost story with real teeth. The Pragmatic Engineer newsletter reports that Uber has cut its AI bill by around fifty percent per session, Pinterest is running open models at under eight percent of the cost of closed ones, and AT&amp;T saved fifty six percent by swapping proprietary models for open ones with only a small dip in quality. The common thread is a shift toward open weight models and smart routing, precisely as Anthropic&#x27;s own Opus five is said to cost around a hundred times more than comparable open alternatives, an uncomfortable pricing gap for a company approaching its own IPO. Via the Pragmatic Engineer.
-
-Now, over to startups and venture.
-
-First, Europe is having a moment in two places at once. Sifted reports German rocket maker Isar Aerospace reached orbit on its second launch attempt, the first privately built rocket to do so from European soil, while French capsule maker The Exploration Company closed a four hundred and fifty million dollar round and a seven hundred and sixty million euro contract with the European Space Agency. Talking to Sifted from New York, FirstMark partner Matt Turck argued Europe is now underrated by American investors chasing San Francisco, pointing to strong AI names like Synthesia and Pigment as evidence the continent no longer needs a discount to justify a bet. Via Sifted.
-
-Next, a candid long read from the VC Corner on Uber founder Travis Kalanick, now raising for his new venture Atoms, which automates mining, food production and freight. Kalanick&#x27;s sharpest line is on venture capital itself: he puts the bar for a genuinely helpful investor at do no harm, and reckons only around one in ten clears it. His other rule for founders is to get attached to a fundraising process rather than a price, which is how his own last round moved from three and a half billion to seventeen and a half billion dollars in nine months without ever naming a number up front. Via the VC Corner.
-
-And a couple of quick raises worth flagging. Optical chip connectivity startup Ayar Labs added a hundred and fifty million dollars to its Series E just months after a five hundred million dollar round, while stealth robotics company Maven Robotics emerged with a hundred million dollar Series A for deploying robots directly into working environments. Via This Week in Startups.
-
-Now, over to policy and geopolitics.
-
-First, the biggest geopolitical jolt of the week. Yemen&#x27;s Houthis seized the Red Sea port city of Mokha from Saudi backed forces and are now claiming nearby islands opposite the Bab el Mandeb chokepoint, with unverified reports of strikes on Saudi Arabia&#x27;s key east to west oil pipeline. Brent crude spiked to a hundred and nine dollars a barrel on the news. It exposes the limits of American security guarantees for Gulf allies and threatens to drag Saudi Arabia back into a war it spent years trying to exit, just as its Vision twenty thirty economic plan needs calm next door, not more of it. Via International Intrigue.
-
-Next, CSIS&#x27;s Middle East programme has launched a new Middle East Futures Project to map what the region looks like after the Iran war. In the opening paper, senior adviser Mona Yacoubian calls the region&#x27;s current disequilibrium a hinge moment, and the project will spend the coming months laying out alternative scenarios and identifying pathways toward something more stable. Via CSIS.
-
-And in Delhi, the eighteenth BRICS summit opens this weekend with China&#x27;s Xi Jinping making his first visit to India in seven years and Russia&#x27;s Vladimir Putin attending his first in-person BRICS gathering since invading Ukraine, alongside leaders from Iran, South Africa, Egypt, Ethiopia and Indonesia. Expect a familiar multipolar script on energy and food security rather than sharp new declarations, not least because India itself keeps sanding down any language that reads as too anti-Western. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-First, one from Marketing Brew: as US Open ticket prices surged this year, luxury brands leaned straight into the spike rather than shying away from it, building activations and campaigns around the very scarcity driving up prices. One idea worth stealing, when demand for something is visibly outstripping supply, treat that scarcity itself as the marketing hook rather than a problem to manage around. Via Marketing Brew.
-
-And a practical one from Every: as AI tools spread through a workforce, the newsletter argues companies should build personal benchmarks for every employee, testing AI outputs against each person&#x27;s own standards rather than one generic company-wide bar. One idea worth stealing, before rolling AI into a team&#x27;s workflow, get each person to write down what good looks like for their own job, then test the tools against that. Via Every.
-
-And finally, one interesting thing.
-
-Works in Progress makes the case that ugly buildings don&#x27;t actually cause opposition to new development, since people resist attractive traditional-looking buildings too, and restrictive zoning long predates modern architecture. What ugly buildings create instead is what the magazine calls NITBYism, not in that backyard, opposition from people who will never live anywhere near a building but object anyway because they no longer trust that whatever replaces the old will be any better. For centuries Western cities rebuilt themselves with barely a fight; that trust only broke down once modernism took over just as historic preservation rules were spreading everywhere. Via Works in Progress.
-
-That&#x27;s your six sections for today. Thanks for listening to Byte-sized, and I&#x27;ll see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-12.mp3</guid>
-    <pubDate>Sat, 12 Sep 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-12.mp3" length="3575376" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
