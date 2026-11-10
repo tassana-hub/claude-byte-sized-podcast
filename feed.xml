@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Wednesday, 11 November</title>
+    <description>Good morning, and welcome to Byte-sized. It is Wednesday the eleventh of November, and today there are six sections, covering everything since Saturday, beginning, as ever, in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, Fukuoka, where immigration has become a local election issue. The city&#x27;s mayoral candidates are setting out sharply different visions for foreign residents, ranging from calls for tighter restrictions to explicit pledges against discrimination. It is a useful signal that the national debate on foreign workers and residents is now playing out at city level, in one of Japan&#x27;s most internationally minded startup cities. In the same update, Fukuoka Airport posted record domestic and international traffic, Kyushu posted record September exports, Kitakyushu Airport is adding extra flights to Taipei and Seoul, and Fukuoka plans to try electronic voting at next spring&#x27;s assembly election. Via Fukuoka Now.
+
+Second, the regional chip story that dominated the week. Nvidia&#x27;s chief executive, Jensen Huang, has apologised for an affair with a former Singapore-based executive whom American intelligence says was working for China&#x27;s Ministry of State Security. She worked for Megaspeed, an obscure Singaporean firm that went on a four point eight billion dollar spree for advanced chips, often through affiliates across Southeast Asia, and which United States officials now describe as a front for getting chips into China. Nvidia&#x27;s board has launched an independent review, and Huang and the company now face a shareholder class action. The wider point for Asia is that Washington is likely to tighten oversight of chip sales routed through Southeast Asia, and may start treating key chip firms more like defence contractors. Via International Intrigue, and The Rundown A I.
+
+Third, a quieter story worth knowing. Witness accounts suggest Vietnamese intelligence may have abducted Australian, Norwegian and Vietnamese pro-democracy activists from neighbouring Cambodia in September; they now face terrorism charges in Vietnam. International Intrigue&#x27;s read is that Hanoi is calculating that neighbours and Western partners, keen to keep Vietnam close as they move supply chains out of China, will not push back. Via International Intrigue.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+The big launch: Anthropic has released Claude Fable five point two and Mythos five point two. They are about twenty per cent cheaper and up to thirty per cent faster than the previous version, and Fable has gone straight to the top of the Artificial Analysis intelligence leaderboard, just ahead of Google&#x27;s still unreleased Gemini four Carbon. Mythos is limited to vetted security and life sciences groups, while Fable is the same model with stronger guardrails. Anthropic describes its approach as pacing, not pausing, deliberately holding back some capabilities that would speed up A I development itself. Via The Rundown A I, and T L D R A I.
+
+Meta is going after the budget end. Its new small model, Muse Ember, is built for the high-volume routine steps inside A I agents, such as tool calls, coding and document parsing. Meta says it matches Anthropic&#x27;s Haiku model on quality at roughly a third of the cost per task, mainly by using fewer tokens per job, and it is reportedly building an enterprise sales push through the big consulting firms. For businesses running agents at scale, cost per task is becoming the number that matters. Via The Rundown A I.
+
+Google, meanwhile, announced two new specialised A I chips for next year: one that keeps data encrypted even while a model is working on it, aimed at governments and regulated firms, and one built for very long context work. Google now sells its chips to nearly a hundred outside customers, including Anthropic and Apple, and every available chip is spoken for. The timing, the day after Nvidia&#x27;s troubles, was not lost on anyone. Via The Rundown A I.
+
+And a sign of how physical A I has become: Anthropic has reportedly bought one point seven gigawatts of Caterpillar gas generators for three point four billion dollars, to get around power shortages and long grid connection queues for its data centres. The Wall Street Journal also reports Anthropic is preparing to press ahead with its stock market listing despite market jitters. Via T L D R A I, and The Rundown A I.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+OpenAI has reportedly raised eleven billion dollars at a one point two five trillion dollar valuation, with the round possibly reaching twenty billion before it closes. That is well short of the thirty billion it was previously reported to be seeking, which is being read as a sign of growing investor caution about A I valuations. Via T L D R A I.
+
+Lenny Rachitsky&#x27;s latest tech job market report has some surprises. Open product manager roles are at a near four-year high, while engineering openings have stalled and design roles are at a record low. The hottest titles are forward deployed engineers, up nearly fivefold in a year, and security engineers. The words L L M and Claude are now among the most requested skills in product manager job descriptions, fifteen per cent of all open tech roles are in the San Francisco Bay Area, and only fourteen per cent offer remote work, the lowest on record. Via Lenny&#x27;s Newsletter.
+
+In Europe, two deals worth noting. Amsterdam-based Onodrim raised three hundred million dollars to buy up existing defence, space and industrial manufacturing startups, a sign that defence roll-ups are heating up. And British digital bank Monzo is reportedly in talks to raise up to five hundred million pounds at around a seven billion pound valuation, weeks after takeover talks apparently collapsed. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+Christine Lagarde is leaving the European Central Bank in February, months early. The reasoning, according to International Intrigue, is to lock in a steady, technocratic successor before a wave of European elections in twenty twenty-seven, including in France, where Marine Le Pen is now favourite and has already called on the bank to buy French debt. The race is between two near-identical centrist central bankers, Spain&#x27;s Pablo Hernández de Cos and the Netherlands&#x27; Klaas Knot, with leaders hoping to decide by Christmas. Via International Intrigue.
+
+On Iran, President Trump says the military part of the war is effectively over, while Secretary of State Rubio insists the two sides are nowhere near a breakthrough. Markets chose to believe the optimistic version, with Brent crude down to around ninety-one dollars. Separately, American, Russian and Ukrainian delegates resumed talks in Abu Dhabi, with Washington reportedly asking whether Moscow would accept a NATO-style Western guarantee for Ukraine. Via International Intrigue.
+
+And in Washington after last week&#x27;s midterm losses, the President has replaced his chief of staff, Susie Wiles, with the immigration hardliner Stephen Miller. The read: no appetite for compromise ahead of two years of hostile House oversight, and possibly a tilt in priorities towards security at home and in the Americas rather than big diplomatic prizes further afield. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing, from Skift Meetings. Event platform RainFocus has launched a connector that gives Claude access to event data across seventeen areas of event management and, with permission, the ability to change it. That opens the door to adjusting an event in real time rather than reading a spreadsheet after it is over, but it forces a question every organiser will soon need an answer to: how much attendee data are you willing to hand to an A I agent? The same issue has a practical scheduling tip: if much of your audience is in their mid-forties to early sixties, many of them are juggling children and ageing parents, so ending a day early or offering a day pass may do more for attendance than another big-name speaker. Via Skift.
+
+And from Priya Parker, a reminder for the holiday season: when a family or group changes, its traditions often stop working, and forcing them to stay the same can make things worse. Her advice is to ask what a tradition is actually for, then keep, edit or cut parts of it, starting small rather than overhauling everything. It applies just as well to a team offsite or a community&#x27;s annual gathering. Via Priya Parker.
+
+A small local format worth borrowing: Fukuoka Now runs a Kyushu Roundtable for the international community, each time on one theme with one guest commentator. The next, on the fourth of December, is about cycling and urban mobility, with the head of public policy at a bike-share company, followed by a year-end bonenkai party. A single theme, one expert and a social afterwards is a simple recipe for a recurring community event. Via Fukuoka Now.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Why Is This Interesting makes the case for the solo diner. The New York restaurateur Keith McNally insists that people eating alone at his restaurants are looked after and sent a glass of something sparkling, and Will Guidara made going above and beyond for solo guests a rule at Eleven Madison Park, because someone dining alone is saying the restaurant is their main event. The deeper point is that treating the smallest booking as the most important one is the essence of hospitality, and that applies to any host, not just restaurants. Via Why Is This Interesting.
+
+That is all for today. Thanks for listening to Byte-sized, and have a good Wednesday.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-11.mp3</guid>
+    <pubDate>Wed, 11 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-11.mp3" length="3594672" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Saturday, 7 November</title>
     <description>Good morning, and welcome to Byte-sized. It is Saturday the seventh of November, and today there are six sections, beginning, as ever, in Japan and the Asia Pacific.
 
@@ -1869,56 +1935,6 @@ That&#x27;s Byte-sized for Saturday the nineteenth of September. Thanks for list
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-19.mp3</guid>
     <pubDate>Sat, 19 Sep 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-19.mp3" length="3727728" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Thursday, 17 September</title>
-    <description>Hello, and welcome to Byte-sized for Thursday the seventeenth of September. Six sections today: Japan and Asia-Pacific, A I and tech, startups and venture, policy and geopolitics, community and marketing, and one interesting thing to close. Let&#x27;s get into it.
-
-Japan and Asia-Pacific.
-
-First up, a proper deep dive from the newsletter Uncharted Territories on why Japan managed to become one of the most densely populated countries on Earth despite having almost no farmland. Only twelve percent of Japan&#x27;s land is farmable, yet the country holds the twelfth largest population on the planet. The answer turns out to be geology: the collision of the Pacific and Asian tectonic plates created deep, fertile river valleys in the south, while two ocean currents meeting off Honshu brought both the nutrients that built Japan&#x27;s fishing culture and the warmth that let rice farming push further north than the latitude should really allow. Japan&#x27;s relative isolation as an island chain also meant fewer wars and disease waves than its neighbours faced, letting population and irrigation infrastructure grow together for well over a thousand years. It&#x27;s also, apparently, why sushi is the most Japanese food there is: rice moving north from the south, fish moving south from the north, meeting in the middle. Via Uncharted Territories.
-
-Next, a sharper-edged piece from the security think tank C S I S on Asia&#x27;s simmering maritime tensions. With President Xi due in Washington next week, analyst Harrison Pretat argues the Trump administration risks repeating the mistake it made with Iran: staying quiet on maritime coercion until a crisis forces its hand. Over the past year China has restarted island building in the Paracel Islands, quadrupled coast guard patrols around Scarborough Shoal, and established a persistent coast guard presence east of Taiwan that has already interfered with hundreds of commercial ships. The warning is blunt: if maritime security doesn&#x27;t make the Trump-Xi summit agenda, expect Beijing to keep pushing, much as it did in the Strait of Hormuz. Via CSIS.
-
-And a smaller but symbolically large shift, flagged by International Intrigue: Japan&#x27;s defence minister has said Tokyo won&#x27;t rule out nuclear-powered submarines. It&#x27;s only a modest crack in a taboo that has held since 1945, but it lands just as China, the United States, and soon South Korea all operate such submarines in the very same waters. Elsewhere in Japan, the health ministry reported that the number of centenarians has topped one hundred thousand for the first time, a milestone officials are calling both a triumph and a warning sign for an ageing economy. Via International Intrigue.
-
-Now, over to A I and tech.
-
-A new kind of A I model launched this week that isn&#x27;t trying to chat with you at all. TypeSafe, founded by an ex-OpenAI researcher who helped build the technology behind ChatGPT, unveiled Jev, what it calls a System One model: built purely for fast, cheap, structured decisions inside software, like sorting requests or screening outputs, rather than for conversation. It responds in under a second, is priced far below existing large language models, and its maker claims it can&#x27;t hallucinate because it only ever picks from a fixed set of preset options. The bet is on Jevons paradox: make judgment calls this cheap, and software will simply start using vastly more of them. Via TLDR and The Rundown.
-
-Inside OpenAI itself, a deep dive from The Pragmatic Engineer finds that its coding agent Codex has, in the space of about six months, gone from a nice-to-have to being how almost everyone at the company works, including finance, legal and recruiting staff who have never written a line of code. OpenAI has built what it calls a software factory: agents gather context, write code, run tests, review each other&#x27;s pull requests as simulated domain specialists, and then babysit deployment into production. Engineers there increasingly describe their job as closer to product management than programming, and the volume of pull requests per engineer is climbing at a pace that would normally take a company years, not months, to absorb. Via Pragmatic Engineer.
-
-And at Salesforce&#x27;s Dreamforce conference, Slack unveiled a major push to turn itself into what it calls a true A I teammate: bots working inside channels, full screen A I workspaces, live data surfaces pulled from Salesforce, and a new Slack Code feature where developers and agents write and review code together. It&#x27;s a sign of where enterprise software is heading more broadly, away from seat-based licensing and toward tools accessed through agents and conversation, which is already forcing chief information officers to rethink governance, permissions, and how they even budget for software. Via TLDR.
-
-Now, over to startups and venture.
-
-A new database from the newsletter The VC Corner mapped one thousand five hundred and three American early stage investors, and the numbers explain why founders describe the Series A crunch as brutal. For every fund that leads a Series A round, there are roughly five point three earlier stage investors writing smaller checks and feeding companies toward that narrow gate. California and New York alone account for over half of all mapped investors, though Arizona, driven almost entirely by pre-seed programmes, has quietly overtaken Massachusetts in total investor count. Via The VC Corner.
-
-The same newsletter also flagged a fast growing niche: fundraising advisors who work purely on success fees, no retainers, paid only if a round actually closes. The list runs to one hundred and fifty advisors, evidence that with roughly half the market having raised under a million dollars last year, a whole cottage industry of vetted, contingency based fundraising help has sprung up around the smallest deals. Via The VC Corner.
-
-Now, over to policy and geopolitics.
-
-The biggest geopolitical story this week is unfolding in Yemen. International Intrigue reports that the Houthis have launched a lightning offensive along Yemen&#x27;s Red Sea coast, seizing the port of Mokha, the town of Dhubab, and the island of Perim, giving them a direct line of fire over ships transiting the Bab el Mandeb strait, one of the world&#x27;s busiest oil corridors. Combined with the ongoing disruption in the Strait of Hormuz, that puts roughly a quarter of global oil trade within reach of Iran and its allies, and oil prices have already jumped back above one hundred and eight dollars a barrel. Saudi Arabia&#x27;s options all look bad: wade back into a Yemeni civil war it spent a decade trying to exit, or watch its own economic ambitions take the hit. Via International Intrigue.
-
-Closer to home for policy watchers, CSIS&#x27;s Trade Guys podcast dug into a trio of trade stories: the White House&#x27;s executive orders on beef imports, a Russia sanctions bill still stalled in Congress, and a growing push for closer trade ties between Canada and Europe, using Italian pasta tariffs as a case study in how unevenly the administration enforces trade rules depending on the political relationship involved. Via CSIS.
-
-And economist Alex Tabarrok used Marginal Revolution to push back on a popular theory, that when Anthropic&#x27;s Dario Amodei calls for A I safety regulation, he&#x27;s really just angling for regulatory capture. Tabarrok argues that classic regulatory capture takes years of quiet lobbying after public attention has already moved on, which is the opposite of what&#x27;s happening now, with A I regulation still in its earliest, most politically charged phase, and with researchers who have nothing to sell, including Turing Award winner Geoffrey Hinton, voicing the same worries. It lands alongside a related warning from Sifted, that as A I agents move from research demos to mainstream use in barely two years, Europe&#x27;s landmark A I rulebook is already struggling to keep pace with systems that can act with limited human oversight. Via Marginal Revolution and Sifted.
-
-Now, over to community, events and marketing.
-
-From Marketing Brew, a nice reminder that a good origin story beats a good advert: pickle brand Grillo&#x27;s has built much of its online following by leaning into the specific, slightly odd detail of its own brine recipe rather than generic product shots. One idea worth stealing: find the one weirdly specific detail about how your product is actually made, and let that carry the whole story. Via Marketing Brew.
-
-And community building writer David Spinks published a piece worth sitting with if you lean on A I daily. He describes a creeping brain fog and disconnection after months of constant A I use, arguing that talking to an assistant all day, however useful, is empty social calories that can quietly erode the muscle of doing your own thinking and talking to actual people. One idea worth stealing: audit which of your daily A I habits are genuinely saving you time, and which ones have just quietly taken over decisions you used to make yourself. Via David Spinks.
-
-Now, over to one interesting thing.
-
-To close, from the newsletter Experimental History: we may not actually be living through a loneliness epidemic, the data behind that claim is far shakier than the headlines suggest, but we are living through something the writer calls an epidemic of social scurvy. Just like vitamin C, humans evolved without much of a built in craving for company, because for most of history you simply couldn&#x27;t survive without other people anyway. Strip that necessity away, as modern life has done, and you can quietly wither without ever consciously feeling lonely enough to do anything about it, the same way scurvy sufferers waste away without craving citrus. The fix, apparently, is the same as with thirst: don&#x27;t wait to feel the need, just show up anyway. Via Experimental History.
-
-That&#x27;s Byte-sized for Thursday the seventeenth of September. Thanks for listening, and I&#x27;ll be back tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-17.mp3</guid>
-    <pubDate>Thu, 17 Sep 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-17.mp3" length="3535488" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
