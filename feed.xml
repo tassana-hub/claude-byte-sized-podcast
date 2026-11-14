@@ -7,6 +7,84 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Week in review, 15 November</title>
+    <description>Good morning, and welcome to Byte-sized, the week in review for the week of the ninth of November. It is Sunday the fifteenth, there are six sections, and the short version is this: a week that began with a model launch ended with the most important chief executive in technology out of a job. As ever, we start in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+Where the week landed: Japanese and Asian capital is now fully exposed to the cost of the A I build-out, both its upside and its bills, and the security climate around chips and North-East Asia has tightened sharply.
+
+First, SoftBank showed what the A I race costs. It swung to a quarterly loss of about one point one two trillion yen, roughly seven billion dollars, mostly from writing down deposits it paid to lock in power generation equipment for its American data centres, including an eight gigawatt project in Ohio. Yet by Saturday the same group was leading a five hundred million dollar round for Munich&#x27;s Agile Robots, alongside Nvidia and Hitachi. Put those two stories together and you get the shape of Japanese strategy: pay heavily for energy and infrastructure now, and buy exposure to physical A I abroad rather than wait to build it all at home. For anyone talking to Japanese manufacturers or investors, the question to ask is which of those two bets they are on. Via T L D R Hardware, and Sifted.
+
+Second, Asia is binding itself more tightly to the American labs and to European deep tech. Taiwan&#x27;s T S M C approved around forty-one billion dollars of capital spending and, more unusually, stakes of up to five hundred million dollars each in Anthropic and OpenAI. Meanwhile bankers at G P Bullhound came back from Seoul, Osaka and Singapore saying European deep tech came up in nearly every meeting, with Samsung now one of Europe&#x27;s kingmakers after leading Mistral&#x27;s three billion euro round. The line worth remembering is theirs: Asia has the factories and the customers, Europe has the inventions and is short of growth capital. Japan has a real chance to be the first stop for European founders, rather than an afterthought, if its corporates keep writing cheques of this size. Via T L D R Hardware, and Sifted.
+
+Third, security in North-East Asia ahead of the A P E C summit, now less than two weeks away. C S I S spent the week asking whether the American, Japanese and South Korean partnership agreed at Camp David three years ago is still standing, how durable the Russia and North Korea axis really is, and what the Chinese Communist Party&#x27;s Fifth Plenum means now that Xi Jinping has tightened his grip again. Seoul says it will keep the International Atomic Energy Agency informed about its nuclear-powered submarine programme, and there are reports that China, Russia and the United States may use A P E C to commit to keeping A I under human control in nuclear arsenals. For Tokyo, the thread running through all of it is the same: more uncertainty in its own neighbourhood, at the very moment Washington&#x27;s attention is stretched. Via C S I S.
+
+And one number to carry into the new week: China&#x27;s trade surplus has passed one trillion dollars in the first ten months of the year, on course for another record. Alongside it, keep an eye on Indonesia, where the vice president&#x27;s resignation has raised questions about stability in a country that matters enormously to Japanese investment in nickel, batteries and infrastructure, and on India, where states such as West Bengal are now offering investment support worth up to one hundred and twenty per cent of eligible spending on plant and machinery. Manufacturers hedging away from China have more suitors than ever. Via International Intrigue, and C S I S.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+Where the week landed: the model race barely paused, but the real story was the people and the money. Nvidia lost its founder, Anthropic set out to make the largest stock market debut in history, and agents started spending real money.
+
+The story of the week, and probably of the quarter: Jensen Huang has resigned as chief executive of Nvidia and left its board. It unfolded in stages. On Tuesday, Huang apologised for an affair with a former Singapore-based executive whom American intelligence believes was working for China&#x27;s Ministry of State Security, and who ran Megaspeed, a firm that bought billions of dollars of restricted Nvidia chips. By Thursday, The New York Times had reported a second relationship with a vice president reporting to him, and the board was preparing to remove him. By Friday he was gone, and Reuters had reported a third. The finance chief, Colette Kress, is interim chief executive, and long-time director Harvey Jones becomes the company&#x27;s first board chair. Nvidia lost more than four hundred billion dollars in market value in two sessions. The product roadmap is largely set through twenty twenty-eight, so the near-term risk is less about chips and more about the big architecture bets and partnerships that Huang personally drove. The next date to watch is Tuesday the seventeenth, when Nvidia reports quarterly results. Via The Rundown A I, T L D R A I, and T L D R Hardware.
+
+Second, the money. Anthropic has launched the roadshow for its listing on Nasdaq under the ticker A N T, at seventy to seventy-eight dollars a share. That would value it at about one point four trillion dollars and raise up to sixty-four billion, and Bloomberg reports the order book is already several times oversubscribed. It would be the largest debut ever, ahead of SpaceX. OpenAI, for comparison, reportedly raised eleven billion dollars at a one point two five trillion dollar valuation, short of the thirty billion it was said to want, though it also posted its first ten billion dollar quarter. The read from the week: investors are getting choosier about A I valuations, but not about the leaders. Via T L D R Fintech, T L D R A I, and The Rundown A I.
+
+Third, the models. Anthropic opened the week with Claude Fable and Mythos five point two, cheaper and faster, with Fable going straight to the top of the Artificial Analysis leaderboard, and followed it with spreadsheets, whiteboards and a meetings assistant inside Claude. Google answered with Gemini four Carbon, strong on coding at less than half the cost per task of its nearest rival, and then Gemini four Hydrogen, a faster and cheaper model for agents, plus its first Gemini smart glasses, built with Samsung. Meta&#x27;s small Muse Ember model is going after the budget end. The pattern is clear: price per task, not raw intelligence, is where the competition now sits. And in the background, the forecasters behind the A I twenty twenty-seven scenario brought their timelines forward again, now putting an A I that matches the best human A I researchers somewhere between May and November of next year. Via The Rundown A I, T L D R A I, and Every.
+
+Fourth, the agents went shopping. OpenAI let businesses claim verified profiles inside ChatGPT and set up their own shopping agents. Replit&#x27;s agent can now buy supplies and run Google Ads campaigns, Meta&#x27;s assistant can phone businesses for you, and Travelport completed a live flight purchase made by an A I agent. PhocusWire&#x27;s weekend wrap called it quite a week for agentic news in travel, yet travel executives on earnings calls admitted that only a trickle of bookings is actually coming through these channels so far. And some businesses are closing the door: United Airlines is blocking unauthorised agents from its app and website. The open question for the new week is who controls the rails when agents transact, and who gets to say no. Via The Rundown A I, T L D R A I, T L D R Founders, Skift, and PhocusWire.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+Where the week landed: Europe&#x27;s chip and defence startups are suddenly flush, the travel industry discovered OpenAI as a competitor, and the business model of software is quietly shifting under founders&#x27; feet.
+
+First, Europe is finally funding its own A I hardware. Fractile, a British company designing inference chips, confirmed a five hundred and forty million pound round backed by the United Kingdom&#x27;s Sovereign A I fund and the British Business Bank, the largest semiconductor round Europe has ever seen. Sifted counts about three point two five billion euros raised by European chip startups this year, almost four times the whole of last year, and has mapped more than a hundred of them. Defence is just as hot: Onodrim raised three hundred million dollars to roll up defence and space manufacturers, and Uforce raised seven hundred million dollars. The obvious question after Friday is whether Huang&#x27;s exit cools this, since Nvidia joined thirteen European megarounds in the past year. The early answer from investors is no: demand from hyperscalers, national A I programmes and the big labs is locked in for years. Via Sifted.
+
+Second, OpenAI bought its way into travel. It acquired Odessia, a nine-month-old A I travel agent founded by Francis Davidson, who previously ran Sonder, a day after PhocusWire named it one of its Hot twenty-five travel startups for twenty twenty-seven. Skift&#x27;s read is that OpenAI was buying a team with a decade of lodging experience, not revenue. The strategic question for Booking dot com and Expedia is whether ChatGPT becomes the place where trips start and finish, leaving them as suppliers in the background. Via Skift, and PhocusWire.
+
+Third, the lessons on the business of software were the most useful of the week. A SaaStr analysis found A I startups still keep about eighteen per cent of staff in sales, while support shrinks below two per cent. A well-designed business agent can double what a customer pays, because it draws on labour budgets rather than software budgets. And the founder of Groove, a profitable support software company, has stopped selling new subscriptions because A I is shrinking his customers&#x27; teams, and with them the seats they pay for. Add Lenny Rachitsky&#x27;s job market data, with forward deployed engineers up nearly fivefold in a year, and Sequoia closing its scout programme while Northzone opens one built on hands-on operators, and the message is consistent: the value is moving to people who deploy A I inside real businesses, and seat-based pricing is becoming a liability. Via T L D R Founders, Lenny&#x27;s Newsletter, and Sifted.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+Where the week landed: the Nvidia affair turned into a national security story, chip export controls look set to tighten, and Western governments are learning to regulate A I by folding it into existing rules rather than building new fences.
+
+First, chips and espionage. What started as a scandal became a matter for congressional committees, who want a closed-door briefing from Huang. The evidence is uncomfortable: around fifty thousand of Megaspeed&#x27;s chips reportedly vanished, Singapore is investigating the company, and a separate forensic analysis suggests DeepSeek, Moonshot A I, MiniMax and Ant Group have had access to Nvidia&#x27;s export-controlled Blackwell chips. That analysis does not show where the chips were or whether rules were broken, but the political direction is plain. Expect tighter oversight of chip sales routed through Southeast Asia, and perhaps a push to treat key chip firms more like defence contractors. That matters directly to Japanese chip equipment makers and to Tokyo&#x27;s own economic security policy. Via International Intrigue, The Rundown A I, and T L D R A I.
+
+Second, A I governance moved in two directions at once. In Paris, France launched the Paris Call for A I Safety and Security, with OpenAI, Anthropic and Mistral committing to build emergency off switches into their most advanced models. In Washington, the Office of the Comptroller of the Currency told bank examiners not to treat A I as a separate risk category at all, a technology-neutral approach. For conversations with Japanese regulators and enterprises, both are worth knowing: Europe is setting safety norms at the frontier, while American financial regulators are absorbing A I into ordinary supervision. Via The Rundown A I, and T L D R Fintech.
+
+Third, the wider picture stayed crowded. In Washington, the President replaced his chief of staff with the immigration hardliner Stephen Miller after the midterm losses. Christine Lagarde will leave the European Central Bank early, in February, to lock in a technocratic successor before France&#x27;s twenty twenty-seven election. Talks on Ukraine resumed in Abu Dhabi and quickly ran into tension, and the American position on Iran remains muddled, with Vice President Vance removed from the talks. Through all of it, the theme for Asia-facing businesses is a United States more focused on home and the Americas, and allies being asked to carry more of the weight themselves. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+Where the week landed: as A I floods every channel, the ideas that stood out were about trust, tangible things and human judgement.
+
+The idea worth stealing this week comes from Priya Parker, who wrote twice about traditions that no longer fit. Families, teams and communities change, but their rituals often do not, and a gathering that once brought people together can start to ask too much of them. Her method is simple: ask what is still precious, then keep, edit or cut parts of the tradition, starting small. If you run a recurring meetup or an annual offsite, try asking your regulars that one question before you redesign it. Via Priya Parker.
+
+A second theme ran through several sources: in an age of generated content, people want proof that a human was involved. Sifted described the creator in residence, where brands bring a trusted storyteller in-house instead of paying creators post by post, citing a survey in which seventy-eight per cent of people said brands feel cringey when they lean on A I too much. Scan Club reported the rise of the adult goodie bag, small take-home objects that give guests tangible proof they were there. And the startup Needle booked three hundred and twenty-one sales calls in two months by writing only to people who had just commented on posts about its problem, with A I drafting each note and a person approving every one. The common thread: reach people when they have shown they care, give them something real, and keep a human in the loop. Via Sifted, Scan Club, and T L D R Founders.
+
+And one format to borrow for the new year: Fukuoka Now&#x27;s Kyushu Roundtable, which takes a single theme and a single expert, then ends with a social. The next one, on the fourth of December, is on cycling and urban mobility, followed by a year-end party. One theme, one guest and time to talk afterwards is a recipe any community can repeat. Via Fukuoka Now.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Of all the ideas this week, the one most worth keeping comes from Tomas Pueyo, who asked what happens to a profession when A I makes its work ten times cheaper. Using American tax returns, he notes professionals already file about eighty-eight million of the roughly one hundred and sixty-six million returns each year, so even if every remaining filer signed up, customers could rise by less than ninety per cent. If prices fall by ninety per cent, revenue for the whole industry would still shrink by at least four fifths. Whether any job grows or shrinks, he argues, comes down to one question: does cheaper work unlock enough new demand to make up for the lower price. It is a useful test to apply to your own field before the coming year does it for you. Via Uncharted Territories.
+
+That is the week. Thanks for listening to Byte-sized, enjoy the rest of your Sunday, and I will see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-15.mp3</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-15.mp3" length="5842368" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Saturday, 14 November</title>
     <description>Good morning, and welcome to Byte-sized. It is Saturday the fourteenth of November, and today there are six sections, beginning, as ever, in Japan and the Asia Pacific.
 
@@ -1869,68 +1947,6 @@ That&#x27;s your week, wrapped up in byte-sized pieces. Thanks for listening, an
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-27.mp3</guid>
     <pubDate>Sun, 27 Sep 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-27.mp3" length="5319072" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Saturday, 26 September</title>
-    <description>Hello, and welcome to Byte-sized for Saturday, the twenty sixth of September. Six sections today, so let&#x27;s get straight into it.
-
-JAPAN AND ASIA-PACIFIC
-
-A rich few days for the region, starting with a striking piece of research on the most sensitive subject in Japanese security policy. CSIS&#x27;s Japan Chair has published a new survey of Japanese strategic elites, meaning current and former scholars, business leaders and officials, on the question of nuclear weapons. Despite a worsening security environment, from North Korea&#x27;s missile programme to China&#x27;s expanding arsenal, the clear majority still oppose Japan acquiring its own bomb, consistent with the wider public mood. But the researchers found two specific triggers that could shift that: a drawdown of American forces on the Korean Peninsula, and, more powerfully, South Korea itself going nuclear. Japanese elites said a nuclear South Korea would move their support more than a US withdrawal would, suggesting a cascade effect where one country&#x27;s proliferation pushes its neighbours to follow. Via CSIS.
-
-Staying with security, but in a very different register, a Japanese language AI newsletter from Uzabase&#x27;s Speeda service flagged that Japan&#x27;s government has adopted a non-binding code requiring AI developers to disclose more about their training data, arriving in the same week the EU opened its first formal information requests to OpenAI, Anthropic and Google DeepMind under the AI Act, and China&#x27;s top court issued its first nationwide judicial guidance on AI disputes and deepfakes. Three different regulatory philosophies, converging on the same set of questions about who answers for an AI system&#x27;s behaviour. Via Speeda Intelligence.
-
-And a lovely piece of pure geography from Uncharted Territories, asking why the largest city on earth sits on some of the most hazardous ground imaginable. Tokyo has thirty seven million people, a subway network so big it would take five days to walk across, and was built on land prone to earthquakes, volcanoes, tsunamis and typhoons. The answer, it turns out, isn&#x27;t density, Tokyo isn&#x27;t even in the world&#x27;s top fifty most crowded cities, it&#x27;s sheer surface area. Tokyo sits on the Kanto Plain, by far the largest flat, farmable expanse in Japan, which meant it could feed, and eventually house, more people than anywhere else in the country. Geography decided the capital long before politics did. Via Uncharted Territories.
-
-Now, over to AI and tech.
-
-AI AND TECH
-
-The biggest single number this week belongs to Anthropic, which has committed eleven point six billion dollars over seven years to Akamai&#x27;s cloud infrastructure to support its growing computing needs, an agreement that could expand by a further nine billion dollars and includes warrants giving Anthropic roughly a five percent stake in Akamai. It&#x27;s another sign of just how much of the AI boom&#x27;s capital is now flowing not into flashier model headlines but into unglamorous compute and infrastructure deals behind the scenes. Via TLDR.
-
-Security researchers, meanwhile, had a rough week with Meta&#x27;s new autonomous assistant, Muse. A zero day vulnerability, demonstrated by researcher Patrick Wardle, allows any local app or terminal command on a Mac to redirect Muse&#x27;s transcription to an attacker controlled server, handing over account access to a tool that can already read email, send messages, check calendars and use the microphone and camera. Amazon has already started blocking Muse&#x27;s shopping requests as unauthorised. It&#x27;s a reminder that giving an assistant sweeping permissions across your digital life is only as safe as its weakest technical seam. Via TLDR.
-
-And a smaller, more human story about what AI is doing to how companies are organised. A widely shared essay this week, flagged by both Lenny&#x27;s Newsletter and TLDR&#x27;s product digest, argued that AI native companies are flattening hierarchies and handing individuals far more autonomy and far more fluid roles, on the theory that as execution gets cheaper and faster, human judgement, not process, becomes the scarce resource. Worth remembering next time a start up boasts about having no middle management. Via Lenny&#x27;s Newsletter.
-
-Now, over to startups and venture.
-
-STARTUPS AND VENTURE
-
-A genuinely useful piece of engineering news for anyone running AI agents at scale. NVIDIA published research called Sol Pi, in which they pointed an AI system at the &quot;harness&quot;, the scaffolding of tools, context and feedback loops around a model, rather than at the model itself, and let it hunt for waste across fifty one tasks. Out of one hundred and fifty two candidate fixes, four survived testing, cutting token use by roughly forty five to forty nine percent and API costs by fifty to fifty four percent against the standard Codex and Claude Code harnesses, all without touching the underlying model. NVIDIA estimates that&#x27;s worth roughly nine to thirteen dollars an hour of savings on agent work, and the code is openly available. The lesson for founders watching their inference bill climb: before switching models or waiting for prices to fall, check the plumbing first. Via the VC Corner.
-
-On the creator economy side, Growth in Reverse told the story of Heather Cox Richardson, a Boston College history professor who didn&#x27;t know what a newsletter was in 2019 and now earns seven figures a month from one. Her Facebook following built slowly for five years, then took off once she began tying breaking news to historical parallels ahead of the 2020 election. It&#x27;s a reminder that in the newsletter economy, distribution built patiently over years can suddenly compound once the content finds its moment. Via Growth in Reverse.
-
-And from Europe, Sifted&#x27;s Anne Sraders sat down with Andreessen Horowitz general partner Anish Acharya, who argued European founders should stop measuring themselves against Silicon Valley and instead build companies that are, in his words, unapologetically European, serving markets and customers that only make sense in a European context. A16z has no plans to reopen its London office, closed less than two years after opening in 2023, but Acharya said the firm is actively looking at more deals on the continent. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-POLICY AND GEOPOLITICS
-
-The United Nations General Assembly&#x27;s annual leaders&#x27; week in New York produced a genuinely striking Trump line: the president told the hall he would decide after the American midterm elections whether to strike a deal with Iran that allows it to rebuild, or, in his words, annihilate the Islamic Republic. Analysts reading the timing see an attempt to preserve maximalist leverage while blunting the war&#x27;s political cost before voters go to the polls. Elsewhere in the same week, Brazil&#x27;s Lula used his traditional opening speech to appeal to voters at home ahead of his own tight election, and Jordan&#x27;s King Abdullah warned that Israel&#x27;s recent strikes into Syria, Lebanon and Iran now amount to a regional threat rather than a series of isolated actions. Via International Intrigue.
-
-Closer to the ground, CSIS&#x27;s Middle East programme flagged a serious test of the US-Saudi relationship. Houthi attacks on Saudi Arabia have continued with limited American support, and separately, Syria saw its most widespread protests since the fall of the Assad government after fuel prices jumped by up to ninety four percent this year, a direct knock-on effect of the wider Iran war disrupting regional energy supplies. Analysts at CSIS argue Gulf states are now having to absorb security shocks that a decade ago they would have expected Washington to help shoulder. Via CSIS.
-
-And a smaller but nagging story about the fog beneath the Arctic. Geopolitical Monitor noted that Norway&#x27;s defence minister insists NATO never loses track of Russian submarines in northern waters, but NATO&#x27;s own spokesperson has been notably more cautious in public, and two undersea cables cut off the Norwegian coast remain unattributed months later. It&#x27;s a useful corrective to any confident public statement about undersea surveillance capability. Via Geopolitical Monitor.
-
-Now, over to community, events and marketing. One idea worth stealing.
-
-COMMUNITY, EVENTS AND MARKETING
-
-The Event Design Collective made a case worth sitting with even outside the events world: AI can generate an agenda, summarise research and throw out format options in seconds, but it cannot answer the genuinely hard questions, what should this event change, for whom, and what should deliberately not be automated. Their term for this middle path is augmented event design, using AI to widen the field of options while keeping the actual judgement calls human. It&#x27;s a useful framing for anyone tempted to let a model make a decision that was never really about information in the first place. Via the Event Design Collective.
-
-And a small, concrete marketing example from Marketing Brew: Inter Milan&#x27;s social team grew its followers, impressions and views not by posting more, but by posting less, trading volume for a smaller number of sharper posts. In an attention economy where most brands default to flooding the feed, it&#x27;s a reminder that restraint can be the more sophisticated strategy. Via Marketing Brew.
-
-Now, to close, one interesting thing.
-
-ONE INTERESTING THING
-
-A new NBER paper by Dora Costa and Matthew Kahn puts a number on something most families feel but rarely measure: grandmotherhood is arriving much later, and it&#x27;s shrinking the years grandchildren actually get with a healthy grandmother. Under the fertility patterns of 1960, the median age of first becoming a grandmother was forty four; under today&#x27;s patterns it&#x27;s fifty seven, cutting the years of healthy grandmothering nearly in half, from twenty eight years down to fifteen. Longer lifespans haven&#x27;t closed that gap, because it&#x27;s specifically the healthy, energetic years that have been lost, not just years alive. The researchers call it the rotten adult kid problem: when a daughter delays having children to maximise her own life outcomes, the cost of that delay lands on her mother, a classic economic externality hiding inside an ordinary family decision. Via Marginal Revolution.
-
-That&#x27;s Byte-sized for Saturday, the twenty sixth of September. Thanks for listening, and I&#x27;ll see you next time.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-26.mp3</guid>
-    <pubDate>Sat, 26 Sep 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-09-26.mp3" length="3759120" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
