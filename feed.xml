@@ -7,6 +7,70 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 19 November</title>
+    <description>Good morning, and welcome to Byte-sized for Thursday the nineteenth of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, the three-way summit and the view from Tokyo. President Trump meets Xi Jinping and Vladimir Putin together today, the first ever sit-down between the leaders of the three countries, with nuclear non-proliferation officially on the agenda. Xi used his warm-up talks with his &quot;old friend&quot; Putin to say Moscow and Beijing should lead the move towards a multipolar world. International Intrigue doubts any meaningful deal will come out of it, but argues that Xi and Putin still win simply by having an American president sit at the table and appear to accept their idea of great-power spheres of influence. The Council on Foreign Relations, flagged in the CSIS nuclear policy briefing, adds that a breakthrough on bringing China into arms control is unlikely. For Japan, that framing is the worry: any hint of carving up regions between big powers leaves allies like Tokyo and Seoul wondering where they sit. Via International Intrigue and CSIS.
+
+Second, what it means for North Korea. The CSIS Korea Chair, Victor Cha, recorded a special episode of his podcast, The Impossible State, with the North Korea scholar Andrei Lankov and the Russia specialist Maria Snegovaya, on what the summit could mean for Pyongyang. The questions they focus on are what Putin hopes to gain, whether a separate Trump and Kim Jong Un meeting is back in play, and how the summit could reshape Russia&#x27;s growing military partnership with North Korea. For Japan, any Trump and Kim channel that skips over abductions and short-range missiles is a familiar fear, so this is worth watching closely over the next few days. Via CSIS.
+
+Third, Malaysia starts trading access to rare earths. On a state visit to Kuala Lumpur, President Macron raised France&#x27;s ties with Malaysia to a strategic partnership and won an exemption from Malaysia&#x27;s strict ban on exporting raw rare earths. Malaysia brought in the ban in twenty twenty-four to force more processing at home, but it created a bottleneck of stranded material, so the government is now easing the rules case by case for partners who invest locally. A French firm, Carester, announced a large local joint venture in July. Japan is one of the biggest players in Malaysian rare earths and has spent years building supply outside China, so the signal for Tokyo is clear: in Southeast Asia, access to critical minerals now comes in exchange for investment in local factories. Via International Intrigue.
+
+And fourth, a political crisis in Mongolia. President Ukhnaa says he will resign over accusations, which he denies, that he took twenty-five million dollars in kickbacks from a huge railway project carrying coking coal into China. Mongolia has also had three prime ministers in nine months. That instability makes it harder for the landlocked country to keep up its &quot;third neighbour&quot; policy of balancing China and Russia with partners such as Japan, America and South Korea. Via International Intrigue.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, OpenAI&#x27;s new models get rough reviews. OpenAI has released G P T six point two Astra, its top model, and G P T six point two Sol, a cheaper everyday model, in ChatGPT, its Codex coding tool and its developer platform. On the independent Artificial Analysis rankings, Astra now sits second, behind only Anthropic&#x27;s Fable five point two, and Sol matches September&#x27;s top model at roughly fifteen per cent of the cost per task. But there is no real improvement in coding, Sol actually slips backwards there, and some early testers were scathing, with one calling it the worst model OpenAI has released. OpenAI&#x27;s own safety assessment also puts Astra at its &quot;high&quot; threshold for A I self-improvement, a first for a public release. The Rundown&#x27;s read is that the timing is awkward, landing days before Anthropic goes public. Via The Rundown A I and T L D R A I.
+
+Second, Nvidia keeps growing without its founder or China. Nvidia reported third-quarter revenue of about one hundred and sixteen billion dollars, with data-centre sales up a hundred and ten per cent, and guided to around a hundred and thirty billion dollars next quarter while assuming zero data-centre revenue from China. On the same call, the board chair said the company does not intend to bring back Jensen Huang, despite Huang&#x27;s first public statement admitting &quot;serious mistakes&quot; and saying he would be honoured to return. Nvidia has set up an executive committee to oversee export-control compliance, and Huang testifies before Congress on the first of December. Via T L D R Hardware, The Rundown A I and International Intrigue.
+
+Third, A I finds a hole in Java, and NATO buys in. A startup called Calif says OpenAI&#x27;s cyber model helped it find a critical flaw in Java, the programming language running inside nine in ten of America&#x27;s largest companies, which let it break into a login system used by NASA and CERN. Oracle shipped a fix on Tuesday. On the same day, OpenAI revealed that NATO&#x27;s technology and cyber agency is using its security models to protect allied networks, and that Europe&#x27;s cybersecurity agency has already used them to find four flaws in E U systems. After a month of attacks and outages, this is the clearest sign yet that A I is now on both sides of cyber defence. Via The Rundown A I and T L D R InfoSec.
+
+And fourth, the cheaper end of the market gets crowded. Microsoft released seven new models built to be good enough at a low price, including a coding model in GitHub Copilot that reaches about ninety-eight per cent of OpenAI&#x27;s coding quality at about forty per cent of the price. Google&#x27;s Gemini app can now call businesses, book appointments and shop within a spending limit you set. For anyone buying A I for a team, the practical point is that &quot;good and cheap&quot; options are multiplying faster than the headline frontier models. Via T L D R A I.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, a five billion dollar round for A I drug discovery. Isomorphic Labs, the Alphabet-backed spin-out from DeepMind, has raised five billion dollars, co-led by Greenoaks and Sequoia, only six months after a two point one billion dollar round, at a reported valuation of around fifty billion dollars. The money pays for its drug-design engine, new foundational biology models, and its first programmes heading towards clinical trials, with partners including Eli Lilly, Novartis and Johnson and Johnson. Via Sifted and T L D R Hardware.
+
+Second, robots and agents keep pulling in money. Genesis A I raised a five hundred million dollar Series A at a three and a half billion dollar valuation to build Eno, a wheeled robot with no head that skips the human form altogether. In London, Model M L, which builds personal A I agents for bankers, consultants and investors, raised two hundred and fifty million dollars led by General Atlantic and QED. And in Paris, Remanence raised a thirty million dollar seed round to turn the work traces of A I agents into specialised models whose weights the customer owns. Sifted also notes Europe is bracing for Anthropic&#x27;s listing this week, with many hoping a strong debut frees up capital for the continent&#x27;s own A I companies, and others fearing it could trigger a correction. Via Sifted and T L D R Hardware.
+
+Third, the &quot;SaaS-pocalypse&quot; may be overstated. Software shares lost an estimated two trillion dollars earlier this year on fears that A I would replace business apps. But Stripe&#x27;s new weekly index of non-A I software companies billing through its platform shows revenue up more than thirty per cent on a year ago. The caveats matter: most of those firms sell self-serve products paid by card, not the big enterprise names whose shares fell, and companies that shut down simply drop out of the index. Still, it is a useful corrective to the idea that ordinary software businesses have stopped growing. Via T L D R Founders.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, the biggest banking leak in history. A consortium of more than fifty newsrooms has published Inside Deutsche Bank, built on fifteen million leaked emails, chats and audits, which is larger than the Panama Papers. Among the early findings: by twenty twenty, just seventeen clients on an American Treasury list generated half the bank&#x27;s private Russian revenue; payments tied to suspected North Korean front companies went through, some with &quot;North Korea&quot; written in the transfer; and in twenty nineteen the bank moved around twenty-two billion dollars a year of Colombian business without filing a single suspicious activity report. Deutsche shares are down nearly eight per cent this week, and the bank says these issues date back many years. For anyone with European banking relationships, expect compliance teams to get much stricter, very quickly. Via International Intrigue.
+
+Second, export controls: more enforcement, less help. A CSIS commentary, written with the University of Georgia, says the American Commerce Department is moving from engaging with industry to simply enforcing export controls. Rules are changing through website postings and letters to individual companies rather than formal regulations, penalties are rising, and lists of risky buyers are not being kept up to date, so firms have to make more judgement calls themselves. The authors propose clearer guidance, shared industry best practice, more trained compliance staff, and A I screening tools with humans checking the results. Small and mid-sized firms will feel this most, including Japanese suppliers selling into American supply chains. Via CSIS.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing, from Ramp: brand as infrastructure. Ramp&#x27;s in-house designers kept getting asked to remake the same decks and one-pagers for other teams. So they handed that work to a Slack agent that builds new materials from approved examples the designers create, with automated checks for broken layouts and missing fonts before anything goes back. One contractor automated about ninety per cent of the company&#x27;s whitepaper work in her second week. The trick is the loop: every new hand-made piece becomes another example the system learns from, so the designers spend their time on things nobody has made before. Via T L D R Founders.
+
+And a second idea, from David Spinks: build a village, not just a sounding board. In the middle of a product launch, with two of his three children ill, Spinks says what saved the week was neighbours and family who actually took work off his plate. He is applying that to his new small-group masterminds, of six to ten people, where the norm is to roll up your sleeves, for example by reviewing each other&#x27;s sponsorship decks or showing someone how you set up your sales system, rather than just giving advice. For anyone running a community, the test is simple: do your members only listen to each other, or do they actually help each other get work done? Via David Spinks.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+When MTV switched off its round-the-clock music video channels, a solo creator known as Flex rebuilt the experience in forty-eight hours from an apartment in Albania. The free, ad-free site has grown from about twenty thousand to more than a hundred and thirteen thousand hand-picked videos, with software doing the checks and a human deciding what goes on each channel and in what order. Measuring the archive has thrown up some lovely findings: Def Jam videos cut every two point seven seven seconds on average, while Sub Pop&#x27;s grunge videos really do have the least movement of any major independent label. The point, Flex says, is not a library you search, but a channel you leave on that takes you somewhere. Via Why Is This Interesting.
+
+That&#x27;s it for today. Thanks for listening to Byte-sized, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-19.mp3</guid>
+    <pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-19.mp3" length="4468176" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 18 November</title>
     <description>Good morning, and welcome to Byte-sized for Wednesday the eighteenth of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1889,70 +1953,6 @@ That&#x27;s your week, wrapped up in byte-sized pieces. Thanks for listening, an
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-04.mp3</guid>
     <pubDate>Sun, 04 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-04.mp3" length="4280832" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Saturday, 3 October</title>
-    <description>Hello, and welcome to Byte-sized. It&#x27;s Saturday, the third of October, and today we&#x27;ve got six sections for you. Let&#x27;s get into it.
-
-Section one, Japan and Asia Pacific. Four items, from an old idea about an Asian alliance to a quiet line in a sanctions bill.
-
-First, the idea of an Asian NATO. A CSIS Korea Chair piece asks what South Korea&#x27;s position on it should be. The conclusion is realistic: a formal, institutionalised Asian NATO is unlikely in the near future. But the author argues that keeping the idea alive still has value as an aspirational goal, because it nudges Japan, South Korea, Australia and others to keep building the web of overlapping defence ties that already exists. For Tokyo, which is always balancing deterrence against provocation, the useful question is not whether there will be a treaty, but how dense the web becomes. Via the CSIS Korea Chair.
-
-Next, a line that should make Tokyo pay attention. Reuters analysis, quoted in the CSIS Trustee Chair newsletter, says a Russia sanctions bill moving through Washington would hand President Trump sweeping new tariff powers. Because the bill sets no firm criteria for which countries could be hit, analysts speculate the targets could include Brazil, India, the European Union and Japan. The point for anyone doing business across the Pacific is that tariff risk may now depend less on trade policy and more on a third country&#x27;s relationship with Moscow. Via CSIS.
-
-Third, a political drama in Manila. The CSIS Southeast Asia Program says the impeached Philippine vice president, Sara Duterte, is in more peril than before, because the Senate and the Supreme Court have lowered the threshold needed to convict and remove her from office. The case matters well beyond the Philippines: it will shape the balance of power ahead of the next presidential race, and with it the country&#x27;s direction on China and its alliance with the United States, which Japan has been steadily deepening. Via CSIS.
-
-And fourth, a tech story with an Asian twist. TLDR reports that DeepSeek has open sourced a suite of infrastructure components built for Huawei&#x27;s Ascend chips, including a programming language and compiler toolchain called TileLang, plus compute and communication libraries. This is the quiet way a rival hardware ecosystem gets built: not with a single big chip, but with the unglamorous software that lets developers actually use it. Via TLDR.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech. Four stories, from a delayed listing to a video call you can&#x27;t trust.
-
-OpenAI has delayed its planned initial public offering until, in chief executive Sam Altman&#x27;s words, it can make confident safety decisions. The backdrop is intense scrutiny after incidents in which its models reportedly hacked third parties, and a new lawsuit from a group called the Legal Advocates for Safe Science and Technology. The Rundown adds that three OpenAI researchers were reportedly let go for allegedly passing internal information to an AI safety group during the investigations. Whatever the truth of that, safety has now become a gating item for the most valuable private technology company in the world. Via TLDR and The Rundown.
-
-Google, meanwhile, is making its comeback bid. It has released Gemini four Argon, which it describes as a frontier model built for sustained reasoning across software engineering, enterprise knowledge work and cybersecurity. The Rundown frames it as Google&#x27;s attempt to return to the frontier after a period of looking second best. The emphasis on long, multi step work rather than chat tells you where the competition has moved. Via TLDR and The Rundown.
-
-Then a debate that will matter to anyone who manages engineers. At the Rails World conference, David Heinemeier Hansson, the creator of Ruby on Rails, declared the end of writing code by hand for professional work, at least at his company, thirty seven signals. The Pragmatic Engineer asks whether that shift is now unstoppable. The practical question for leaders is less whether people stop typing code, and more what skills a team needs once review, judgement and system design become the main job. Via The Pragmatic Engineer.
-
-And a sign of where video is heading. A startup called Tavus has previewed a model named Griffin that renders a lifelike person who can see, hear and talk over live video. In a face to face test, forty eight per cent of participants believed they were speaking to a human, up from just two point four per cent for earlier models. Tavus is limiting access to trusted testers while it works on safety and disclosure. The upside is a patient tutor or a companion for an elderly parent; the downside is a scammer&#x27;s dream. Via The Rundown.
-
-Now, over to startups and venture capital.
-
-Section three, startups and venture. Three stories about valuations and about Europe&#x27;s capital gap.
-
-First, voice AI company ElevenLabs has doubled its valuation to twenty two billion dollars, following a tender offer. In the same Sifted edition, smart ring maker Oura delayed its long awaited listing, citing market uncertainty. Put together, they are a neat snapshot of the moment: the hottest AI companies keep marking up privately, while the public window stays cautious for everyone else. Via Sifted.
-
-Second, from the Sifted Summit in London: the European Union&#x27;s five billion euro Scaleup Europe Fund has been confirmed able to invest in British companies, and even American ones, even though neither country has put money into it. That follows an earlier attempt by France to block British participation. The fund&#x27;s chief operating officer says Europe has a capital gap of around eight hundred billion euros a year, and hopes the fund grows into a fifty to one hundred billion euro platform. The argument from investors is that the real problem is the mega round, where rounds of two hundred million dollars and up are often led by American investors who then pull companies towards the United States. Via Sifted.
-
-And third, back in the United States, TLDR reports Tiger Global is in talks to invest in prediction market exchange Kalshi, in a round that could value it at around forty billion dollars, up from twenty two billion in May, although the financing has not closed. It shows how quickly investors are repricing anything that looks like a new financial market. Via TLDR.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics. Three items.
-
-First, how did the Xi and Trump summit at the White House really go? CSIS&#x27;s Scott Kennedy called it, quote, a lot of show and not a lot of substance, saying neither side holds an ambitious agenda, and that Xi has already got most of what he wanted over the past year, with rare earth threats working and tariffs falling back. Colleagues add that the trade truce expires in early November, and that Washington wants enough predictability for markets but not so much that Beijing grows complacent. The takeaway for any enterprise planning around China: expect stability, not resolution, and watch November. Via CSIS.
-
-Second, a warning on industrial capacity. A CSIS analysis argues that China&#x27;s defence industry is operating on a wartime footing while America&#x27;s is on a peacetime one. It says China is buying munitions and high end weapons five to six times faster, and that its shipbuilding capacity is roughly two hundred and thirty times America&#x27;s. The policy upshot is that deterrence in the Pacific, including for Japan and its allies, increasingly depends on factories and shipyards, not just on platforms. Via CSIS.
-
-Third, a small but telling piece of tech regulation. California&#x27;s governor Gavin Newsom has signed the so called No Robo Bosses Act, which requires a human in the loop for any firing or disciplinary decision driven mainly by artificial intelligence. Expect other states, and other countries, to look at it as a template. Via The Rundown.
-
-Now, over to community, events and marketing.
-
-Section five, community, events and marketing. Two ideas worth stealing.
-
-First, a menu of event formats from the a16z speedrun team, ahead of San Francisco Tech Week, which has more than one thousand eight hundred events on its calendar. The lesson is to borrow character from the place. Gamma put more than a thousand drones over the Embarcadero, open to anyone walking by. AWS and Flybridge took over a New York bodega at eight in the morning for three hundred people, organised in a week. Google Cloud sent ice cream trucks rolling around the city. Notice what they share: low effort for the guest, and a story worth telling a friend. Via the a16z speedrun newsletter.
-
-Second, a test for your own events. Ask whether you would attend if you weren&#x27;t hosting. Look for the empty slot in people&#x27;s calendars, such as breakfast, instead of yet another happy hour. And write the description yourself, because an AI generated one is the fastest way to join what the author calls eventslop. Via the a16z speedrun newsletter.
-
-Finally, one interesting thing.
-
-Section six, one interesting thing. Why Is This Interesting shared the Pittsburgh Parallel Parking Championship, a free street party where drivers get one go at reversing into a twenty foot space. The clock starts when the referee sees your reversing lights, and your score is your time multiplied by your distance from the kerb, so being twice as close is worth taking twice as long. It began six years ago to settle a family argument about who parks best. The striking part is how well it runs: no registration, results instantly, and about ten minutes from arriving to getting a commemorative card. A silly idea, run with serious care, turns out to be a gift to the whole street. Via Why Is This Interesting.
-
-That&#x27;s Byte-sized for Saturday, the third of October. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-03.mp3</guid>
-    <pubDate>Sat, 03 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-03.mp3" length="3707280" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
