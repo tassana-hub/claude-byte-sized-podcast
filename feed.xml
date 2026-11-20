@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Saturday, 21 November</title>
+    <description>Good morning, and welcome to Byte-sized for Saturday the twenty-first of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, Fukuoka has to vote again. Thirteen candidates stood in the city&#x27;s mayoral election on the fifteenth of November, and not one of them won the share of the vote the law requires, so the whole contest has to be rerun. The parties are now rethinking who they back, the campaign poster boards have already come down ahead of the repeat vote, and the city is working out who runs things in the meantime. It is an unusual moment of uncertainty for a city that has sold itself to startups and foreign residents on stability and long-term planning, so the second round is worth watching. Via Fukuoka Now.
+
+Second, Kyushu&#x27;s ramen brands are being bought up. The restaurant group Skylark plans to buy Shin-Shin, one of Fukuoka&#x27;s best-known Hakata ramen names, for about twelve billion yen, and to grow it to around three hundred restaurants in Japan and overseas within five years, while keeping its name, flavour and service. In the same week, another Hakata chain, Ikkousha, was sold to a Tokyo investment fund. The pattern is clear: big national players and funds see Kyushu&#x27;s regional food brands as ready-made products for export. Via Fukuoka Now.
+
+Third, a reminder of how exposed Japan still is on rare earths. One year after the Trump and Xi trade truce in Busan, the CSIS Critical Minerals Security Program finds that American rare earth imports are still nearly seventy-five per cent below where they were before China&#x27;s restrictions. Beijing&#x27;s selective export controls continue to hit America and Japan hardest, and CSIS argues for stronger enforcement before the next round of talks. Separately, the programme counts more than forty critical mineral agreements signed by the current American administration, though most are not legally binding. For Japanese manufacturers, the message is that the truce has not fixed the supply problem. Via CSIS.
+
+And fourth, Asian markets have had a bruising week. Taiwan&#x27;s tech-heavy stock index fell more than six per cent on Friday alone, taking its losses for the week to eighteen per cent, as worries about an A I bubble spread across Asian markets. Meanwhile, on the diplomatic side, Prime Minister Takaichi used the East Asia Summit to question China&#x27;s behaviour in the South China Sea, even as the summit&#x27;s final statement retreated to safer ground such as cracking down on the region&#x27;s online scam centres. And closer to home, an N H K investigation counts at least thirty-four new Self-Defence Force units set up across Kyushu and Okinawa over the past decade. Via International Intrigue and Fukuoka Now.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, your A I agent now has a wallet. OpenAI has launched ChatGPT Wallet for a small group of American Pro subscribers: you add a card, ChatGPT&#x27;s personal agent shops for you, and you approve each purchase with your face or fingerprint, without the agent or the shop ever seeing your card number. Every&#x27;s team says it is comfortable letting agents handle purchases where the first reasonable option is fine, but still wants to press buy on anything that matters. Andreessen Horowitz is calling this the start of a business-to-agent economy, and says agent browsing traffic grew eightfold between August and October. If you sell anything online, it is time to ask how your products look to a machine, not just to a person. Via Every.
+
+Second, enterprise A I is becoming about owning and governing your own models. Palo Alto Networks has agreed to buy Applied Compute for four and a half billion dollars in stock, gaining tools to train and run customised open-weight models across public and sovereign clouds. Microsoft has launched a managed service that lets companies set and enforce rules for how their A I agents behave, and Workday is creating an Irish company with a board of European Union citizens to run its sovereign cloud in Europe. Together with Microsoft&#x27;s push this week to let large customers own their models, the direction is clear: big buyers want control, not just access. Via T L D R I T.
+
+Third, teams of agents are starting to beat solo ones. In a Replit benchmark, a swarm of thirty-two A I agents sped up a data-processing workload almost nineteen times in two hours, against under four times for a single agent, though it used more computing power and worked best on tasks that could be split up cleanly. And Google says its open-source code review system for the Linux kernel, called Sashiko, now carries out about twelve hundred reviews a day, and is linked to a thirty-five per cent drop in follow-up bug fixes. Via T L D R A I and T L D R I T.
+
+And fourth, what the room said at DealBook. The Rundown&#x27;s Rowan Cheung reports that when the European Central Bank&#x27;s Christine Lagarde was asked if A I is a bubble, the audience laughed nervously. Sam Altman argued hard that humans must stay in control, saying he does not want to end up as A I&#x27;s pet Labrador, while Greg Brockman said the biggest difference between the labs will be who owns the computing power. Via The Rundown A I.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, Anthropic&#x27;s first day as a public company. After pricing its shares at eighty-three dollars, Anthropic opened on the Nasdaq at one hundred and eleven dollars fifty, briefly valuing it close to two trillion dollars, and closed the day up seventeen per cent. Ninety-six per cent of its more than five thousand staff are now paper millionaires, and the co-founders have pledged eighty per cent of their shares to charity. At Slush in Helsinki, Menlo Ventures partner Deedy Das told Sifted the valuation was probably too low and called the listing a win for everyone building on these models, though Taiwan&#x27;s market slide shows not every investor is so relaxed. Via The Rundown A I and Sifted.
+
+Second, Plural raises one billion euros and sets a very high bar. The founder-led European fund has closed its third fund, four times the size of its first, just days after Sequoia shut its London office. Partner Khaled Helioui told The VC Corner that if Plural cannot see a hundred-times return, it does not invest, and it will pass on startups with great momentum if their best case is only thirty or forty billion dollars. Even with a billion euros, each partner signs just two or three new companies a year, with the focus on energy, A I infrastructure, defence and health. Via The VC Corner.
+
+Third, the revenue behind the boom. Lovable, the A I app builder, has just turned two with more than six hundred million dollars in annual recurring revenue, and its playbook is less a growth hack than riding a fast-moving category, shipping big updates almost every week and asking every new hire to automate their own repetitive work. Stripe has also launched a weekly A I index tracking payments to around twenty thousand A I businesses: total A I revenue is up one hundred and three per cent on a year ago, but the typical company is growing much more slowly than the leaders. Via T L D R Founders.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, India at the halfway mark. Richard Rossow, who chairs India studies at CSIS, says the third Modi government has done well on trade, with tariff-focused agreements and fewer non-tariff barriers, and the feared crisis never came: growth hit seven point eight per cent in the first quarter, and foreign direct investment reached seventy billion dollars over the past year. But it has made just one foreign investment reform this term, compared with thirty-seven in its first, and the real bottlenecks of power, water, labour and land sit with the states. For Japanese companies weighing India as a China alternative, state-level policy is the thing to watch. Via CSIS.
+
+Second, the summit season scorecard. International Intrigue&#x27;s verdict on a marathon week from Manila to Shenzhen: the Quad held its first in-person leaders&#x27; meeting of the Trump era with modest results, the Asia-Pacific Economic Cooperation forum avoided every flashpoint, and the Trump, Xi and Putin meeting produced mainly a photo opportunity and a joint statement that a nuclear war must never be fought. Putin may now attend Trump&#x27;s Group of Twenty summit next month. The takeaway for anyone briefing government or enterprise audiences: small clubs, plenty of symbolism, not much binding substance. Via International Intrigue.
+
+And third, the race for minerals moves to Africa. An American consortium has beaten Australian and Chinese rivals for the rights to develop Kenya&#x27;s Mrima Hill rare earth deposit, believed to hold around sixty billion dollars in critical minerals, though the Australian-led bidder is challenging the decision. It fits the pattern CSIS describes, of Washington taking a page from China&#x27;s playbook by joining up foreign policy and industrial strategy. Via International Intrigue and CSIS.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing, from Priya Parker, ahead of the holiday gathering season. She tells the story of a self-confessed people-pleaser who, when an elderly neighbour got her son&#x27;s name wrong at a family party, simply smiled and agreed. Parker&#x27;s point is that gatherings are where groups quietly negotiate who we are, and her advice is to prepare for those small moments: practise staying calm rather than reacting, take twenty seconds to settle your body before you walk in, and sometimes talk less so the loudest person does not set the tone. For anyone hosting a community, the same applies: plan for the awkward micro-moments, not just the agenda. Via Priya Parker.
+
+And a second, on getting your team to post. A piece in T L D R Founders argues that employee-led content can be a remarkably strong distribution channel, but that it dies quickly when companies hand out copy-and-paste captions, set posting quotas, or only push company news. People can smell a mandate. The takeaway: give your team permission and ideas, not scripts. Via T L D R Founders.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+How good are A I-written research papers? Tyler Cowen highlights work reported by The Economist: when one thousand economics papers produced by an automated A I research system were checked, none was error-free, and eight hundred and forty-two had at least one serious mistake. When a hundred human papers from the field&#x27;s top journals were checked the same way, about one in ten had a grave error. But in a separate test where A I tried to reproduce forty-eight social science papers from their raw data, the better the model, the more the discrepancies turned out to be the humans&#x27; fault. Via Marginal Revolution.
+
+That&#x27;s it for today. Thanks for listening to Byte-sized, enjoy your Saturday, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-21.mp3</guid>
+    <pubDate>Sat, 21 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-21.mp3" length="4036320" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Friday, 20 November</title>
     <description>Good morning, and welcome to Byte-sized for Friday the twentieth of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1893,62 +1959,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-07.mp3</guid>
     <pubDate>Wed, 07 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-07.mp3" length="3054960" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Monday, 5 October</title>
-    <description>Good morning, and welcome to Byte-sized for Monday the fifth of October. Five sections today, plus a closing thought. A lighter inbox over the weekend, so this one is a little shorter than usual.
-
-Section one, Japan and Asia Pacific.
-
-First, a study with a very Japanese question at its heart: would older people actually choose robot care? Researchers led by Bertrand Achou surveyed more than four thousand Japanese people aged fifty five to seventy five and asked them to pick between two otherwise identical nursing homes, one with entirely human care and one where robots and digital tools handled a big share of one task. Sixty five percent preferred the robot version, and on average they would pay about eight percent more for it. Acceptance was highest for help with mobility, middling for monitoring, and lowest for conversation and companionship. The authors&#x27; rough sums suggest the benefits could far outweigh the costs, especially for mobility robots. For anyone building or selling into Japan&#x27;s ageing economy, the lesson is to start with lifting and moving, not chatting. Via Marginal Revolution.
-
-Second, the Philippines. CSIS&#x27;s Southeast Asia Program says impeached Vice President Sara Duterte is in real political peril, because the Senate and the Supreme Court have between them lowered the threshold needed to convict and remove her from office. A conviction would reshape the politics of a close Japanese security partner ahead of the next presidential race, so it is one to keep an eye on. Via the CSIS Southeast Asia Program.
-
-Third, a note from the same CSIS briefing that matters in Tokyo as much as anywhere: they put the Chinese defence industrial base on a wartime footing, buying munitions five to six times faster than America. That is the backdrop to every Japanese defence spending debate. Via CSIS.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech.
-
-The week&#x27;s biggest product conversation was OpenAI&#x27;s developer conference. Every&#x27;s Dan Shipper sorted its twenty two releases by how much each one helps ChatGPT become your operating system for work. The five that matter most: Dots, an always on agent, and Space, documents that the agent can edit, which together form the workspace; plugin extensions and a subscription usable inside sixteen partner apps, which let other software connect in; and a Decisions interface that he thinks could be the biggest release of all, if it is cheap. His verdict after a week is balanced. The ambition is big, the execution is not there yet, and his own Dot drops messages and loses its connection to his computer. Every&#x27;s advice is to try it if you already live in ChatGPT, and to stay put for a week or two if you use a rival agent. Via Every.
-
-On the Anthropic side, Every&#x27;s team says Sonnet five point five has finally found its job. It is the model you steer, for brainstorming, prototyping, design and outlining, at half the price of Opus five point five, while Opus takes the long unsupervised runs. A useful way of thinking about model choice: match the model to how closely you plan to supervise. Via Every.
-
-Two infrastructure notes from TLDR&#x27;s IT edition. Micron says the memory shortage pushing up server, storage and laptop prices will get worse through twenty twenty seven and twenty twenty eight, with more than seventy five percent of its twenty twenty seven output already committed. If you are planning hardware refreshes, lock in pricing early. And Google&#x27;s threat intelligence group found that monthly vulnerability disclosures have doubled since early twenty twenty five and exploitation in the wild has nearly doubled, driven by AI tools that turn newly published flaws into working attacks very quickly. Patch windows are shrinking. Via TLDR.
-
-One more from the same issue: Microsoft and Google have joined Salesforce, Snowflake, Oracle, Nvidia and Databricks behind an open source effort to make business definitions portable across analytics and AI platforms. If it works, a metric defined once could be reused in Power BI and BigQuery alike. Via TLDR.
-
-Now, over to startups and venture.
-
-Section three, startups and venture.
-
-Sifted&#x27;s post summit reporting shows Europe&#x27;s argument shifting from whether to build late stage funds to how many. The new one-billion-pound UK Scale-Up Fund is still choosing a manager, with a number of venture firms bidding, and some are pushing for American style rules to cut the cost of setting up British funds. At the Sifted Summit, the head of the British Business Bank said the ecosystem should have ten to fifty funds, not one dominant player. And Eurazeo&#x27;s Hala Fadel put the problem neatly: it is a mega round problem. In rounds of two hundred million to a billion dollars, American investors take board seats and nudge companies to relocate, so the aim is less about Europe only money and more about keeping agency. Via Sifted.
-
-On fresh money, Headline raised four hundred million dollars for its eighth early stage fund, focused on AI startups backing European founders, and London&#x27;s Dig Ventures raised one hundred and twenty million for AI infrastructure. Via Sifted.
-
-And a culture story: podcaster and investor Harry Stebbings spoke about his regrets over promoting the nine nine six working culture, the seventy two hour week model from China, at the Sifted Summit. It is a sign that the hustle narrative is meeting resistance, even inside venture. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics.
-
-CSIS&#x27;s By the Numbers gives us four figures worth carrying into any conversation about sanctions and export controls. Russian petrol production is down about twenty percent against last year and diesel nearly thirty percent, so Moscow is restricting fuel exports to protect home supply; yet fossil fuel exports still bring in roughly two hundred and twenty billion dollars a year. Meanwhile American export control fines have already passed two hundred and ninety seven million dollars this year, more than three times the usual five year total, a sign that enforcement, not just rule writing, is now the pressure point for companies with global supply chains. Finally, the Pentagon accounts for about sixty four percent of federal AI contracts and eighty three percent of the money obligated between twenty nineteen and twenty twenty five, so defence is effectively the anchor customer for government AI. Via CSIS.
-
-Now, over to community, events and marketing.
-
-Section five, community, events and marketing. One idea worth stealing.
-
-Indie Hackers tells the story of Erik Allebest, who bought Chess dot com in two thousand and five for fifty six thousand dollars. It now has close to three hundred million members and is heading towards two hundred million dollars in annual revenue. The tactic is patience: he put community ahead of monetisation for years, served people who already cared, and was ready when the pandemic and The Queen&#x27;s Gambit pushed chess mainstream. A low single digit paid conversion rate can carry a huge free product. Same newsletter, a small tip: give your longest standing free users a free month of the paid tier. Going, the flight deals newsletter, tried it on people who had been free for over two months and earned more than fifty thousand dollars from one campaign. Via Indie Hackers.
-
-And finally, one interesting thing.
-
-Every&#x27;s Arielle Shipper has a neat habit for getting better at AI: let your agent coach you. She gave her coding agent a guide to eight levels of AI adoption and asked it to grade her from her own past sessions. It placed her at five point five, told her what would move her up, and now a weekly scheduled task sends her a graded report every Friday. She says it has moved her up more than two levels since June. The idea is that the same tool you are learning is also the best teacher of how you use it. Via Every.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-05.mp3</guid>
-    <pubDate>Mon, 05 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-05.mp3" length="2947392" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
