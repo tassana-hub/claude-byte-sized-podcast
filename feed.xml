@@ -7,6 +7,68 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Monday, 23 November</title>
+    <description>Good morning, and welcome to Byte-sized for Monday the twenty-third of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, Nippon Steel gets to work on an American icon. After its long and politically fraught takeover of U S Steel, the Japanese steelmaker is now trying to bring the American company&#x27;s ageing plants back to life, starting with its oldest mill outside Pittsburgh. This is the part of the deal that never made headlines during the fight in Washington: the slow, expensive work of modernising old American capacity with Japanese capital and methods. If it works, it becomes the template people in Tokyo point to when they say Japanese investment is the friendly way to reshore American industry. Via Why Is This Interesting.
+
+Second, a sobering number on Taiwan. A new C S I S study by Seth Jones and Daniel Byman, with Eric Heginbotham, asks whether China&#x27;s People&#x27;s Liberation Army is really ready for a fight. Their headline figure: if an invasion of Taiwan were launched this year, China&#x27;s entire amphibious fleet would come to fewer than one hundred ships, backed by about eighty landing craft. That fleet is the centre of gravity of any invasion, and it is a small set of targets set against the large stocks of missiles and drones held by Taiwan and the United States. For Japan, whose southern islands sit right next to any such operation, the study is a useful corrective to the idea that an invasion is simply a matter of when Beijing decides. Via C S I S.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, travel wants its own A I. The Phocuswright Conference in Fort Lauderdale drew more than a thousand travel executives last week, and the most-read idea was that the general models from the big labs simply have not seen enough travel data to plan and book trips well. That is the opening Booking Holdings is going for: it has formally launched its combined business-to-business arm, the Booking Partner Division, led by Omri Morgenshtern, who also runs the Singapore-born Agoda, and is pitching it as the travel brain that the large language models plug into. Elsewhere, Sabre is bringing conversational booking to Grok, Kayak added twenty-eight A I features, and Airbnb is aiming to launch its own agent in the first half of twenty twenty-seven. The pattern: the companies that own the inventory want to be the layer agents depend on, rather than the layer agents route around. Via PhocusWire.
+
+Second, stop describing your style to A I, and show it instead. Every&#x27;s head of evaluations, Mike Taylor, has been trying to get A I to write like him since twenty twenty. What finally worked was not a description of his voice but a test. He took a couple of dozen of his own published pieces, stripped each one down to a plain brief, had a model draft from each brief, and then asked a separate A I judge which of two drafts sounded more like the original, swapping the order to cancel out bias. He kept only the changes to his writing instructions that raised the score. The striking result is that a writing skill tuned to one particular model can beat a stronger model running generic instructions. He now goes from an opinion to a finished piece in about an hour instead of a day. Via Every.
+
+Third, where enterprise A I money is actually going. Menlo Ventures reports that health care A I spending grew two and a half times this year to three point seven billion dollars, more than double legal, the next biggest vertical. Pharmaceutical A I spending rose twenty-three-fold to seven hundred million dollars, and Microsoft and Epic captured more than two thirds of new spending on ambient scribes, the tools that write up a doctor&#x27;s notes while they talk to a patient. Separately, the chief executive of Baseten argues that inference, the cost of actually running models, could become a two trillion dollar market by twenty thirty, though the newsletter fairly notes that his revenue forecasts have missed every year since twenty twenty-three. Via The V C Corner.
+
+And fourth, A I and the twenty twenty-six election: less disinformation than feared, but one new weakness. Researchers at Caucus A I found that fake content mostly failed to move voters, who were already dug in. The more interesting finding was that the models themselves could be fooled: when researchers set up fake campaign websites for real politicians, and for races that did not exist, chatbots cited them as sources. The Diff&#x27;s Byrne Hobart reads that as a good outcome, because now that the trick is known, the models will work harder to find official sources. Via The Diff.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, how much of venture capital is now Nvidia. PitchBook counts two hundred and nineteen and a half billion dollars of venture deals involving Nvidia so far this year, more than a quarter of all global venture value. Seven frontier labs account for about eighty per cent of that money, despite being barely six per cent of the deals. That concentration is why Jensen Huang&#x27;s departure as chief executive on the twelfth of November matters to founders who never sold a chip: many of those mega-rounds were built on personal relationships, and the chief financial officer, Colette Kress, is serving as interim chief executive while the search goes on. Via The V C Corner.
+
+Second, Europe is having its second-best year ever. European tech investment is projected to reach eighty-one billion dollars in twenty twenty-six, up sixty-two per cent from last year and second only to the ninety-four billion of twenty twenty-one. Thirteen rounds of a billion dollars or more have raised twenty-two billion between them, a new European record and more than a third of the total. Among the week&#x27;s big deals: Genesis A I raised five hundred million dollars for general-purpose robotics, Science Corporation raised four hundred million for brain-computer interfaces and restoring vision, and Model M L raised two hundred and fifty million for A I agents in financial services. Via The V C Corner.
+
+And third, a case for going early. A seed fund ran Howard Marks&#x27;s five questions about investing in an unpredictable A I market and concluded that early-stage investing fits best. Its numbers: a roughly ninety-seven per cent chance that a portfolio of fifty companies returns its capital, and A I businesses under one hundred million dollars of revenue valued at a median of four point eight times revenue, against roughly twenty-seven times for Anthropic&#x27;s private rounds. It is a self-interested argument, but the valuation gap between the frontier and everyone else is real. Via The V C Corner.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, the memory chip squeeze. C S I S warns that the United States faces an increasingly sharp shortage of memory chips, because the few suppliers are prioritising high bandwidth memory for the hyperscalers building A I data centres, which now take up to seventy per cent of available capacity. That leaves ordinary electronics makers short and tempts them towards Chinese memory, which C S I S argues brings security risks of its own. For anyone in procurement, memory is the quiet bottleneck behind next year&#x27;s hardware prices. Via C S I S.
+
+Second, Africa is shopping for new partners. American direct investment in Africa has fallen from a peak of sixty-nine billion dollars in twenty fourteen to under thirty-eight billion last year, while Chinese lending collapsed from nearly twenty-nine billion in twenty sixteen to about two billion in twenty twenty-four. C S I S says that gap is being filled by middle powers, especially in the Gulf. It is the same story Japan is playing out in Southeast Asia: when the great powers pull back, the middle powers with money and patience move in. Via C S I S.
+
+And third, will A I growth reach the developing world? A new National Bureau of Economic Research paper models a world where A I services are traded globally, and warns that poorer countries could be left behind, lacking the complementary skills to use A I and being priced out by lower productivity. Tyler Cowen pushes back: A I already improves rainfall prediction and crop management, so it will not only help rich-country lawyers, and law in poorer countries is so bound up with politics that local lawyers are protected anyway. He expects the gap between rich and poor countries may widen, but poor countries still end up better off than without A I. Via Marginal Revolution.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing: give every talk a take-home tool. Every has turned each filmed talk from its first conference, Thesis twenty twenty-seven, into a skill file that attendees can install in their A I agent and use to apply the speaker&#x27;s method to their own work. One, from a session on dividing work between people and agents, uses what they call a compound sandwich: you decide what to build at the start and judge the result at the end, and agents do the work in between. There are twenty-three in all. For anyone running events, it is a neat answer to the old problem that conference talks are forgotten by Monday: package each talk as something people can use, not just rewatch. Via Every.
+
+And one for community builders. Pam Warhurst co-founded Incredible Edible, which links more than one hundred and twenty groups across the United Kingdom and over seven hundred worldwide, in school gardens, orchards, hospital grounds and high streets. The lesson is in the Do Lectures&#x27; own summary: one local act, a global movement. Start with something visible that anyone can copy, and let the copying be the growth strategy. Via The Do Lectures.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Daughters may help keep parents alive. Using Danish records, researchers compared parents of only children who had a stroke at the same age and differed only in whether their child was a son or a daughter. Five years later, parents of daughters were one and a half percentage points more likely to be alive, and daughters were more likely to move nearer, less likely to be married and had fewer children. The surprising part is that parents of daughters also used more professional rehabilitation, which suggests that family care does not replace formal care so much as help people actually use it. Via Marginal Revolution.
+
+That&#x27;s all for today. Thanks for listening to Byte-sized, and have a good week.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-23.mp3</guid>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-23.mp3" length="3834288" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Week in review, 22 November</title>
     <description>Good morning, and welcome to Byte-sized for the week of the sixteenth of November. This is the Sunday week in review: six sections, the stories that still matter now the week is over, starting as always in Japan and the Asia Pacific.
 
@@ -1899,82 +1961,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3</guid>
     <pubDate>Tue, 13 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3" length="3281904" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Week in review, 11 October</title>
-    <description>Hello, and welcome to Byte-sized. This is your week of the fifth of October, the week in review, across our usual six sections. Let&#x27;s get into it.
-
-Section one, Japan and Asia Pacific. Where the week landed: Japan&#x27;s own pocketbook and Japan&#x27;s neighbourhood were both under strain, and the most useful reading came from two places, a long look at why Japan rose and stalled, and a very local newsletter from Fukuoka.
-
-Start with the Korean peninsula, which is still the thread to follow. Last week&#x27;s story was a South Korean patrol hit by blasts on its own side of the demarcation line, with Seoul pointing at mines planted by the North. This week the CSIS Korea Chair put it front and centre, with a live episode of The Impossible State podcast titled Brewing Korea Crisis, covering mines, missiles and North Korean prisoners of war, and what it all means for President Lee&#x27;s outreach to Pyongyang. The Korea Chair also announced an event for the fourteenth of October on North Korean human rights and the Russia axis, which tells you where Washington&#x27;s analysts think the real pressure sits. For Japan, which lies squarely within range of any escalation, nothing here has calmed down. Via CSIS.
-
-Second, a quiet reminder that Japan&#x27;s corporate habits are being tested. Japan&#x27;s fair trade watchdog raided all four of the country&#x27;s major beer makers over suspicions of a long running price cartel. International Intrigue&#x27;s reading is that, with households finally feeling inflation after decades of flat prices, regulators are signalling that business as usual will no longer be tolerated. If you advise companies selling into Japan, expect more scrutiny of how prices get set. Via International Intrigue.
-
-Third, the money. Earlier in the week we covered a record high for Japan&#x27;s thirty year government bond yield, driven by worries about Prime Minister Takaichi&#x27;s stimulus plans, with the government telling investors to stay calm. It sits alongside the Bank of Japan&#x27;s quarterly survey, which Fukuoka Now picked up from a regional angle: business sentiment across Kyushu and Okinawa worsened for a second quarter running, with the all industry index down four points to plus seventeen, and hotels and restaurants hit hardest. National headlines say stimulus and yields; the regional ground truth says confidence is soft. Via International Intrigue and Fukuoka Now.
-
-Fourth, Fukuoka itself, which this week is a good case study in a city mid transition. After sixteen years under Mayor Takashima, at least thirteen people have said they will run for mayor. The city also meets the proposed criteria to serve as a backup capital, according to NHK, which is a very Japanese way of saying that resilience is now a selling point for investment. On the everyday side, new season rice was on sale at a supermarket for two thousand nine hundred and seventy yen, below last year&#x27;s price of three thousand two hundred and eighteen. The minimum wage in the prefecture rises to one thousand one hundred and fourteen yen. And a data breach at the discount retailer MrMax may have exposed information on more than one point seven million members, a useful prompt for anyone running a Japanese consumer business to check their own security hygiene. Via Fukuoka Now.
-
-Fifth, a piece of thinking worth your commute. Tomas Pueyo wrapped up his eight part series on Japan with an essay asking why Japan rose so far and then stagnated. The first half is about why Japan was the only non Western country to industrialise and build an empire in the nineteenth century. His answer is a list of ingredients: plentiful food from fertile plains, dense cities, fast coastal transport, widespread trade, high literacy, and, strikingly, an island geography that made defence cheap, much like Britain&#x27;s. He calls Japan the Britain of Asia. The teaser for the second half is that the very things that made Japan rich later became liabilities. Via Uncharted Territories.
-
-Sixth and last in this section, Southeast Asia and the Pacific. CSIS published a study of the Chinese language media landscape in Southeast Asia, arguing that there is no workable strategy against Chinese information operations without buy in from regional partners. CSIS&#x27;s Southeast Asia Radio also looked at Thailand&#x27;s Bhumjaithai party after its first year in power. And in the Pacific, the United States sanctioned a China born, Fiji based businessman, Zhao Fugang, over alleged bribery on behalf of Chinese interests, a signal that Washington is now using anti corruption law to contest influence in the island states. Via CSIS and International Intrigue.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech. Where the week landed: the model release calendar was busy, but the stories that matter are about money, speed, and who gets trusted to check the work.
-
-First, the model lineup. Anthropic released Claude Haiku 5.5, which it describes as its fastest and cheapest small model to date, aimed at high volume, cost sensitive work. The Rundown&#x27;s practical advice was to hand Claude&#x27;s routine tasks to Haiku and keep the bigger models for the hard parts. Anthropic also halved the price of cache reads on Sonnet 5.5, which TLDR says makes most agentic work around twenty percent cheaper. On the other side, OpenAI rolled out an Ultrafast mode for GPT-6.1 Sol across its interface, its coding tool and its business product, claiming near top tier intelligence at up to eight times the speed, priced at twelve dollars per million input tokens and sixty dollars per million output tokens. The pattern is clear: the race has moved from who is smartest to who is smart enough, fast enough, at a price you can scale. Via TLDR and The Rundown.
-
-Second, agents. Google introduced a universal Gemini agent for knowledge work, media creation, coding and multi step workflows across its workplace tools, with governance and cost controls built in. Meta, Sierra and partners including Shopify, Stripe and Walmart announced a protocol for AI agents, and Microsoft added more than thirty Copilot skills across its business applications. On the consumer side, The Rundown counted a wave of personal agents, from Meta&#x27;s Muse to SpaceXAI&#x27;s GrokBot and OpenAI&#x27;s Dots. Via TLDR and The Rundown.
-
-Third, trust and safety. Three former OpenAI safety researchers, fired for allegedly mishandling sensitive information, went public with an open letter, saying they acted within their mandates and warning that the firings are chilling dissent and may weaken outside auditing. OpenAI says there was a pattern of misconduct and that it agrees with the recommendations on outside evaluators. Separately, Anthropic published its annual usage policy update, including a first of its kind rule, from the twelfth of November, against sustained and needless abuse of Claude itself, and it launched a cyber mission offering free vulnerability scanning for open source projects. Whatever you think of the abuse rule, it is a sign that questions about model welfare are now written into product policy. Via The Rundown and TLDR.
-
-Fourth, the numbers behind the hype. TLDR reported that OpenAI has told investors its annualised revenue is approaching fifty billion dollars, around twenty billion less than a figure circulated a week earlier. The gap seems to come from accounting: Anthropic counts sales made through its cloud partners, and OpenAI does not. The lesson for anyone reading headline revenue comparisons is to check the definition first. Via TLDR.
-
-Fifth, Europe. Mistral released Le Chonk, its latest flagship, which it calls the best open model in Europe and the United States and comparable to leading Chinese systems, ending nearly a year without a major release. Days earlier Germany&#x27;s Aleph Alpha unveiled Kolibri, an open model tuned for regulated sectors and German language work. Sifted reports a surge of optimism about sovereign European AI, and a Hugging Face executive summed it up in capital letters. Via Sifted.
-
-Now, over to startups and venture.
-
-Section three, startups and venture. Where the week landed: capital is flowing to AI infrastructure and to agents that do real work, while the advice for everyone else is to be sharper about who they are raising from.
-
-First, the big rounds. Valon raised one hundred and fifty million dollars led by Ribbit Capital, with Andreessen Horowitz taking part. Hone, a five month old startup founded by veterans of some of the fastest growing AI companies, raised a sixty million dollar seed round to build agents that run parts of a business over weeks or months. Via TLDR.
-
-Second, Europe&#x27;s deal flow, from Sifted. A weight loss startup, Yazen, raised fifty million euros in a Series B led by Verdane. A Paris biotech, Rivercell, raised a twenty five million dollar seed round to build a model that predicts human cell behaviour. And smaller rounds included VoltR, which remanufactures used lithium cells, and Noah, a stablecoin payments infrastructure company. The theme is AI applied to biology, batteries and payments, not chatbots. Via Sifted.
-
-Third, a lesson on acquirers. Bending Spoons, the Italian company that went public on Nasdaq in July at an eighteen billion dollar valuation, has bought more than fifty companies, including WeTransfer, Vimeo and AOL. At Sifted Summit its chief executive explained why deals can fail, which is useful reading if exit through acquisition is your plan. Sifted also published a panel of Series A investors on what they want to see, with timing, story and clarity about the investor&#x27;s own needs at the top of the list. Via Sifted.
-
-Fourth, founder tools. The VC Corner published two curated lists this week: eighty seed stage AI funds that invested in the last one hundred and eighty days, and nine hundred and seventy three funds under two hundred million dollars, scored for fit. If you are fundraising, that is a ready made target list. And the speedrun accelerator published answers to the questions founder applicants ask most. Via The VC Corner and Speedrun.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics. Where the week landed: the pressure points are undersea, in the air, and in supply chains, and several of them touch Japan and its partners.
-
-First, and most relevant to anyone in infrastructure or telecoms, CSIS&#x27;s Futures Lab published a study of two hundred and twenty three research vessels across forty eight countries. It finds that Chinese flagged research ships spend a disproportionate share of their time near critical undersea infrastructure on the high seas, with case studies near Guam, the western Pacific and the Bering Sea. The data cannot prove intent, but the report recommends that allies share evidence, run joint maritime patrols near cables, and invest in regional repair hubs and cable repair fleets. For Japan and its neighbours, this is the cable security debate in plain data. Via CSIS.
-
-Second, the Middle East is now hitting aviation. Yemen&#x27;s Houthis struck airports in Riyadh and Abha, killing at least three people, just as Saudi backed forces press to retake coastal areas near the Bab al Mandeb strait. The knock on effects were visible elsewhere in the week: Trafigura reportedly paid seventy six million dollars to charter one oil tanker from the United States Gulf Coast to China, around ten times the pre war rate, and Skift reported that airlines expect record revenues while rising fuel costs erase most of the gains. Delta is among the few expected to stay profitable despite six billion dollars of extra fuel costs. Via International Intrigue and Skift.
-
-Third, a supply chain story with a human lesson. Components for F-35 fighter jets were reportedly routed through Hong Kong after a missed email at a courier firm. The point, as International Intrigue put it, is that mundane error often beats conspiracy, and even large security budgets can be undone by a missed message. Via International Intrigue.
-
-Fourth, a health scare with a transparency problem. A young employee at a Siberian anti plague laboratory died last week, and Russian authorities have offered little beyond &quot;pneumonia of unknown cause&quot;, while the World Health Organization and the United States ask for more information. Mongolia and several Central Asian states have tightened border health checks. The risk of wider spread looks low, but the story is really about whether governments share information quickly. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-Section five, community, events and marketing. These are practical takeaways rather than news. Where the week landed: the best ideas this week were about how people gather, and how people are found.
-
-One idea worth stealing: the Fukuoka Now roundtable format. The publisher is hosting a free, English language session on the thirtieth of October at CIC Fukuoka about the city&#x27;s mayoral race. The twist is the framing: it explicitly does not endorse a candidate, it invites people who cannot vote but live and work in the city, and it puts audience questions at the centre. If you run a community of internationals in any city, a no endorsement, issues first discussion with a local expert and a moderator is a cheap way to become the place people go to understand what is happening. Via Fukuoka Now.
-
-A second idea, for marketers: Amanda Natividad argues that the buyer journey is happening without you, and points to three studies that should change how you measure marketing. Her theme, tied to her book on zero click marketing, is that much of the influence on a purchase occurs where your analytics cannot see it, so you should stop treating click based attribution as the whole truth. Via Amanda Natividad&#x27;s newsletter.
-
-And for community builders, Priya Parker&#x27;s Group Life hosted MIT professor Sherry Turkle on her new book, Artificial Intimacy, about what we become when we talk to machines and the de skilling of humans. My takeaway, not hers: as people lean on AI companions, the in person gathering that is well designed becomes more valuable, not less. Via Priya Parker.
-
-Now, for one last thing.
-
-Section six, one interesting thing. Samuel Hughes, writing in Works in Progress, asks why Victorian Britain&#x27;s elites were so successful when they got up late, drank a great deal, and spent half the year at parties. His answer is that the parties were the work. Balls, dinners and the London Season, held in a district small enough to walk across, created a tight community that shared friends, relatives and values, and that bound a very diverse ruling class into one. That community could pay in prestige rather than money, so Parliament was filled with unpaid MPs who spent a fortune to win their seats. The idea is that team building and networking, taken to an extreme, can be a competitive advantage rather than a distraction. Via Works in Progress.
-
-That&#x27;s your week in review. Thank you for listening, and have a good week ahead.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-11.mp3</guid>
-    <pubDate>Sun, 11 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-11.mp3" length="5604912" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
