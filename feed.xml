@@ -7,6 +7,68 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Tuesday, 24 November</title>
+    <description>Good morning, and welcome to Byte-sized for Tuesday the twenty-fourth of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+First, a Korean chipmaker now sits at the top of Kioxia&#x27;s shareholder register. S K Hynix has become the largest shareholder in Kioxia, Japan&#x27;s flash memory champion, with an indirect stake of about fourteen per cent. It got there by converting bonds held through an investment vehicle into shares and buying a small extra block from Bain Capital, which takes it past Toshiba, now on roughly ten and a half per cent. Coming straight after yesterday&#x27;s warnings about a global memory squeeze, this matters: one of Japan&#x27;s few strategic semiconductor assets is increasingly tied to a Korean rival, and Tokyo will be watching how much say S K Hynix expects to have. Via T L D R Hardware.
+
+Second, Taiwan&#x27;s chip giant pulls back from China. T S M C has reportedly told Chinese chip designers to stop placing orders at sixteen nanometres and below unless they hold an American licence, after new United States rules presumed those chips to be controlled. That pushes Chinese customers back onto older twenty-eight and forty nanometre processes. In the same newsletter, the Chinese humanoid robotics startup Simplexity raised one hundred million dollars at a one point six billion dollar valuation, in a round led by Ant Group with Alibaba and Tencent also on board, a reminder that China&#x27;s robotics push is being funded at home whatever happens to its chip supply. Via T L D R Hardware.
+
+And third, India makes it easier to visit. India has cut its visa categories from thirteen to nine, halved the sub-categories, and reduced the information applicants must supply by as much as seventy per cent. A new visitor visa lets people combine leisure, business, wellness and medical trips, with up to ten years&#x27; validity for repeat visitors. Skift&#x27;s point is that paperwork is only the start: arrivals fell nearly ten per cent last year to nine point two million, and India still needs hotel rooms, marketing and flights. Meanwhile Vietnam is adding routes from Delhi, Bengaluru and Ahmedabad to catch India&#x27;s outbound boom, with Indian arrivals there up a third this year. Via Skift.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, the Riemann hypothesis may have fallen. Levent Alpöge, a mathematician at Anthropic, says that working with Claude over about six weeks he has proved the Riemann hypothesis, the one hundred and sixty-seven year old question about the pattern of prime numbers that carries a one million dollar Millennium Prize. The proof was released as a library of some seventeen million lines of machine-checkable code, and the communities behind the Lean verification language say they have full confidence it is correct. The catch is that no human yet fully understands it, and one group of mathematicians has dismissed it as publicity for A I labs. Whatever the arguments, a problem experts expected to take decades of new theory has been checked by machine in weeks. Via The Rundown A I and T L D R A I.
+
+Second, Anthropic&#x27;s listing is done, and the numbers are enormous. Anthropic closed its initial public offering at eighty-three dollars a share, raising about ninety-three and a half billion dollars, and listed on Nasdaq. Alongside it, A M D, Broadcom, Google, Micron, Microsoft, Nvidia and T S M C put in another twenty-six billion through a private placement, bringing the total to around one hundred and nineteen and a half billion. Sifted reports a first-day valuation of about one point seven six trillion dollars, followed by a bruising tech sell-off on Friday and expectations of continued volatility. Investors say the real test is whether the market rewards growth or demands profitability, and how it judges Anthropic&#x27;s huge compute commitments. Via Sifted and T L D R Fintech.
+
+Third, Jensen Huang is back at Nvidia. Only days after his departure, the board has reinstated him as chief executive, and Nvidia added roughly a trillion dollars of market value as a result. The board&#x27;s statement said it had taken input from senior levels of the United States government and was confident his return posed no national security risk. That follows reports that American intelligence had tracked contacts between a Singapore chip-cloud executive and China&#x27;s Ministry of State Security. Byrne Hobart&#x27;s reading is blunt: Nvidia has effectively become a defence contractor, and its board now partly ratifies decisions made in Washington. Via The Diff and T L D R Hardware.
+
+And fourth, the fine print on A I agents and your bank account. Citi&#x27;s updated customer agreement treats anything an A I agent does with account access as authorised by the customer, even when the agent goes beyond its instructions, and that extends to credentials the agent leaks. Citi&#x27;s own tools are exempt. At the same time, Stripe has opened a preview that lets agents pay suppliers and move funds under approval rules, for example allowing small transfers automatically and sending larger ones to a human. The lesson for anyone deploying agents: liability is being settled in terms and conditions right now, mostly in the provider&#x27;s favour. Via T L D R Fintech.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, Europe&#x27;s angels hit the jackpot. Sifted reports that dozens of European angel investors hold Anthropic shares, led by the Skype cofounder Jaan Tallinn, who led the company&#x27;s Series A in twenty twenty-one, a bet now estimated to be worth tens of billions. One British angel who put in two hundred and fifty thousand dollars in twenty twenty-four is looking at roughly a sixteen-fold return. Meanwhile Atomico&#x27;s annual State of European Tech report shows European investment in compute and intelligence more than doubling to twenty billion dollars, though that is still a fourteenth of the American figure, and early-stage startups are finding it harder to raise. Via Sifted.
+
+Second, the fintech scoreboard. Ramp is in early talks to raise at least a billion dollars at a valuation above seventy billion, its third round in a year. In the other direction, Intuit has sold Mailchimp to Bending Spoons for three point six eight billion dollars, less than a third of the twelve billion it paid in twenty twenty-one, and Rogo, founded by former junior bankers to automate finance grunt work, is raising three hundred and fifty million dollars at a three point seven five billion valuation. Momentum is rewarded, and yesterday&#x27;s growth darlings are being sold for parts. Via T L D R Fintech.
+
+And third, a warning for founders setting a price. The V C Corner argues that most founders anchor their valuation on recently funded competitors, which is a mistake: those numbers are receipts from companies that already found willing investors, not a guide to what you will get. With roughly half of venture-backed companies now sitting below their last valuation, the advice is to price your own round from your stage, sector and growth, and remember that a higher number is not always better if it sets you up for a down round. Via The V C Corner.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, the climate summit collapses. COP thirty-one in Turkey ended on Sunday with no overarching deal, the first time in many years, after becoming the longest summit on record. The sticking points were familiar: oil producers watering down language on fossil fuels and pushing carbon capture, rich countries pledging just fifty million dollars in new adaptation money, and a loss and damage fund holding far less than poorer countries are asking for. Underneath it all is the consensus rule, which lets any bloc block a deal. Only one G7 leader turned up, and none of the three biggest emitters. Via International Intrigue.
+
+Second, a tax on building data centres abroad. President Trump has promised what he called a tremendous tax on American companies that build data centres overseas, naming a proposed Google facility in Finland. The stated concern is that Chinese firms rent restricted chips from data centres in countries that can legally import them. For Japanese and other allied governments courting American cloud investment, this is a new risk to price in. Via T L D R Hardware.
+
+And third, the race for the United Nations&#x27; top job is stuck. The Security Council&#x27;s ninth straw poll ended in another stalemate, with all eight candidates facing at least two possible vetoes from the permanent members. António Guterres&#x27;s term ends on the thirty-first of December, and International Intrigue warns the United Nations could start the new year without a Secretary-General. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing: write the proposal in the buyer&#x27;s own words. The Rundown&#x27;s head of sales records discovery calls, has A I pull out exactly what the buyer asked for, and drafts the proposal from that rather than from a rate card. He also adds a smaller yes option, so too expensive becomes let&#x27;s test it. The result is a proposal sent within about ten minutes, while the buyer still cares. The same trick works for sponsorship decks and event partnerships. Via The Rundown A I.
+
+And a second, shorter one: when growth stalls, check the whole system before reaching for a new tactic. Chenell Basilio of Growth in Reverse says most newsletter creators chase the next platform hack when the problem is one of five connected levers they have ignored. It applies just as well to communities and event series: audit the system first. Via Growth in Reverse.
+
+Now, one last thing.
+
+Section six, one interesting thing. How can biotech hedge funds possibly know more than the scientists running the trials? Works in Progress argues that a surprising number of clinical trial results are predictable to anyone willing to look, because some very expensive trials repeat designs that have failed many times before. One published model, using only basic features of the drug target and the trial design, predicted Phase Two outcomes ahead of time with seventy-nine per cent accuracy. The edge, it turns out, is not secret knowledge, just the discipline to read the base rates everyone else ignores.
+
+That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-24.mp3</guid>
+    <pubDate>Tue, 24 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-24.mp3" length="3884112" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Monday, 23 November</title>
     <description>Good morning, and welcome to Byte-sized for Monday the twenty-third of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1899,68 +1961,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-15.mp3</guid>
     <pubDate>Thu, 15 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-15.mp3" length="3702672" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Tuesday, 13 October</title>
-    <description>Good evening, and welcome to Byte-sized for Tuesday, the thirteenth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
-
-Section one, Japan and Asia Pacific. A note up front: today&#x27;s inbox was light on Japan itself, so this section leans on the wider region, with a Korean peninsula angle that matters directly to Tokyo.
-
-First, China and Europe. According to Bloomberg, relayed by International Intrigue, Beijing has agreed to cap its own surging exports of hybrid cars to the European Union, accepting a four year quota framework starting in December. The backdrop is that hybrid exports to Europe grew thirteen fold through a loophole in the EU&#x27;s 2024 tariffs on electric vehicles. The sharp observation is that a cap on exports may simply move final assembly into the Chinese brand factories now being built across Europe, so the competitive pressure on European carmakers may not disappear, just move inside the fence. For anyone watching Japanese automakers in Europe, that is the squeeze to keep an eye on. Via International Intrigue.
-
-Second, Indonesia. Jakarta is considering a freeze on new smelters that produce semi finished nickel, to curb overproduction and protect prices. Years ago, Indonesia banned raw nickel exports to force buyers, mostly Chinese, to build refining capacity locally. Many invested the bare minimum, creating a glut of partly processed metal finished elsewhere. This is the follow up attempt to push investors higher up the value chain, and a good example of how resource nationalism is less a switch than a continuing negotiation. Via International Intrigue.
-
-Third, Pakistan and South Asia. President Zardari has declared a state of emergency in Khyber Pakhtunkhwa and suspended its provincial government, citing the ruling party&#x27;s failure to crack down on Islamist groups. The opposition has been organising a march on the capital to demand the release of Imran Khan, so critics will read this as pre-emptive politics. Via International Intrigue.
-
-Fourth, India&#x27;s tourism ambitions. Skift reports that India&#x27;s foreign tourist arrivals are falling and its promotion budget has been cut, even as the stated goal is to grow from nine million visitors to one hundred million in twenty two years. The point of the piece is that a big number is not a plan. Worth remembering when we hear Japan&#x27;s own inbound tourism targets. Via Skift.
-
-Fifth, Korea. CSIS is hosting a conversation on the thirteenth with General Xavier Brunson, who commands United Nations Command, Combined Forces Korea and United States Forces Korea. Following last week&#x27;s tensions along the demilitarised zone, expect his comments on landpower and deterrence to be read closely in Seoul and Tokyo alike. Via CSIS.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech.
-
-First, Europe&#x27;s open model comeback. Sifted reports that Mistral has released a new flagship open weight model, nicknamed Le Chonk, after nearly a year without a large release, and describes it as state of the art. Days earlier, Germany&#x27;s Aleph Alpha unveiled its own open weight model, tuned for regulated sectors like public administration and aerospace, and trained in Europe with a focus on German. Both are pitched as sovereign alternatives to American and Chinese labs. As one founder put it, Mistral is no longer alone in Europe. Via Sifted.
-
-Second, the flip side of open models. A new report from Tech Against Terrorism says that so called abliterated versions, where the safety guardrails have been stripped out, will answer nearly all harmful requests. Hugging Face pushes back, arguing that open access is essential to the research that makes the ecosystem safer, and that some recommendations could backfire. A live policy argument for anyone selling open models to enterprises. Via Sifted.
-
-Third, Microsoft&#x27;s Satya Nadella has published an essay urging companies to treat advanced AI like a powerful employee who could slip up or be hacked. His asks: permissions and logs the AI cannot edit, no model grading its own work, an emergency brake a human can pull, and models that explain their reasoning in plain words. His closing line is that the most trustworthy system is the one that requires us to trust the model the least. Via The Rundown.
-
-Fourth, the money behind the machines. Nvidia is reportedly in early talks to buy, or acqui-hire, Reflection AI, the American open model start-up it already backs with around eight hundred million dollars. And TLDR notes that global PC shipments fell roughly twenty percent year on year in the third quarter, as AI&#x27;s appetite for memory pushes up component prices. Also from TLDR: Google has launched an enterprise Gemini agent with its own workplace identity, email address and audit trail, positioning it as a digital coworker rather than a chatbot. Via TLDR.
-
-Now, over to startups and venture.
-
-Section three, startups and venture.
-
-First, what counts as a moat. Sifted, reporting from the Unlock VC summit in Barcelona, says investors now believe a product alone is no longer defensible, because development tools have made building cheap and deep pocketed model makers can move into any category. Instead, they look for sophisticated go to market and a brand buyers trust, plus talent, with giant rounds clustering around researchers who have just left DeepMind. Via Sifted.
-
-Second, talent policy in the United Kingdom. The government has said it will legislate against non compete clauses, with detail expected at the Autumn Budget. More than twenty AI founders and executives had lobbied for it, arguing long restrictions hold back growth and keep top researchers out of the labour market. Founders in any jurisdiction with non competes should watch how this lands. Via Sifted.
-
-Third, a reminder that hardware is hard. Daedalus, a German factory automation start-up founded by a former OpenAI technical lead, has entered insolvency proceedings, according to court filings seen by Sifted. Meanwhile another German robotics firm, RobCo, passed a one billion dollar valuation in a share sale, and Revolut&#x27;s chief executive told a podcast that he wants to dominate the United States, with a full digital bank including credit cards and loans. Via Sifted and TLDR.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics.
-
-First, Russia&#x27;s diesel. International Intrigue explains that President Trump has eased sanctions to let Russian diesel reach world markets, announcing an energy ceasefire between Moscow and Kyiv that Ukraine says it was not told about. The numbers are small: the first release of three hundred thousand tonnes covers American demand for about thirteen hours, and Ukraine has already knocked out a third of Russian refining capacity. The more lasting cost is credibility, since the exemption comes weeks after a bill threatening tariffs on buyers of Russian energy. Context: Brent crude is at its highest since 1991. Via International Intrigue.
-
-Second, the Gulf. Houthi strikes on Riyadh&#x27;s international airport over the weekend killed thirteen and injured around three hundred, the deadliest attack on the kingdom since the Iran war began. Several oil majors&#x27; chief executives quietly dropped out of this week&#x27;s World Petroleum Council congress in Riyadh, which is a real dent in Saudi Arabia&#x27;s safe for business story. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-Section five, one idea worth stealing.
-
-The Event Design Collective is reviewing the IMEX trade show not by scoring it but by asking better questions. What is the event actually designed to create, and for whom? Their checklist is worth borrowing for any event you run: what is the intended value, which stakeholders matter, what is strong, where are the tensions, what culture does the event create, and what would you want to understand before recommending changes. Try it on your own next meetup before you count meetings booked. Via Event Design Collective.
-
-Now, one last thing.
-
-Section six, one interesting thing. Patrick Collison, quoted on Marginal Revolution, argues that companies are in some sense the original superintelligence. They already pool many minds, long memory and specialised roles into a single decision maker. The interesting implication for the age of agents is that the question is less whether a smart agent can beat a person, and more how it fits inside the structures companies already use to coordinate, check and correct themselves. Via Marginal Revolution.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3</guid>
-    <pubDate>Tue, 13 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-13.mp3" length="3281904" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
