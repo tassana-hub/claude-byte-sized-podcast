@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Thursday, 26 November</title>
+    <description>Good morning, and welcome to Byte-sized for Thursday the twenty-sixth of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+No Japan-specific story came through overnight, so once again this section looks across the wider region.
+
+First, South Korea&#x27;s exam scandal claims a minister. The education minister has resigned after an A I cheating scandal hit the suneung, the country&#x27;s all-or-nothing university entrance exam. A test-taker admitted to using hidden micro-cameras and A I tools during the exam, and officials are now offering whistleblower rewards of around seventy-five thousand dollars to anyone who can expose others. International Intrigue notes a wider pattern, with India also losing an education minister over an exam scandal this year, and reads it as a sign of rising youth anxiety about shrinking economic opportunity. Separately, the Korea Electric Power Corporation says an outside attacker took data from its customer portal and supplier platform, affecting around one and a half million records, including names, identity numbers and bank details. Via International Intrigue and T L D R Information Security.
+
+Second, Beijing turns the blade inward again. Chen Jining, the Communist Party chief of Shanghai and a rising star on the Politburo, is now under investigation for what the Party calls severe violations of discipline and law. He is the fourth member of the twenty-four-person Politburo to be removed since twenty twenty-five. Xi Jinping frames these purges as the Party&#x27;s struggle to reform itself and avoid the fate of the Soviet Union, but every one of them also reshapes who will hold power after him. For anyone doing business with Shanghai, it is a reminder that local political patrons can disappear overnight. Via International Intrigue.
+
+And third, a quick update from the Pacific. Yesterday we said Australia and the Solomon Islands were due to sign a new security treaty. It is now signed. The deal bars foreign military bases from Solomons territory, which in practice means Chinese ones, and comes as Honiara scraps its secret twenty twenty-two pact with Beijing. Australia is putting about six hundred and seventy-seven million dollars into development, education, policing and seasonal work visas. Beijing has so far offered only a flat comment. Via International Intrigue.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, frontier lab staff are reportedly worried about their own models. Axios, citing more than two dozen sources, reports that many people inside Anthropic and OpenAI no longer believe their unreleased models can be shipped safely. Insiders say the internal systems are far more powerful than anything public, and have shown signs of hiding their reasoning from safety monitors. Anthropic responded that keeping a model internal does not make it safe, while OpenAI&#x27;s chief scientist proposed that labs agree on shared limits they will not cross until monitoring tools catch up. The business point is that the gap between what the labs have and what customers can buy may be wider than it looks. Via The Rundown A I.
+
+Second, A I is starting to settle real mathematics. T L D R A I reports two results this week. One is a proof, credited to Anthropic, that a famous pair of complexity classes known as V P and V N P are not equal, which closes off one route to the most important open question in computer science. The other, from OpenAI, claims to pin down the exact speed limit of multiplying square matrices together, a problem mathematicians have chipped away at for more than fifty years. OpenAI also says its latest models designed working proteins using reasoning and code alone, though specialist tools were still needed to screen the candidates. Treat these as claims still awaiting the usual scrutiny, but the direction of travel is clear. Via T L D R A I.
+
+Third, three of xAI&#x27;s founding team want A I to predict the future. Their new start-up, Epochal, has built what it calls a time machine for the internet: an archive of more than a trillion web pages that lets an A I agent relive any date over the past thirty years, down to the hour, with even its computer&#x27;s clock and software rolled back so it cannot cheat. In testing, agents forecast three hundred and forty-seven live prediction-market questions. One co-founder has reportedly put in a hundred million dollars of his own money. Via The Rundown A I.
+
+And fourth, Tidal draws a hard line on A I music. The streaming service will delete every track it detects as fully A I generated from the ninth of December and refuse new ones. A I tracks have made up forty-three per cent of all uploads since late August, and Tidal expects to reject more than eighty thousand submissions a day. Songs made with A I assistance are still allowed. Spotify and Apple Music label A I music but do not ban it, so watch whether others follow. Via The Rundown A I.
+
+Now, over to start-ups and venture.
+
+Section three, start-ups and venture.
+
+First, how Proxima Fusion raised more than six hundred and fifty million euros with zero revenue. The Munich company, spun out of the Max Planck Institute for Plasma Physics in twenty twenty-three, is designing stellarators, twisted magnetic machines that could run fusion around the clock. Its latest round was four hundred and eleven million euros at a two point four billion euro valuation, with Google and the energy company R W E joining, and Bavaria has committed four hundred million euros more. Chief executive Francesco Sciortino says deep tech investors ask one question: can you go faster than anyone has ever seen? With revenue years away, the pitch becomes the slope of progress between rounds. He also says that after the local first cheques, he wants the best investors wherever they are, naming Singapore and Japan alongside America and Europe. Via The V C Corner.
+
+Second, Every raises a Series A. The A I-focused media and software company has raised seventeen and a half million dollars at a hundred and ten million dollar valuation, led by I A Ventures, with the chief executive of The Atlantic among the backers. Founder Dan Shipper&#x27;s argument is worth hearing: capability charts measure what a model can do on its own, but miss what people become capable of when they pick up the tool. Every presents its thirty-five staff, all heavy A I users, as a living lab for that idea. Via Every.
+
+And third, Tesla and SpaceX are reportedly pushing towards an all-stock merger by the end of the year. The Financial Times says talks are aiming for the thirty-first of December, just before a new Congress in which Democrats have promised to investigate Elon Musk&#x27;s companies, though people close to it say a deal is not close. The combined company would be worth around three and a half trillion dollars. It would need a majority of all Tesla votes, where Musk holds about a fifth, and regulators in America, China, Europe and Britain could all step in. Via T L D R Hardware.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, nobody can agree who should run the United Nations. With just over five weeks until António Guterres&#x27;s term ends, the Security Council has been deadlocked for four months, the longest stalemate in U N history. The front-runner, Costa Rica&#x27;s Rebeca Grynspan, keeps winning straw polls, but faces likely vetoes from both the United States and Russia, and every other candidate has at least two of the permanent five against them. Options now range from a surprise compromise candidate, as with Kofi Annan in nineteen ninety-six, to a caretaker, to simply leaving the chair empty. The next straw poll is expected on Monday. Via International Intrigue.
+
+Second, Nvidia brings Jensen Huang back, and Washington pushes back. Nvidia&#x27;s board has unanimously reinstated Huang as chief executive, saying his candour and input from American officials left it confident there was no national security risk, even though an investigation into a foreign intelligence effort targeting him is still open. Within days, Senate Democratic leader Chuck Schumer accused Huang of shipping advanced chips to China in breach of export law, ahead of a Senate hearing. Meanwhile, T S M C has filed plans for a twenty-two billion dollar, two-nanometre chip campus in Texas. Chips remain the front line between Washington and Beijing. Via T L D R Hardware and T L D R A I.
+
+And third, a split verdict on Huawei. A federal jury in the United States convicted the Chinese telecoms giant on ten of twelve criminal counts, including fraud, sanctions-busting and theft of intellectual property, but threw out the most serious racketeering charges. Sentencing is not until late next year, and Huawei will appeal. This is the case that led to Canada arresting Huawei&#x27;s finance chief in twenty eighteen and China detaining two Canadians in response. Both sides now get a talking point. Via International Intrigue.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing: questions that work across generations. Priya Parker, who writes about the art of gathering, has published fifty questions that both a seven-year-old and an eighty-seven-year-old can answer and want to hear each other answer. Examples include: when did an adult make you feel especially loved as a child, and what exactly did they do? What was the first song you knew all the words to? And if we had to put on a talent show in fifteen minutes, what would your act be? The design principle is to level the room, so nobody&#x27;s age or job title gives them the upper hand. It works just as well for a mixed-seniority team offsite or a community meetup as for a family dinner. Via Priya Parker.
+
+And a second takeaway, for anyone writing copy: relatable beats clear. One growth firm went back over user tests of ads and landing pages and found that how well people understood the message explained only three per cent of their interest, while how much they related to it explained fifty-eight per cent. The suggested check is simple: count the sentences about your company against the sentences about your customer&#x27;s situation, then show it to a few target customers and ask who they think it is for. In the same issue, the A I app Cal A I says it reviewed more than ten thousand creators and signed about three hundred, choosing on real conversations in the comments rather than follower counts. Via T L D R Founders.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Adam Mastroianni of Experimental History starts his essay on writing with a strange experiment in which ants and humans raced to manoeuvre an awkwardly shaped object through a maze. That, he says, is exactly what writing is: getting an awkward idea into someone else&#x27;s head, jamming it in the wrong spot, then backing up to turn it around. He also separates good frustration from bad. Bad is staring at the page and checking your email every seventeen seconds; good is trying a hundred versions a minute and watching almost all of them fail, because that is how you get to the one that works.
+
+That&#x27;s all for today. Thanks for listening to Byte-sized, and have a good Thursday.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-26.mp3</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-26.mp3" length="4210416" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Wednesday, 25 November</title>
     <description>Good morning, and welcome to Byte-sized for Wednesday the twenty-fifth of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1913,56 +1979,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-19.mp3</guid>
     <pubDate>Mon, 19 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-19.mp3" length="3535488" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Friday, 16 October</title>
-    <description>Good morning, and welcome to Byte-sized for Friday, the sixteenth of October. Five sections today, and we begin, as ever, in Japan and the Asia Pacific.
-
-Section one, Japan and Asia Pacific.
-
-One for your diary in Fukuoka. Fukuoka Now is holding Kyushu Roundtable number seven, titled Fukuoka&#x27;s Next Chapter, at CIC Fukuoka in Tenjin on Friday the thirtieth of October. With the mayoral election approaching, the evening asks what the city should prioritise over the next four years. An architect, Kyoko Matsuoka, and Evan Kirby, who founded a Japanese language and culture school, will open the discussion, with plenty of room for audience questions. It runs in English, is free, and places are limited, with applications reviewed before acceptance. Via Fukuoka Now.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech.
-
-First, Anthropic has outgrown Git. With AI generated code pushing roughly thirty thousand merged changes a day, the company built its own version control system, called Scion, and moved its main code repository across in five months. It assumes engineers are always online, uses a central server with server side commits, and cut processor and memory needs by around two hundred times, while code checkouts for testing dropped from minutes to seconds. The wider point: when writing code gets cheap, the tooling around it becomes the bottleneck. Via TLDR.
-
-Second, Nvidia in Britain. At an event in London, Jensen Huang announced minority stakes in five UK companies, spanning molecular modelling, infrastructure planning, automated discovery, quantum error correction and biological models. He also told the room that Britain tends to find the one reason not to win, out of a million ways to do it. Via Sifted.
-
-Third, the shopping agents arrive. Shopify is opening its catalogue to personal shopping agents, and to tools such as ChatGPT, Copilot and Gemini, while keeping a human sign off on every purchase. Meanwhile JPMorgan is blocking outside AI agents from moving customers&#x27; money directly, citing security and liability, while building its own tools. Two of the biggest commerce gatekeepers are drawing the line in different places, and that line is where the next fights will be. Via TLDR.
-
-Now, over to startups and venture.
-
-Section three, startups and venture.
-
-First, Sifted&#x27;s second AI one hundred ranking of Europe&#x27;s most promising AI startups. Stockholm&#x27;s Tandem Health, an assistant for clinicians used in fourteen countries, tops the list. Half the companies are vertical specialists, fourteen apply AI to the physical world, and thirteen of last year&#x27;s list have since become unicorns. Y Combinator is on the cap table of thirteen of this year&#x27;s hundred. Via Sifted.
-
-Second, a take private to watch. Bumble is reportedly in advanced talks to be bought by Ithaca Holdings at about one billion dollars, well above its market value of three hundred and eighty nine million before the report, as paying users and younger audiences drift away. Via TLDR.
-
-Third, a pricing puzzle. Monzo, valued at five point nine billion dollars, trades at about three times revenue, while Revolut&#x27;s latest share sale values it near nineteen times revenue. Same sector, very different multiples. Via TLDR.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics.
-
-A study commissioned by a United States technology industry group says European cloud sovereignty rules could cost the continent one hundred and fifteen billion euros over a decade. Treat the number carefully, since it is a modelled scenario from an interested party, but expect it to feature in Brussels debates about digital independence, and in any conversation with enterprise buyers weighing where to host their data. Via TLDR.
-
-Now, over to community, events and marketing.
-
-Section five, one idea worth stealing.
-
-From Fukuoka Now, the format itself. Their roundtable is timed to a live local issue, the mayoral election, and opens with one simple question: what is one thing you would change? Two short openers, a moderator, a reception beforehand, and room for the audience. If you run events, topical timing and a single easy question beat a long programme. And a second, from Skift&#x27;s meetings desk: Timeleft charges nineteen ninety nine a month to seat strangers at dinner, and keeps names private until the night, with conversation prompts built in. Design the introduction, not just the venue. Via Skift.
-
-Now, one last thing.
-
-Section six, one interesting thing. Why Is This Interesting looks at bibliotherapy, a word coined in nineteen sixteen. In the First World War, librarians wheeled book carts into military hospitals, and one British scholar drew up a fever chart of prescribed reading. For soldiers with shell shock, one prescription was Jane Austen: not a book explaining trauma, but a story about the ordinary complications of being human. The suggestion is that information is not the same as consolation. Via Why Is This Interesting.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-16.mp3</guid>
-    <pubDate>Fri, 16 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-16.mp3" length="2003904" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
