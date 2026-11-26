@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Friday, 27 November</title>
+    <description>Good morning, and welcome to Byte-sized for Friday the twenty-seventh of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+No Japan-specific story came through overnight, with American newsletters quiet for Thanksgiving, so this section looks across the wider region.
+
+First, Washington closes the remote-access loophole. The latest episode of the Trade Guys podcast from the Center for Strategic and International Studies looks at new American export controls aimed at China&#x27;s access to advanced computing power, this time targeting remote access rather than shipping the chips themselves. The idea is to stop Chinese firms renting frontier compute in overseas data centres when they can no longer buy the hardware outright. The hosts also review President Trump&#x27;s trip to the ASEAN and APEC summits and where trade talks with Canada stand. For anyone in Tokyo working with cloud or semiconductor partners, the takeaway is that compliance now covers who uses the chips as well as where they are shipped. Via C S I S, The Trade Guys.
+
+Second, India&#x27;s states compete for chips and A I. The C S I S India States Weekly shows how much of India&#x27;s industrial policy now happens below the national level. Andhra Pradesh has amended its semiconductor policy so that it will match one hundred per cent of the central government&#x27;s capital support for silicon fabs, display fabs and chip packaging, which in effect doubles the subsidy on offer. Goa has approved an A I policy that splits its budget sixty per cent to skills, twenty per cent to start-up support and twenty per cent to infrastructure. And Himachal Pradesh has passed an investment bill requiring industries in the state to reserve eighty per cent of jobs for local people, a reminder that incentives can arrive with strings attached. Via C S I S India States Weekly.
+
+Third, China&#x27;s nuclear worry about A I. A New York Times report, flagged in the C S I S nuclear policy briefing, finds that Chinese military researchers studying A I are increasingly anxious that the technology could make their own nuclear forces more vulnerable. Better sensing and data fusion could make mobile missiles and submarines easier to find, which feeds fears of a nuclear checkmate. That anxiety matters for regional stability, because a side that fears losing its second-strike capability has reasons to expand its arsenal or keep it on a hair trigger. Via C S I S Project on Nuclear Issues.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, Anthropic may be testing its next model, and its chief executive is fighting a story. Outputs circulating online suggest Anthropic is quietly A B testing a model called Claude Opus five point six, with some users calling it a big jump over the current version. Separately, chief executive Dario Amodei has called an Axios report &quot;absurd&quot;. The report linked some staff to the idea of letting superintelligent A I make certain decisions for humanity. Amodei says handing governance to A I would be a terrible idea, like trading democracy for the speed autocrats promise, and accuses rivals of positioning on human control based on vibes. Via T L D R A I and The Rundown A I.
+
+Second, OpenAI pilots private inference. OpenAI is testing a feature called Private Inference with a small group of customers. Sam Altman says it combines zero data retention with automated safety processing, so safety checks still run but OpenAI staff cannot see the underlying content. Enterprise buyers in regulated sectors have been asking for exactly that, so this is aimed at banks, hospitals and government. Via T L D R A I.
+
+Third, your next customer may be an agent. The cloud host Fly dot io says at least fifty-five per cent of its deployments now come from A I agents rather than people. It has redesigned sign-up around them: a human confirms by email, the agent&#x27;s credentials expire after twenty-four hours and cannot touch billing, and when an agent wants to buy credit, a human approves it in Stripe&#x27;s Link app after reading the agent&#x27;s stated reason. A related study by Notra of nearly five thousand A I answers found that different assistants cite very different sources when buyers compare software, so being visible to agents is becoming its own marketing problem. Via T L D R Founders.
+
+Fourth, a bad week for developer accounts. Attackers took over a 1Password employee&#x27;s corporate GitHub account and pushed malicious code to backend services, pulling names, email addresses and recovery tokens for some users, as well as source code. 1Password stresses that customer vaults were never exposed, and it has lengthened its emailed verification codes from six digits to ten characters. Todoist was hit in a similar way, with stolen version-control credentials leading to email addresses and password hashes for about six per cent of users. The lesson for any company is to look hard at how much production access a single employee&#x27;s GitHub login really has. Via T L D R Information Security.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, Stripe heads past two hundred billion dollars. Stripe is discussing a new employee tender offer that would value the payments company at more than two hundred billion dollars, closing early next year. The annual programme lets staff sell shares without Stripe going public, and every round makes a listing look less necessary. Elsewhere in payments, Adyen&#x27;s co-founder Pieter van der Does will retire as co-chief executive at the end of the year, leaving Ingo Uytdehaage in sole charge. Via T L D R Fintech.
+
+Second, the bar for funding keeps rising. Analysis from SaaStr finds that the A I companies under ten million dollars in revenue that top growth funds are backing have a median growth rate of nine hundred per cent a year. Tripling revenue used to be enough to win a term sheet; now only around one in ten investors still backs that kind of plan. The advice is to build a much longer investor list and price the round modestly. And with Thanksgiving here, another piece argues the autumn fundraising window has closed: close a signed term sheet before Christmas, lock in soft-circled angels now, and otherwise restart in January. Via T L D R Founders.
+
+Third, Creandum&#x27;s record fund is smaller than it looks. The Stockholm firm that co-led Spotify&#x27;s Series A has closed its eighth fund at seven hundred and fifty million dollars, its largest in twenty-three years. Its founder, Staffan Helgesson, argues for what he calls venture inflation: ordinary inflation plus rising company prices comes to roughly ten per cent a year, so in today&#x27;s money the new fund is about the same size as the one it raised in twenty twenty-two. He now spends more than half his time in San Francisco and says the firm backs the team before the idea. In other European news, Monzo co-founder Tom Blomfield has reportedly left Anthropic less than six months after joining. Via The V C Corner and Sifted.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, Europe&#x27;s Quantum Act arrives without a price tag. The European Commission has unveiled its first proposal for a Quantum Act, naming quantum a critical technology alongside A I, chips and cloud, with promises of funding, public procurement and infrastructure. The catch is that there is no budget for the sector. Instead it proposes a Sovereign Tech Equity Fund to make large equity investments in strategic technologies, with the Financial Times reporting up to fifty billion euros, though the text names no figure. The industry&#x27;s verdict, as one consortium head put it, is that the method is right but the means are not there yet. Via Sifted.
+
+Second, cyber sabotage reaches the supermarket. French intelligence links an Iranian Revolutionary Guard hacking unit to attacks in October that raised temperatures in supermarket refrigeration systems across France, destroying millions of euros&#x27; worth of food. Similar attacks hit supermarkets in ten other European countries, and France is seeking arrest warrants for three Iranians, while Iran denies involvement. Separately, Microsoft warns that an open-source A I hacking framework called ARTEX has been adopted by state-backed groups, including the Chinese group known as Salt Typhoon, and can take an intrusion from reconnaissance to full access in minutes. For anyone advising on resilience, connected building systems are now part of the threat picture. Via T L D R Information Security.
+
+Third, briefly, nuclear weapons in space. Two new analyses, from Scientific American and the Foreign Policy Research Institute, examine reports that Moscow is considering putting a nuclear weapon in orbit despite the Outer Space Treaty. The researchers argue the West should focus on deterring the move and on making its own satellites more resilient, so the threat gives Russia less leverage. Via C S I S Project on Nuclear Issues.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing: make the wait part of the event. Scan Club argues that queuing has quietly become a social ritual, a kind of third space where strangers stand together, share the hype and talk. A line also signals value, because people assume something is good if others will wait for it. Pathé ran a stunt in a Dutch cinema in this spirit: thirty people watched Interstellar after a hypnotist promised to help them forget it, so they could see it again as if for the first time. For event organisers, the practical move is to design the arrival, with something to see, someone to meet and a reason to talk, rather than treating the queue as dead time. Just make sure, as Scan Club puts it, there really is something good at the end. Via Scan Club.
+
+A second idea: small rooms beat big ones. Creandum&#x27;s Staffan Helgesson says much of the firm&#x27;s deal flow comes from small, curated dinners, because with the right dozen people in the room, founders meet peers like themselves, and that effect fades at a big event. If you run a community, a handful of carefully matched dinners may do more than one large mixer. Via The V C Corner.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Tyler Cowen at Marginal Revolution highlights a new paper that tracks stablecoins wallet by wallet from twenty twenty to twenty twenty-five. Stablecoins now move more value on-chain than Bitcoin despite a much smaller supply, and their transactions have shifted toward small, everyday payments. Smart contracts are involved in about a third of Ethereum stablecoin transactions and more than two thirds of the value, and some protocols already allow machines to pay each other fractions of a cent. The authors conclude that stablecoins now behave like tokenised money, which fits Deel this week launching a stablecoin spending card for contractors across twenty-six countries.
+
+That&#x27;s all for today. Thanks for listening to Byte-sized, and have a good Friday.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-27.mp3</guid>
+    <pubDate>Fri, 27 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-27.mp3" length="4117248" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Thursday, 26 November</title>
     <description>Good morning, and welcome to Byte-sized for Thursday the twenty-sixth of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1917,68 +1983,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-20.mp3</guid>
     <pubDate>Tue, 20 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-20.mp3" length="3075840" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Monday, 19 October</title>
-    <description>Good morning, and welcome to Byte-sized for Monday, the nineteenth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
-
-Section one, Japan and Asia Pacific.
-
-First, a rough week for the chip makers of East Asia. Tokyo Electron, Japan&#x27;s chipmaking equipment giant, fell seven point two per cent in a single day. The trigger was news that China&#x27;s memory underdog, CXMT, has made progress on a new type of high density memory chip and has now captured around ten per cent of the global market. That leaves Japanese and Korean hardware firms feeling sandwiched between squeezed Western buyers on one side and rising Chinese suppliers on the other. SoftBank also dropped about nine per cent on its wider exposure to artificial intelligence investments. For balance, Tokyo Electron is still up around forty per cent this year. Via International Intrigue.
-
-Second, Indonesia. The index provider MSCI says it is considering moving Indonesia&#x27;s stock market from emerging to standalone status, which would remove it from the main global indices. Jakarta&#x27;s benchmark fell eleven per cent in one day, its worst in decades, and is down forty per cent since January. MSCI points to opaque ownership, concentrated insider holdings and weak enforcement, a heavy blow to a government that promised eight per cent growth on foreign investment. Via International Intrigue.
-
-Third, Cambodia&#x27;s scam centres, where Japan has a seat at the table. A CSIS commentary asks whether the clean up is working. Cambodia passed its first anti-scam law in April, says it has shut more than two hundred centres, and has released some two hundred thousand people. It declared victory in August. But Amnesty International reports that more than seventy per cent of the compounds it identified appear to have been ignored, and that some were warned in advance and moved. Scams are estimated to make up between forty and sixty per cent of the country&#x27;s economy, which is why elite networks are so hard to touch. September&#x27;s Phnom Penh Declaration was backed by the United States, China, Japan and every ASEAN state except Thailand. The test now is whether the elites behind the compounds are ever investigated. Via CSIS.
-
-Fourth, a number from CSIS to keep in your pocket: North Korea&#x27;s overseas labour programme now covers more than one hundred thousand workers in at least seventeen countries, earning the state between four hundred and fifty and eight hundred million dollars a year. And Intrigue notes that the long delayed New Yalu River Bridge between North Korea and China has finally opened, after twelve years. Via CSIS and International Intrigue.
-
-Now, over to artificial intelligence and technology.
-
-Section two, AI and tech.
-
-First, who is actually paying for AI. Ramp&#x27;s October index finds that just one per cent of firms account for eighty per cent of spending on OpenAI and Anthropic. September spending per employee was three point one per cent below its July peak, even as total token volumes rose, and the index suggests falling model prices are the reason. A related note: five frontier models now score within five points of each other on one intelligence benchmark, yet the cost of finishing the same tasks differs by three point eight times. The practical lesson is to test your own real requests across candidate models before choosing a default. Via TLDR.
-
-Second, ASML cannot keep up. It sold one hundred and thirteen lithography systems in the third quarter, up from eighty six, for record sales of eleven point seven billion euros. It now expects supply in both 2027 and 2028 to fall short of demand, even after a planned thirty per cent capacity boost, and some customers want to place orders for 2029 and 2030. Via TLDR.
-
-Third, the other side of the boom: debt. Intrigue walks through a tech sell-off. CoreWeave, the rental landlord of AI computing power, has borrowed around fifty billion dollars, and bonds it issued in June at nine point six per cent are now being priced to yield fifteen. Oracle fell nine per cent in a day. The International Monetary Fund notes that AI hyperscalers now issue ten per cent of all new investment grade corporate bonds, up from one per cent two years ago. Yet TSMC posted a record quarterly profit of twenty three point six billion dollars. The old gold rush line applies: the seller of pickaxes tends to be the last to suffer. Via International Intrigue.
-
-Fourth, travel meets agents. Booking Holdings has launched Vayo, an AI travel agent that organises bookings from a user&#x27;s inbox and watches trips for savings and disruption, including reservations made outside Booking&#x27;s own brands. The company plans to invest one hundred million dollars. Via PhocusWire.
-
-Now, over to startups and venture.
-
-Section three, startups and venture.
-
-First, cybersecurity funding. Crunchbase counts six point eight billion dollars invested in the third quarter, up fifty per cent on the previous quarter and driven by larger rounds. Keyfactor raised one billion, Cyera four hundred million, and Visa agreed to buy BioCatch for two point four billion. Via TLDR.
-
-Second, a warning for investors in defence technology. Sifted reports that European investors see fuzzy revenue reporting in the sector, with confusion between bookings and recognised revenue. One investor was shown revenue that came from a veterans&#x27; association, and another is often shown grant funding presented as defence sales. Classified contracts make checking harder still. The advice from one investor: accounting is accounting. Via Sifted.
-
-Third, state money for deep tech. The British Business Bank has put one hundred and eighty million pounds into six AI and deep tech venture funds, including Entrepreneurs First. Its chief investment officer says the country&#x27;s funding landscape does not match its technical excellence. Meanwhile Nvidia has spoken of two billion dollars of new investment across Europe. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics.
-
-Two items worth having ready for conversations with government or enterprise people. First, the United States has proposed four hundred and twenty nine million dollars for conventional bunker busting weapons in its next defence budget, against an average of one hundred and twenty three million over the past ten years, as stocks of weapons for deeply buried targets run thin, according to CSIS. Second, Ukraine says SpaceX has capped the speed of military satellite terminals mounted on drones, with no warning, causing missions to be cancelled. Officials suspect it is deliberate, and a Ukrainian firm is developing an alternative. It is a vivid reminder of what depending on a private provider means. Via CSIS and TLDR.
-
-Third, the Pacific. New Zealand is sending a six month team to help Fiji overhaul its security agencies, after Washington warned that China linked hackers had gained access to a regional organisation based in Suva. The United States has not named the target, though speculation points to the Pacific Islands Forum secretariat, which denies it. Intrigue reads it as Washington stepping up counter intelligence in a region where Beijing and Taipei are competing for recognition, and where Japan is also an active partner. Via International Intrigue.
-
-Now, over to community, events and marketing.
-
-Section five, one idea worth stealing.
-
-From Priya Parker, a tool for community builders. Before you react to a group conflict, ask what kind of fight it is. She plots two things: how intense it is, and how much it touches the question of who we are as a group. Low on both is a kerfuffle. High intensity but low identity is a brawl. Quiet but existential is a hairline fracture. Loud and existential is a rift. Her example is a lesbian bar in Massachusetts that dropped its mask rule on Saturday nights to raise revenue. The owners saw a business decision, but members saw a betrayal of the bar&#x27;s purpose. Spot the identity question early and you can answer it properly.
-
-And one for marketers, from a TLDR piece on the app Cal AI. It paid fitness creators thousands of dollars to post and saw no spike in downloads, because viewers were not the right audience. It now reads the comments for people asking for help the app provides, and caps what it pays per thousand views at what those views earn. Check the comments for customers before paying for reach. Via TLDR.
-
-Now, one last thing.
-
-Section six, one interesting thing. Works in Progress, by Charles Mann, asks what on earth is Dekton, the new surface on his induction cooktop. The answer is porcelain. It is one of humanity&#x27;s oldest high technologies, first made over three thousand years ago in China, and one of its newest. Europeans spent centuries failing to copy it, until an alchemist locked in a fortress attic and a mathematician finally got there in seventeen oh eight. Today, a slab pressed under twenty five thousand tonnes is nearly unbreakable, and porcelain scaffolds are even used to grow replacement bone. His son has never known a world that was not made of porcelain. Via Works in Progress.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-19.mp3</guid>
-    <pubDate>Mon, 19 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-19.mp3" length="3535488" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
