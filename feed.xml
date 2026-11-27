@@ -7,6 +7,72 @@
   <description>Ana's daily newsletter digest</description>
   <itunes:author>Ana</itunes:author>
   <item>
+    <title>Byte-sized — Saturday, 28 November</title>
+    <description>Good morning, and welcome to Byte-sized for Saturday the twenty-eighth of November. Six sections today, starting as always in Japan and the Asia Pacific.
+
+Section one, Japan and Asia Pacific.
+
+No Japan-specific story came through again, with American newsletters still quiet after Thanksgiving, so this section looks across the wider region.
+
+First, Nvidia pauses server shipments to Southeast Asia. Nvidia has told manufacturing partners including Dell and Super Micro to temporarily stop shipping servers to Malaysia, Singapore, Thailand and Indonesia while it checks whether regional partners are complying with American export rules. The pause follows the Commerce Department&#x27;s new rule on remote access, which targets Chinese firms renting Nvidia chips in data centres across those countries. Separately, a CBS News investigation found that two California companies buying Nvidia&#x27;s most advanced chips are in fact Chinese-owned, and that some of their sales went to Southeast Asian firms tied to Chinese tech groups, which may prompt a Senate inquiry. For anyone in Tokyo planning cloud or data-centre capacity in the region, expect delays and much tougher customer checks. Via T L D R I T and T L D R Hardware.
+
+Second, the chip squeeze is slowing China&#x27;s top A I labs. Reuters reports that American curbs on chip access and on distillation, the practice of training a model on another model&#x27;s outputs, are delaying China&#x27;s leading labs. Zhipu A I had planned to launch a flagship model of around three trillion parameters this month, but tighter safeguards at OpenAI and Anthropic have partly held it up. Moonshot, the maker of the Kimi models, may see its next flagship slip to the middle of twenty twenty-seven, and is now looking for compute in Europe and from local chipmakers. China has been the main source of strong, free open-weight models, so if this holds, developers across Asia may find that supply thinning just as demand grows. Via The Rundown A I.
+
+Third, a breach at a Korean crypto exchange. South Korea&#x27;s Bithumb has disclosed that attackers sat inside its office collaboration system for fifteen days before being spotted, taking passport numbers, resident registration numbers, driving licence numbers, bank details and transaction histories. It is a reminder that the soft target is often the internal groupware rather than the trading platform itself. Via T L D R Information Security.
+
+Fourth, India&#x27;s quiet catch-up. Alex Tabarrok at Marginal Revolution points out that India&#x27;s income per person, adjusted for prices, passed ten thousand dollars in twenty twenty-five, nearly five times its level in nineteen ninety and roughly where China stood at the end of two thousand and nine. India is now growing faster than China, and extreme poverty has fallen from almost half the population in the early nineteen nineties to under three per cent. Electricity now reaches almost every household. His wider point is that none of the world&#x27;s nine most populous countries is still classed as low-income, so the old link between big and poor is over. Via Marginal Revolution.
+
+Now, over to A I and tech.
+
+Section two, A I and tech.
+
+First, the Riemann Hypothesis may have fallen to a human working with Claude. Not Boring reports that Anthropic mathematician Levent Alpöge has released a formal, machine-checked proof of the Riemann Hypothesis, the hundred-and-sixty-seven-year-old problem at the heart of number theory, and of a more general version too. He built it over six weeks with an unreleased version of Claude, and the Lean proof community certified it within a day after running it through several independent checkers. The catch is that the proof runs to around seventeen million lines of code, with no written paper, so no human can yet read it, which is a new situation for mathematics: the result is verified before anyone understands it. Via Not Boring.
+
+Second, A I takes on quantum gravity. Stanford physicist Venkatesa Chandrasekaran, who also works with OpenAI, has published an eighty-three-page preprint proposing a quantum theory of gravity, saying GPT six Astra helped with many of its calculations and proofs over several months. It covers only empty space, not matter, but it claims to avoid the infinities that break standard approaches while matching known results on black holes. Sam Altman praised it, while other physicists were sceptical, one calling it a publicity stunt. Treat it as an interesting unreviewed paper for now. Via The Rundown A I and Not Boring.
+
+Third, OpenAI may be watching its costs. Testing by outside analysts suggests OpenAI&#x27;s latest Astra and Sol updates use noticeably fewer reasoning and output tokens than earlier versions, which looks like a shift towards cost savings over raw performance. OpenAI has also corrected a billing error that undercounted usage, so users will now hit their limits forty per cent sooner on Astra and twenty-five per cent sooner on Sol. Data from OpenRouter points the same way: paid token volume grew forty-four times this year but spending only about seven and a half times, and enterprises look especially cost-conscious. If you budget for A I tools, expect prices per task to keep falling but usage caps to tighten. Via T L D R A I, The Rundown A I and T L D R Founders.
+
+Fourth, data centres in orbit, and strain on the ground. America&#x27;s Federal Communications Commission has authorised SpaceX to launch up to one million solar-powered satellites as orbital A I data centres, with a hundred thousand due within about ten years. The million is a regulatory ceiling rather than a promised fleet, and the bet rests on Starship pushing launch costs down. Back on Earth, the North American grid regulator has issued its first rules for data centres of fifty megawatts or more, after facilities in Northern Virginia drawing three point eight gigawatts dropped onto backup power at once in July. A I training makes this worse because thousands of chips pulse between full power and idle together. Via T L D R Hardware and The Rundown A I.
+
+Now, over to startups and venture.
+
+Section three, startups and venture.
+
+First, Europe&#x27;s founder boom, and the missing money. Atomico&#x27;s annual State of European Tech report finds that a record forty thousand people started tech companies in Europe this year, eighty per cent more than two years ago, and for the first time more than in the United States. Investment is projected at eighty-one billion dollars, up sixty-two per cent. But thirteen rounds of a billion dollars or more account for over a third of that, so outside the giants the market is roughly flat, and the number of first rounds into new companies has fallen almost thirty per cent since twenty twenty-one. The report also notes that Europe&#x27;s pension funds manage thirteen trillion dollars yet put a tiny fraction of a per cent into European venture each year. Via The V C Corner.
+
+Second, welcome to venture feudalism. Sifted reports that with little cash coming back to investors, the funds that back venture firms are concentrating on a handful of big names. In the first half of this year, nineteen funds took sixty-five per cent of all capital raised in European venture, and in the United States just three firms raised almost half. One investor said capitalism in venture increasingly feels like feudalism, because a few firms decide which companies get anointed as winners. Sifted also asks whether Europe&#x27;s new wave of richly valued A I research labs can ever make money, especially with Anthropic&#x27;s shares having a rocky start after its record listing last week. Via Sifted.
+
+Third, the big rounds keep coming. The A I voice company ElevenLabs is reportedly in early talks to raise money at a thirty-three billion dollar valuation. And the operator-led firm Plural has closed a one billion euro fund, double its last one, without planning to back more companies. Its partner Sten Tamkivi says sixty per cent of its founders are repeat founders, which pushes round sizes up, and he rejects the idea that Europe missed the A I wave. Via Sifted.
+
+Now, over to policy and geopolitics.
+
+Section four, policy and geopolitics.
+
+First, Iran and North Korea step up cyber pressure. American officials suspect Iranian hackers carried out up to fifty attacks in recent weeks on tankers carrying oil, liquefied gas and chemicals across Asia and Europe, after this week&#x27;s reports of attacks on supermarket refrigeration in Europe. Separately, a North Korean campaign has used stolen GitHub tokens to slip malicious code into more than seven and a half thousand software repositories, rewriting commits developers had already made so that simply opening the project runs the code. For shipping, energy and any company that relies on open-source software, both stories point the same way: state-backed groups are going after supply chains rather than single targets. Via T L D R Information Security.
+
+Second, Europe hesitates on Tesla&#x27;s driver assistance. The European Union has again delayed a vote on bloc-wide approval of Tesla&#x27;s supervised driver-assistance system. About twelve countries have approved it nationally, but European approval needs fifteen of the twenty-seven member states representing sixty-five per cent of the population, and a rejection would cancel the national approvals already granted. It is a useful example of how European tech rules often turn on member-state politics rather than on the technology itself. Via T L D R Hardware.
+
+Now, over to community, events and marketing.
+
+Section five, community, events and marketing.
+
+One idea worth stealing: make the tool interview you. Rowan at The Rundown says the simplest way to get better answers from an A I assistant is to add one line before any important request: ask me five questions before you answer. Generic answers usually come from the model guessing at your situation, and this makes it tell you what it is missing. To make it quick, answer by voice and just talk for a minute. The same trick works for event briefs, speaker prep and community surveys. Via The Rundown A I.
+
+A second idea: test by hand before you scale. The founder of an outbound sales agency, quoted in T L D R Founders, tries every new target list and email sequence by hand on about twenty-five similar accounts before letting any automation near it, and each week picks around twenty high-signal accounts to approach personally. Only the steps that repeat exactly get turned into fixed workflows. For anyone running community or partnership outreach, the lesson is to earn the right to automate. Via T L D R Founders.
+
+Now, over to one interesting thing.
+
+Section six, one interesting thing.
+
+Why Is This Interesting carries a note from Graydon Gordian, who grew up in Austin and knows his Mexican food, about the best meal he had all year, which turned out to be at a Mexican restaurant in Copenhagen. Sanchez is run by Rosio Sanchez, who grew up on Chicago&#x27;s South Side and trained at Noma, and he admits he only went because several friends insisted. The meal made him ask what we are really doing when we travel: looking for local culture, or for world-class experiences wherever they happen to land. His answer is that the unexpected is the reason to go in the first place.
+
+That&#x27;s all for today. Thanks for listening to Byte-sized, and have a good Saturday.
+</description>
+    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-28.mp3</guid>
+    <pubDate>Sat, 28 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-11-28.mp3" length="4189248" type="audio/mpeg"/>
+  </item>
+  <item>
     <title>Byte-sized — Friday, 27 November</title>
     <description>Good morning, and welcome to Byte-sized for Friday the twenty-seventh of November. Six sections today, starting as always in Japan and the Asia Pacific.
 
@@ -1923,66 +1989,6 @@ That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
     <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-22.mp3</guid>
     <pubDate>Thu, 22 Oct 2026 06:00:00 +0900</pubDate>
     <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-22.mp3" length="3234672" type="audio/mpeg"/>
-  </item>
-  <item>
-    <title>Byte-sized — Tuesday, 20 October</title>
-    <description>Good morning, and welcome to Byte-sized for Tuesday, the twentieth of October. Six sections today, and we begin, as ever, in Japan and the Asia Pacific.
-
-Section one, Japan and Asia Pacific.
-
-First, Japan is going to Mars, or at least to its moons. The Japanese space agency, JAXA, is set to launch its Martian Moons eXploration mission around now, aiming to reach Phobos, collect a sample from the surface, and bring it back to Earth by twenty thirty one. The mission leans on American, French and German technology for parts of the build, which makes it a quiet showcase for Tokyo&#x27;s role as a trusted partner in the deep space race. It also tests whether Phobos could serve as a low gravity staging post for future journeys to Mars. Via International Intrigue.
-
-Second, a number that says a lot about the media business. For the first time since the Japan Press Research Institute began its survey in two thousand and eight, fewer than half of people in Japan, forty nine point eight per cent, now pay for a monthly newspaper subscription. For anyone building or investing in media, content or subscription products in Japan, the traditional habit is clearly weakening. Via International Intrigue.
-
-Third, a follow-up on the Asian chip story we covered yesterday. China&#x27;s memory maker CXMT now expects a nine month net profit of around nineteen point seven billion US dollars, against a small loss a year earlier, with revenue jumping from roughly four and a half billion dollars to nearly thirty eight billion. The company credits AI driven shortages of memory chips and expanded capacity. Two cautions: the claim that it has fifth generation memory in mass production has not been independently verified, and memory booms have a habit of ending when new capacity floods the market. Still, it explains why Japanese and Korean equipment makers are nervous. Via T L D R.
-
-Now, over to AI and tech.
-
-Section two, AI and tech.
-
-First, Microsoft reportedly plans to pay Anthropic more than two billion dollars a year to use Claude models inside its Copilot assistant. The reason appears to be performance pressure from customers on tasks such as financial automation and presentations. Microsoft is also running an internal router that sends some workloads to OpenAI models, so this looks less like a switch and more like a portfolio approach to suppliers. Via T L D R.
-
-Second, Anthropic has announced a Public Benefit Fund, a company owned entity that would receive five per cent of its equity if shareholders agree, with more added as the company&#x27;s value climbs. The fund could support nonprofits or make direct payments to groups affected by AI, such as displaced workers, with no money going to lobbying or politics. Together with founder and employee pledges, the company says about a fifth of its equity is now set aside for public benefit. The Rundown notes that until money actually reaches people, it will be hard to tell this apart from good public relations. Via The Rundown AI.
-
-Third, the same company has published research on its own workforce, and the findings are striking. By August, hours worked by employees&#x27; AI agents outnumbered the hours of the humans by six to one. Junior staff fell from twenty seven per cent of technical hires to just nine per cent, and engineers are shipping about five times as many code changes as six months ago. Agents sit idle roughly eighty per cent of the time waiting for a person to respond, so human attention has become the bottleneck. Via The Rundown AI.
-
-Fourth, in hardware, Intel and Qualcomm are reportedly bidding up to ten billion dollars for the chip start-up Tenstorrent. Its chips cost around a thousand dollars and run a compact number format natively, where GPUs with native support list near forty thousand. Those cost figures come from vendors and are unverified, and no deal has closed, but it shows how hard the big chip makers are chasing alternatives to Nvidia. Via T L D R.
-
-Now, over to start-ups and venture.
-
-Section three, start-ups and venture.
-
-First, the payments firm Ramp has raised one point eight five billion dollars at a sixty billion dollar valuation, up from forty four billion only four months ago. Annualised revenue has passed two billion dollars, and it is moving beyond expense management into payments, accounting, procurement and AI infrastructure, including cards designed for AI agents. Via T L D R.
-
-Second, agents buying things is becoming real. Stripe&#x27;s president says agent driven commerce on its platform went vertical in September, helped by agents that can now use ordinary websites without special integrations. American Express has promised to cover cardholder losses when a registered agent makes a purchase error, though the fine print matters, and Mercury now lets agents prepare payments, with a human approving the final transfer. Liability and authorisation are the open questions to watch. Via T L D R.
-
-Third, Europe. Nvidia&#x27;s Jensen Huang has been touring Paris and London, teasing around two billion dollars in new European investments, including French firms Doctolib and Pigment and five British start-ups. Nvidia says it has put eight billion dollars into European start-ups in the past year. Sifted also reports that Accel is set to lead a sixty million dollar round for Revolution Labs, founded by the former DeepMind researcher Nando de Freitas. Via Sifted.
-
-Now, over to policy and geopolitics.
-
-Section four, policy and geopolitics.
-
-First, a possible summit with Asia at its centre. International Intrigue reports that Vladimir Putin has proposed a meeting with Donald Trump and Xi Jinping on the sidelines of the APEC summit in Shenzhen, on the eighteenth and nineteenth of November, to discuss ending the war in Ukraine, with Ukraine not invited. The newsletter&#x27;s reading is that Xi may enjoy the role of mediator but is also comfortable with a distracted America. Meanwhile, Trump quietly exempted Russia from new sanctions late on Friday, saying it was to protect peace talks. Worth knowing before any conversation about Asia Pacific diplomacy. Via International Intrigue.
-
-Second, the United Kingdom is drawing up plans for mandatory safety reporting by frontier AI companies, as the government seeks more oversight of powerful models. Alongside that, Sifted looks at Europe&#x27;s enthusiasm for open weight models as a route to sovereignty, and the risk that safety guardrails can be stripped out. Supporters argue openness is an accountability guarantee, since anyone can inspect and test the models. Via Sifted.
-
-Third, a practical point for founders: Sifted asks why governments are so hard to sell to. Procurement can leave fast-moving start-ups waiting years for contracts, and Britain&#x27;s Sovereign AI Fund is trying to make the state an easier customer. Via Sifted.
-
-Now, over to community, events and marketing.
-
-Section five, community, events and marketing. One idea worth stealing.
-
-The community platform company Bevy&#x27;s C M X network is running a circuit tour of small in-person meetups, and nearly one hundred community professionals have joined across its first six stops this autumn. The formats are modest and easy to copy: a casual morning of coffee and a neighbourhood walk in Los Angeles, a brewery evening with shuffleboard in Boston, and pizza and practical conversation in Nashville. The lesson is to launch a chapter city by city with a relaxed, low cost format rather than a big conference. Also, nominations for its community awards close on the twentieth of November. Via C M X Newsletter.
-
-Finally, section six, one interesting thing.
-
-In Why Is This Interesting&#x27;s Monday media diet, the hotelier Marc Blazer shares an idea from the philosopher Bernard Suits. Play, in Suits&#x27; words, is voluntarily taking on unnecessary obstacles in order to enjoy overcoming them. Blazer&#x27;s point is that we spend so much effort removing friction from life that we forget many of our greatest joys come from it, which is why he restores old cars rather than buying a new one. Via Why Is This Interesting.
-
-That&#x27;s Byte-sized for today. Thanks for listening, and see you tomorrow.
-</description>
-    <guid>https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-20.mp3</guid>
-    <pubDate>Tue, 20 Oct 2026 06:00:00 +0900</pubDate>
-    <enclosure url="https://tassana-hub.github.io/claude-byte-sized-podcast/episodes/2026-10-20.mp3" length="3075840" type="audio/mpeg"/>
   </item>
 </channel>
 </rss>
